@@ -1,0 +1,50 @@
+{
+  "review_date": "2026-10-21",
+  "evidence_custody": "PRIVATE / NOT PUBLISHED; original images retained outside staging in owner authorization-records directory",
+  "raw_screenshots_copied": false,
+  "mmd": {
+    "status": "CONFIRMED FOR DESCRIBED USE",
+    "permission_label": "MODEL_MODIFIER_PERMISSION",
+    "counterparty_display_name": "观海子",
+    "role": "Contacted model modifier, credited as 观海; not miHoYo legal department",
+    "channel": "Bilibili private message",
+    "reply": "可以的",
+    "reply_date": "2026-10-21",
+    "displayed_time": "今天19:45",
+    "date_basis": "Owner-supplied date, Today label and same-day file metadata; full calendar date not printed in screenshot crop",
+    "described_use": "Personal noncommercial Unity/VR/AI research with conversation/avatar actions; record demo for GitHub employment portfolio; no model/texture upload; source/author attribution",
+    "limits": [
+      "Applies to the described request, not unrestricted commercial use or asset redistribution",
+      "Existing original model terms remain applicable",
+      "Not a miHoYo official legal authorization"
+    ],
+    "private_evidence_label": "mmd.png",
+    "sha256": "8d96241d635c795bb057e668ba71b7b8fde6f64d2cad66db25b1d9f11b8e1e97",
+    "identity_basis": "Visible DM name matches previously verified modifier public contact; owner identifies recipient; numeric account UID not visible in crop"
+  },
+  "roxy": {
+    "status": "CONFIRMED FOR DESCRIBED USE",
+    "permission_label": "ROXY3_PUBLISHER_PERMISSION",
+    "counterparty_display_name": "独孤欲雪",
+    "role": "Roxy3 publication uploader/model-sharing publisher, not original performer",
+    "channel": "Bilibili private message",
+    "reply": "善",
+    "reply_date": "2026-10-21",
+    "displayed_time": "今天20:48",
+    "date_basis": "Owner-supplied date, Today label and same-day file metadata; full calendar date not printed in screenshot crop",
+    "interpretation": "Brief affirmative reply to the shown authorization request",
+    "described_use": "Use Roxy voice in personal research AI Agent, only publish as GitHub portfolio with source attribution",
+    "limits": [
+      "No expansion to commercial sales, weights/reference/training redistribution or unrestricted sublicensing",
+      "Retain publisher credit and original publication link",
+      "No original-performer participation/endorsement claim",
+      "No independent clearance of all source performance/animation rights",
+      "No reupload of original Bilibili publication video"
+    ],
+    "private_evidence_label": "roxy.png",
+    "sha256": "2982a38119799ee801049188382d5c1c5bf1d190e2efa326e37372bcd19bde21",
+    "identity_basis": "Visible DM name matches previously verified video uploader; owner identifies recipient; numeric account UID not visible in crop"
+  },
+  "upstream_voice_rights": "NOT INDEPENDENTLY VERIFIED",
+  "screenshot_policy": "Only public-facing names, short replies, scope/date metadata and hashes extracted; sender identity, avatars and full private message images not published"
+}

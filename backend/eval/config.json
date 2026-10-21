@@ -1,0 +1,12 @@
+{
+  "warn_ratio": 1.2,
+  "fail_ratio": 1.5,
+  "skip_blocks": false,
+  "warn_blocks": false,
+  "default_levels": [
+    "unit",
+    "integration"
+  ],
+  "unity_wait_seconds": 900,
+  "fixture_url": "http://127.0.0.1:8919"
+}

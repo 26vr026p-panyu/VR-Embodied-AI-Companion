@@ -1,0 +1,1457 @@
+[
+  {
+    "destination": "unity/Assets/AgentContextModule/Runtime/AgentStateStore.cs",
+    "source": "unity/Assets/AgentContextModule/Runtime/AgentStateStore.cs",
+    "source_sha256": "21f3f793e200b1d7cedaea5e4c3f442021384a3fdc483d91af4dee45fc22e9c7",
+    "staged_sha256": "662d6fde2aedca3f47833c202a5a8b5331fe90a598d4956ccb4e732a96c82e98",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/AgentContextModule/Runtime/AgentStateStore.cs.meta",
+    "source": "unity/Assets/AgentContextModule/Runtime/AgentStateStore.cs.meta",
+    "source_sha256": "8d0d0e45c9b3f3164d7a604cfa8fde93f458880f8f459033dd10d265197b2699",
+    "staged_sha256": "8d0d0e45c9b3f3164d7a604cfa8fde93f458880f8f459033dd10d265197b2699",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/CompanionBehaviorModule/Runtime/AgentBehaviorAdapter.cs",
+    "source": "unity/Assets/CompanionBehaviorModule/Runtime/AgentBehaviorAdapter.cs",
+    "source_sha256": "bce4e6d7ebf7f69760153e3a11d49e12bb47cc4bd30741515864eda5ff9ff5ff",
+    "staged_sha256": "99bd3082cdb3d570369de70b85e6e19fb8b0bb79d5d6c737860d5ab55517e490",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/CompanionBehaviorModule/Runtime/AgentBehaviorAdapter.cs.meta",
+    "source": "unity/Assets/CompanionBehaviorModule/Runtime/AgentBehaviorAdapter.cs.meta",
+    "source_sha256": "b146cac08c634142fb6c445cc7a8024f74893a330985ce4642ae981b5e6ae681",
+    "staged_sha256": "b146cac08c634142fb6c445cc7a8024f74893a330985ce4642ae981b5e6ae681",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/CompanionBehaviorModule/Runtime/AgentBehaviorProposal.cs",
+    "source": "unity/Assets/CompanionBehaviorModule/Runtime/AgentBehaviorProposal.cs",
+    "source_sha256": "9b4fbfe42d41c6c245144ac8642f7aa14fac03cbf09449ebd73076cc798a358a",
+    "staged_sha256": "aed42c27c59903b4397fb059cde941611b6c75a8524480b88c2362eac09ef93a",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/CompanionBehaviorModule/Runtime/AgentBehaviorProposal.cs.meta",
+    "source": "unity/Assets/CompanionBehaviorModule/Runtime/AgentBehaviorProposal.cs.meta",
+    "source_sha256": "255006ddd9551b6b0191e35fb424ad4467a7f7ea1c06cd49a9b9916ecf01511a",
+    "staged_sha256": "255006ddd9551b6b0191e35fb424ad4467a7f7ea1c06cd49a9b9916ecf01511a",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/CompanionBehaviorModule/Runtime/AgentReplyEnvelope.cs",
+    "source": "unity/Assets/CompanionBehaviorModule/Runtime/AgentReplyEnvelope.cs",
+    "source_sha256": "c916f1fc80b4636c9dd6b677eda77ea782308e8aeffd857bdb6a8afb851ef100",
+    "staged_sha256": "c916f1fc80b4636c9dd6b677eda77ea782308e8aeffd857bdb6a8afb851ef100",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/CompanionBehaviorModule/Runtime/AgentReplyEnvelope.cs.meta",
+    "source": "unity/Assets/CompanionBehaviorModule/Runtime/AgentReplyEnvelope.cs.meta",
+    "source_sha256": "e4b221455c00551488193045cf8bf5f573078029a56ba1b898c6ed19aa334de3",
+    "staged_sha256": "e4b221455c00551488193045cf8bf5f573078029a56ba1b898c6ed19aa334de3",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/CompanionBehaviorModule/Runtime/CompanionBehaviorOrchestrator.cs",
+    "source": "unity/Assets/CompanionBehaviorModule/Runtime/CompanionBehaviorOrchestrator.cs",
+    "source_sha256": "12937b62a67e65c2d5cfb7ea7147b2ccd370aabf8bed31b07b6c8cb1517ae89e",
+    "staged_sha256": "f465fee34b9211a784b3958723f12c8f147997ed3de7b433d86b457f36139211",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/CompanionBehaviorModule/Runtime/CompanionBehaviorOrchestrator.cs.meta",
+    "source": "unity/Assets/CompanionBehaviorModule/Runtime/CompanionBehaviorOrchestrator.cs.meta",
+    "source_sha256": "ea8ca6cc8ea1a4584ffdc764b6b7a6e9828dcda64d7f36adaf0ffee038389c61",
+    "staged_sha256": "ea8ca6cc8ea1a4584ffdc764b6b7a6e9828dcda64d7f36adaf0ffee038389c61",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/CompanionBehaviorModule/Runtime/CompanionBehaviorRequest.cs",
+    "source": "unity/Assets/CompanionBehaviorModule/Runtime/CompanionBehaviorRequest.cs",
+    "source_sha256": "533d790aa4077fa62ed4d7d9d5d4bfb6420bed85de4915e776214fd020e8b218",
+    "staged_sha256": "533d790aa4077fa62ed4d7d9d5d4bfb6420bed85de4915e776214fd020e8b218",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/CompanionBehaviorModule/Runtime/CompanionBehaviorRequest.cs.meta",
+    "source": "unity/Assets/CompanionBehaviorModule/Runtime/CompanionBehaviorRequest.cs.meta",
+    "source_sha256": "f184909d9a0a0a330ada7fee678d9f75c85f64f81152f6a1efae1e2777638794",
+    "staged_sha256": "f184909d9a0a0a330ada7fee678d9f75c85f64f81152f6a1efae1e2777638794",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/CompanionCapabilityModule/Runtime/CapabilityRegistry.cs",
+    "source": "unity/Assets/CompanionCapabilityModule/Runtime/CapabilityRegistry.cs",
+    "source_sha256": "e7e261d1878a98be8aa68ca5ad1fe4f71fa3abef2457e11c48522462c8f830f4",
+    "staged_sha256": "8eeaeea8406e7cf6ecc27ab17336c8e1f1bc790050d9cdcf6ccd663584dcd141",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/CompanionCapabilityModule/Runtime/CapabilityRegistry.cs.meta",
+    "source": "unity/Assets/CompanionCapabilityModule/Runtime/CapabilityRegistry.cs.meta",
+    "source_sha256": "26beb7ffa6b9a6a50aca6a7efb2a6f93b3414824a0910322ca9d69eea1217965",
+    "staged_sha256": "26beb7ffa6b9a6a50aca6a7efb2a6f93b3414824a0910322ca9d69eea1217965",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/CompanionCapabilityModule/Runtime/ToolContracts.cs",
+    "source": "unity/Assets/CompanionCapabilityModule/Runtime/ToolContracts.cs",
+    "source_sha256": "7971bc3ac8792913aeffc41da08af6892bcfbfbd225376b99a5ed7062de6a1d1",
+    "staged_sha256": "a782e66750ff5b56ee467f2fd73850a7d32486306d462781c1f61a1eeeac7fcf",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/CompanionCapabilityModule/Runtime/ToolContracts.cs.meta",
+    "source": "unity/Assets/CompanionCapabilityModule/Runtime/ToolContracts.cs.meta",
+    "source_sha256": "ce3dc298648054403642715451a74cd90b49b308741c4169254f85384e205f32",
+    "staged_sha256": "ce3dc298648054403642715451a74cd90b49b308741c4169254f85384e205f32",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/CompanionCapabilityModule/Runtime/ToolExecutionBridge.cs",
+    "source": "unity/Assets/CompanionCapabilityModule/Runtime/ToolExecutionBridge.cs",
+    "source_sha256": "deb4716ac264929ca22dd9d1f5288344b4730d5253e61e61ff933413985e597f",
+    "staged_sha256": "635ea15a0b5c43dbb4e729d34b3e5e93d89f197f27f68862bdc1bf61b463bb0f",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/CompanionCapabilityModule/Runtime/ToolExecutionBridge.cs.meta",
+    "source": "unity/Assets/CompanionCapabilityModule/Runtime/ToolExecutionBridge.cs.meta",
+    "source_sha256": "55ed2cc60713ddf7b93d5af83477a4e83f9aee23ba44b6da531adc477ac0043f",
+    "staged_sha256": "55ed2cc60713ddf7b93d5af83477a4e83f9aee23ba44b6da531adc477ac0043f",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/ExerciseAgent/Scripts/AgentStreamDownloadHandler.cs",
+    "source": "unity/Assets/ExerciseAgent/Scripts/AgentStreamDownloadHandler.cs",
+    "source_sha256": "9bd6a1e03376f9b70d84b5f772cf8ed7c38a319315e45c4c04389454ee13b87e",
+    "staged_sha256": "6997d4753af29dc0b1a8bd3d0b3f0bb7421a329f2a4f04363b4f4c7b8a426855",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/ExerciseAgent/Scripts/AgentStreamDownloadHandler.cs.meta",
+    "source": "unity/Assets/ExerciseAgent/Scripts/AgentStreamDownloadHandler.cs.meta",
+    "source_sha256": "91499fe065dfa8f1474a2cf00bb3fa19cfa15feb6a720582b0e706ccf888fc0e",
+    "staged_sha256": "85e6a9ad96806ac6b8d20cf788d0aec8e02f807f25d93c1a52d4115d7093a299",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/ExerciseAgent/Scripts/AgentUIDisplay.cs",
+    "source": "unity/Assets/ExerciseAgent/Scripts/AgentUIDisplay.cs",
+    "source_sha256": "8f0404945c82050a2abd3be9b68766fc97b2a825129fa6109d752658e1d30b5d",
+    "staged_sha256": "8f0404945c82050a2abd3be9b68766fc97b2a825129fa6109d752658e1d30b5d",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/ExerciseAgent/Scripts/AgentUIDisplay.cs.meta",
+    "source": "unity/Assets/ExerciseAgent/Scripts/AgentUIDisplay.cs.meta",
+    "source_sha256": "993913187ce6caaaf23e7f6848d577dcf32251c111fefb9fb54ec25b25945b72",
+    "staged_sha256": "94a6a3c23aafe606e0f916b85f2cceed2c210c395386944a6068ee413dd51842",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/ExerciseAgent/Scripts/AsrLanguagePolicy.cs",
+    "source": "unity/Assets/ExerciseAgent/Scripts/AsrLanguagePolicy.cs",
+    "source_sha256": "b488aac91214b3dcd0da0f68ed3e1e3f29a64c68d088bc8270bd750b01fb21c4",
+    "staged_sha256": "b488aac91214b3dcd0da0f68ed3e1e3f29a64c68d088bc8270bd750b01fb21c4",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/ExerciseAgent/Scripts/AsrLanguagePolicy.cs.meta",
+    "source": "unity/Assets/ExerciseAgent/Scripts/AsrLanguagePolicy.cs.meta",
+    "source_sha256": "d0f3519d3a343a5f1fbaa6269fe08bc21a7167da3a9bab2af410f1e36612acf3",
+    "staged_sha256": "6703385739eeed25d81fc46110f8b5e56b380b64702bab322994ef103c819322",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/ExerciseAgent/Scripts/AudioClipWavEncoder.cs",
+    "source": "unity/Assets/ExerciseAgent/Scripts/AudioClipWavEncoder.cs",
+    "source_sha256": "a23dc65b67c5f0f35e16b2733652909c1f8c10652f11c16a3ed64ab21093bd36",
+    "staged_sha256": "a23dc65b67c5f0f35e16b2733652909c1f8c10652f11c16a3ed64ab21093bd36",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/ExerciseAgent/Scripts/AudioClipWavEncoder.cs.meta",
+    "source": "unity/Assets/ExerciseAgent/Scripts/AudioClipWavEncoder.cs.meta",
+    "source_sha256": "af5db7754cd7fb9531e259af541ea3b2483de5d4c96841b155564fe531dc204c",
+    "staged_sha256": "83ee587b851e86884befcb2534b75ef2b0d438044df2cf30710633169e09a8df",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/ExerciseAgent/Scripts/AudioPcmRingBuffer.cs",
+    "source": "unity/Assets/ExerciseAgent/Scripts/AudioPcmRingBuffer.cs",
+    "source_sha256": "36e5b19c775d1741cb8b3acc0eec81eae3fc7ab8a03552222ece868a4c3d66cb",
+    "staged_sha256": "36e5b19c775d1741cb8b3acc0eec81eae3fc7ab8a03552222ece868a4c3d66cb",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/ExerciseAgent/Scripts/AudioPcmRingBuffer.cs.meta",
+    "source": "unity/Assets/ExerciseAgent/Scripts/AudioPcmRingBuffer.cs.meta",
+    "source_sha256": "c960378c8371db91481130bb8f0d31643091948723eec911372ad3534821b120",
+    "staged_sha256": "71749b227aa78548a916a843ae9a9ddd0639735e883616aa8d538451873bf91c",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/ExerciseAgent/Scripts/ConversationStateManager.cs",
+    "source": "unity/Assets/ExerciseAgent/Scripts/ConversationStateManager.cs",
+    "source_sha256": "9b4747a778d4422799eee68f6090884ebfb83b8419d618bae3eb0d904f4abaa2",
+    "staged_sha256": "9b4747a778d4422799eee68f6090884ebfb83b8419d618bae3eb0d904f4abaa2",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/ExerciseAgent/Scripts/ConversationStateManager.cs.meta",
+    "source": "unity/Assets/ExerciseAgent/Scripts/ConversationStateManager.cs.meta",
+    "source_sha256": "e995f30a855a9b8f798098ec95beed46080d3146887cefb9254bde926463b708",
+    "staged_sha256": "0c45642e915b845965ed26d85dc154c3aeb54a0a7fefe318540ad6544f5840cd",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/ExerciseAgent/Scripts/ExerciseStateManager.cs",
+    "source": "unity/Assets/ExerciseAgent/Scripts/ExerciseStateManager.cs",
+    "source_sha256": "e53cf75dfc092f54b63f47e9dc6bdbe55aef386e83ca17124b542ae9833cebf8",
+    "staged_sha256": "e53cf75dfc092f54b63f47e9dc6bdbe55aef386e83ca17124b542ae9833cebf8",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/ExerciseAgent/Scripts/ExerciseStateManager.cs.meta",
+    "source": "unity/Assets/ExerciseAgent/Scripts/ExerciseStateManager.cs.meta",
+    "source_sha256": "cbc081e02c8b6e77a5fb0ea37fbe0910db7c7436670ff2f6f7599c5fd6d1ec61",
+    "staged_sha256": "3ff57f86f560567a2d8d7d37015fbab0fba07610672613281c58313b4246cc10",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/ExerciseAgent/Scripts/FakeExerciseAgent.cs",
+    "source": "unity/Assets/ExerciseAgent/Scripts/FakeExerciseAgent.cs",
+    "source_sha256": "cb952adb0b40d31867461a510e0ce082d2824a2816a4c6ae64006c4083b37c8e",
+    "staged_sha256": "cb952adb0b40d31867461a510e0ce082d2824a2816a4c6ae64006c4083b37c8e",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/ExerciseAgent/Scripts/FakeExerciseAgent.cs.meta",
+    "source": "unity/Assets/ExerciseAgent/Scripts/FakeExerciseAgent.cs.meta",
+    "source_sha256": "d9eb72d1a32fddeb1778f49a349867b7b8cdb7af01c862cf19c36e7a57ebbd7e",
+    "staged_sha256": "bdd5b002419ac1064458d5fd86b3711e58fc29a220e50c8b551f26a2ca0f3857",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/ExerciseAgent/Scripts/LatencyBehaviorObserver.cs",
+    "source": "unity/Assets/ExerciseAgent/Scripts/LatencyBehaviorObserver.cs",
+    "source_sha256": "0cb26c56befd7b3b395138714e28c0df442aa67f1dacbc2e6a423a0ecbc49b07",
+    "staged_sha256": "a78f7d008710dd8ab97ed2b832dd4a95fe1de453468cd5ebc2e038a555a2669d",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/ExerciseAgent/Scripts/LatencyBehaviorObserver.cs.meta",
+    "source": "unity/Assets/ExerciseAgent/Scripts/LatencyBehaviorObserver.cs.meta",
+    "source_sha256": "1df211cb50c04c74bc0e367d418315174853a0973aadcd58740ee80810b7002b",
+    "staged_sha256": "507b968fbe472a1f2e96f10879948e778947cb6451f80c6a1a48365664210361",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/ExerciseAgent/Scripts/LatencyTrace.cs",
+    "source": "unity/Assets/ExerciseAgent/Scripts/LatencyTrace.cs",
+    "source_sha256": "f5d22fba0c2c0bc0c42e55d77ddaf600cecc55f9ced0281b3d7c4caca8b09d9c",
+    "staged_sha256": "f5d22fba0c2c0bc0c42e55d77ddaf600cecc55f9ced0281b3d7c4caca8b09d9c",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/ExerciseAgent/Scripts/LatencyTrace.cs.meta",
+    "source": "unity/Assets/ExerciseAgent/Scripts/LatencyTrace.cs.meta",
+    "source_sha256": "b74b2adc24b5369feab5ad6763ff36151560a2a25e8c49a4aa7a760232d7feb4",
+    "staged_sha256": "9a4c2ec82c660dc6796370f63c74d95c43b11d663fce9e95da6b4f60c92e9d3d",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/ExerciseAgent/Scripts/MicrophonePcmRing.cs",
+    "source": "unity/Assets/ExerciseAgent/Scripts/MicrophonePcmRing.cs",
+    "source_sha256": "a7bdd746f1201ea2aa2d024d23ce5542afc30438712826a3ce69133048f25283",
+    "staged_sha256": "a7bdd746f1201ea2aa2d024d23ce5542afc30438712826a3ce69133048f25283",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/ExerciseAgent/Scripts/MicrophonePcmRing.cs.meta",
+    "source": "unity/Assets/ExerciseAgent/Scripts/MicrophonePcmRing.cs.meta",
+    "source_sha256": "d7aa29d3a631f96db52571aaad756c7a718b3c6581f90e1c09052e5dde4bd8ae",
+    "staged_sha256": "1dcbc6063538d11eb3a3a7aab86a4f887fc5871efa19be472a3baa45a699fdb5",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/ExerciseAgent/Scripts/MicrophoneRecorder.cs",
+    "source": "unity/Assets/ExerciseAgent/Scripts/MicrophoneRecorder.cs",
+    "source_sha256": "32acca62cb0d7a7e5d61fed3bdd77b44561b24ed77983dfb336cb4291305e788",
+    "staged_sha256": "32acca62cb0d7a7e5d61fed3bdd77b44561b24ed77983dfb336cb4291305e788",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/ExerciseAgent/Scripts/MicrophoneRecorder.cs.meta",
+    "source": "unity/Assets/ExerciseAgent/Scripts/MicrophoneRecorder.cs.meta",
+    "source_sha256": "f40917f29319f1993a28faa6107106c5efaade6764df5f4a8c4ecef3a8504193",
+    "staged_sha256": "a249f1f111bf014e9817f534e51990275aeb000445ef9f9f0f42b57c12cfc0b3",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/ExerciseAgent/Scripts/PythonExerciseAgent.cs",
+    "source": "unity/Assets/ExerciseAgent/Scripts/PythonExerciseAgent.cs",
+    "source_sha256": "3b71eac01dfaf1397a6bae2b837e9f2949018e47a6aeeca5192ce0863e1cdb90",
+    "staged_sha256": "3b71eac01dfaf1397a6bae2b837e9f2949018e47a6aeeca5192ce0863e1cdb90",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/ExerciseAgent/Scripts/PythonExerciseAgent.cs.meta",
+    "source": "unity/Assets/ExerciseAgent/Scripts/PythonExerciseAgent.cs.meta",
+    "source_sha256": "acc20874df38592463e85eb6b0aba144c9e4e40c905005121aebf9e337543607",
+    "staged_sha256": "f2eac7b2c00b9818780ced8b8f25a1ad05d27b24b3f605ea1fa1a97540a96efc",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/ExerciseAgent/Scripts/ReliabilityPolicy.cs",
+    "source": "unity/Assets/ExerciseAgent/Scripts/ReliabilityPolicy.cs",
+    "source_sha256": "f905534583ffe18e0cd90e38d92b93e6bf1f76c9a81c28a36e1afce33633ad47",
+    "staged_sha256": "f905534583ffe18e0cd90e38d92b93e6bf1f76c9a81c28a36e1afce33633ad47",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/ExerciseAgent/Scripts/ReliabilityPolicy.cs.meta",
+    "source": "unity/Assets/ExerciseAgent/Scripts/ReliabilityPolicy.cs.meta",
+    "source_sha256": "2880a3294089deefa147956902fd34573fd462658064edaa52870d8923ffb281",
+    "staged_sha256": "834d607e7924bbab1a2a46941f3bb8f360582319a650ba622536281feefa5605",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/ExerciseAgent/Scripts/SpeechArbiter.cs",
+    "source": "unity/Assets/ExerciseAgent/Scripts/SpeechArbiter.cs",
+    "source_sha256": "31401bdc423f7fce419b5cf86eddaabf7e7c6b223a1bc14f0345c5b717ab87ac",
+    "staged_sha256": "31401bdc423f7fce419b5cf86eddaabf7e7c6b223a1bc14f0345c5b717ab87ac",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/ExerciseAgent/Scripts/SpeechArbiter.cs.meta",
+    "source": "unity/Assets/ExerciseAgent/Scripts/SpeechArbiter.cs.meta",
+    "source_sha256": "8a731bcd9898f4d4d3553a458a8cbd5d56c56b09b2937ed98b068419f28b5de0",
+    "staged_sha256": "a86b6a194616b12046d32ec1fe02715b1ad8a7a792cbf32bb262c1e812ba7c08",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/ExerciseAgent/Scripts/SpeechRequest.cs",
+    "source": "unity/Assets/ExerciseAgent/Scripts/SpeechRequest.cs",
+    "source_sha256": "bb396eda2ef9781d4789c39e2fca127c2c4a1faf0c0c9ea1946438cf488e13b0",
+    "staged_sha256": "5c5e7b44ee0a81051e633a32c47cb7de9673e21baa418fb1a6da0a684b289237",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/ExerciseAgent/Scripts/SpeechRequest.cs.meta",
+    "source": "unity/Assets/ExerciseAgent/Scripts/SpeechRequest.cs.meta",
+    "source_sha256": "1bff898b460bd3ed99181fcc5427c4d0566ded831ed847d4af1d42fa5f55fba3",
+    "staged_sha256": "9f7ad004933394cad6f464f7b2fc29bbd27d274a0d5c96c8574e65ca469cb0eb",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/ExerciseAgent/Scripts/StreamingAsrSession.cs",
+    "source": "unity/Assets/ExerciseAgent/Scripts/StreamingAsrSession.cs",
+    "source_sha256": "4dc57f02d752d93fad8105d388eef4b2738780d0d5f85b05c46f99d054b92cc0",
+    "staged_sha256": "4dc57f02d752d93fad8105d388eef4b2738780d0d5f85b05c46f99d054b92cc0",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/ExerciseAgent/Scripts/StreamingAsrSession.cs.meta",
+    "source": "unity/Assets/ExerciseAgent/Scripts/StreamingAsrSession.cs.meta",
+    "source_sha256": "5a888afe2c0a9733adbf4b360d74f802301298955fb1c213fa6dbfd82044bdb8",
+    "staged_sha256": "548d8bbe2d7d08a5a4e8bae81ecb4cd8a087850bc0871957b1066f9f529df4c2",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/ExerciseAgent/Scripts/StreamingTtsSession.cs",
+    "source": "unity/Assets/ExerciseAgent/Scripts/StreamingTtsSession.cs",
+    "source_sha256": "15f1c57c31e3799c3ea5a9513dd8d46d9af48753fe648e7c1e1277e87f14ffa3",
+    "staged_sha256": "15f1c57c31e3799c3ea5a9513dd8d46d9af48753fe648e7c1e1277e87f14ffa3",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/ExerciseAgent/Scripts/StreamingTtsSession.cs.meta",
+    "source": "unity/Assets/ExerciseAgent/Scripts/StreamingTtsSession.cs.meta",
+    "source_sha256": "d991ab6718d0ca240e0c1eaeb15893da1a89f270505e2022dd4e6c7ceb8a1286",
+    "staged_sha256": "0da0dea554075cc282b63ab20f90f8225849b0e8d61ac906f564dc8354f53f8c",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/ExerciseAgent/Scripts/TTSPlayer.cs",
+    "source": "unity/Assets/ExerciseAgent/Scripts/TTSPlayer.cs",
+    "source_sha256": "768285ff97bc406bbda8ba0c54b2a5cc231ac20819e8806cb36a0ba18987be5f",
+    "staged_sha256": "768285ff97bc406bbda8ba0c54b2a5cc231ac20819e8806cb36a0ba18987be5f",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/ExerciseAgent/Scripts/TTSPlayer.cs.meta",
+    "source": "unity/Assets/ExerciseAgent/Scripts/TTSPlayer.cs.meta",
+    "source_sha256": "fabf4a80274230e41536a5ef7e6b6f058362a7c42866062969c3d621618efbdd",
+    "staged_sha256": "e6e77df54deb430253dd98b963004fde387e989321722f31570408188bb37986",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/ExerciseAgent/Scripts/TurnContext.cs",
+    "source": "unity/Assets/ExerciseAgent/Scripts/TurnContext.cs",
+    "source_sha256": "0e7ff2f0a9fe4f9fcbe4e99c039226f6a4d0770f8397da80b31c03802d12e07f",
+    "staged_sha256": "0e7ff2f0a9fe4f9fcbe4e99c039226f6a4d0770f8397da80b31c03802d12e07f",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/ExerciseAgent/Scripts/TurnContext.cs.meta",
+    "source": "unity/Assets/ExerciseAgent/Scripts/TurnContext.cs.meta",
+    "source_sha256": "05598593348b8773939504d86844a3b713b59fa8d55d70b4d18afd045513737e",
+    "staged_sha256": "5bbce684f261b4fa46193facc0efcbe12f572f5a93c48670555c57f17dc73064",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/ExerciseAgent/Scripts/TurnLifecycleManager.cs",
+    "source": "unity/Assets/ExerciseAgent/Scripts/TurnLifecycleManager.cs",
+    "source_sha256": "54ce44fd6be3ac745636249c287a04c32d4c00fcc44e8f880348caceed2d3ee4",
+    "staged_sha256": "54ce44fd6be3ac745636249c287a04c32d4c00fcc44e8f880348caceed2d3ee4",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/ExerciseAgent/Scripts/TurnLifecycleManager.cs.meta",
+    "source": "unity/Assets/ExerciseAgent/Scripts/TurnLifecycleManager.cs.meta",
+    "source_sha256": "17ed3aaa62accf536a11f46b231c1f1385e56977bb3f26110d98ae136ea2213e",
+    "staged_sha256": "808eb87b579354f276b3300dee9c41d80095bfc9a87cc7a25da40a838d9f0ec0",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/ExerciseAgent/Scripts/VoiceActivityDetector.cs",
+    "source": "unity/Assets/ExerciseAgent/Scripts/VoiceActivityDetector.cs",
+    "source_sha256": "6d480c3774974a32942805c7ecc5bc67d79cb5d3cd5cad228de2118567454c2f",
+    "staged_sha256": "6d480c3774974a32942805c7ecc5bc67d79cb5d3cd5cad228de2118567454c2f",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/ExerciseAgent/Scripts/VoiceActivityDetector.cs.meta",
+    "source": "unity/Assets/ExerciseAgent/Scripts/VoiceActivityDetector.cs.meta",
+    "source_sha256": "130be6b41a878783d46af56f631a01f95a0cc2c459a9ad2f7b750bae78e64aa0",
+    "staged_sha256": "037b8e85974af26a2d553ed7d8e8cf042e1fc0111e5c47fdb7d8f1f2ecb48df1",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/ExerciseAgent/Scripts/VoiceTranscriptionClient.cs",
+    "source": "unity/Assets/ExerciseAgent/Scripts/VoiceTranscriptionClient.cs",
+    "source_sha256": "3d951498429b817efaa2741f76c6b7ab0caaa4e767d137466fbd84df4e6bed3b",
+    "staged_sha256": "3d951498429b817efaa2741f76c6b7ab0caaa4e767d137466fbd84df4e6bed3b",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/ExerciseAgent/Scripts/VoiceTranscriptionClient.cs.meta",
+    "source": "unity/Assets/ExerciseAgent/Scripts/VoiceTranscriptionClient.cs.meta",
+    "source_sha256": "b04fdbeffa82ccd29c37739f20c7f74a4582aa898db749b326207846eb615d13",
+    "staged_sha256": "c0bc2f23d3e4bce95ad4bfb3a04e577ad196d4bbbf2176376ccbd38ebb6d1dfc",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/AvatarMotionModule/Editor/CompanionContactDebugTools.cs",
+    "source": "unity/Assets/AvatarMotionModule/Editor/CompanionContactDebugTools.cs",
+    "source_sha256": "e023bd8521ca2ff0fdea2b9a1fbb362696194c8a3dd1f3716b89415295ccdcd7",
+    "staged_sha256": "4a9d0a31e18c4d9c4a9d22e2109fb8edf351b7d08cc92b1f29a628a1de08b728",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/AvatarMotionModule/Editor/CompanionContactDebugTools.cs.meta",
+    "source": "unity/Assets/AvatarMotionModule/Editor/CompanionContactDebugTools.cs.meta",
+    "source_sha256": "beb52e8290e6f2c921f9b4443fe9f2159bd3cc458e77bd6e6711b911f05fc53d",
+    "staged_sha256": "d715153f2dde2444dfa7fb2457541ef7900a3eacbe633a14584cd6942ac03bfc",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/AvatarMotionModule/Runtime/AvatarHandPoseController.cs",
+    "source": "unity/Assets/AvatarMotionModule/Runtime/AvatarHandPoseController.cs",
+    "source_sha256": "1abbf049712a2a999146eb1d5d1e9a3d4961f3c6e5149b228d54e97e047967c6",
+    "staged_sha256": "1abbf049712a2a999146eb1d5d1e9a3d4961f3c6e5149b228d54e97e047967c6",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/AvatarMotionModule/Runtime/AvatarHandPoseController.cs.meta",
+    "source": "unity/Assets/AvatarMotionModule/Runtime/AvatarHandPoseController.cs.meta",
+    "source_sha256": "4d761043f0ff57f4668f750b928820ed79389618d54694ee783611fbc6e46b1c",
+    "staged_sha256": "7d7b447692c3ff91fa76e427bc0e53cd4b02d65afbbb60c59f1c728230358de0",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/AvatarMotionModule/Runtime/AvatarMotionController.cs",
+    "source": "unity/Assets/AvatarMotionModule/Runtime/AvatarMotionController.cs",
+    "source_sha256": "16f2d98d8542acb0e12c335706bb8264abc7bd3fb12b528495b2ba08f6c1f4a5",
+    "staged_sha256": "7c070499c2cf76f755a477b275bd74ce06085798f043390c86a868608504ebd2",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/AvatarMotionModule/Runtime/AvatarMotionController.cs.meta",
+    "source": "unity/Assets/AvatarMotionModule/Runtime/AvatarMotionController.cs.meta",
+    "source_sha256": "d7483ce60c067bb798185f063ed62a6c4649414fc2335302d3262fcf0ea7b673",
+    "staged_sha256": "916f43b53b44a20822d04aa2b134e7c6dbf1f2431bba32e5f79a4391ebdda401",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/AvatarMotionModule/Runtime/AvatarMotionDebugController.cs",
+    "source": "unity/Assets/AvatarMotionModule/Runtime/AvatarMotionDebugController.cs",
+    "source_sha256": "4228ebb513c6337bbbe1da8dfbe7804a04c54bf277606e5690e49e4e03933828",
+    "staged_sha256": "4228ebb513c6337bbbe1da8dfbe7804a04c54bf277606e5690e49e4e03933828",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/AvatarMotionModule/Runtime/AvatarMotionDebugController.cs.meta",
+    "source": "unity/Assets/AvatarMotionModule/Runtime/AvatarMotionDebugController.cs.meta",
+    "source_sha256": "9b55f51f55f9e8169d1d1a1dfcab9ccb0c2b9edc53d2eaa5749334a2c93234c6",
+    "staged_sha256": "02db893bc6a2e07d70d14a0f7a22c0eb98475c867833a0d8ed6ddcff212991e6",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/AvatarMotionModule/Runtime/AvatarMotionQualityController.cs",
+    "source": "unity/Assets/AvatarMotionModule/Runtime/AvatarMotionQualityController.cs",
+    "source_sha256": "f28ac1c92829d953f0a0152160f891b44068ba8b7e4b20a80ca37727d05a402f",
+    "staged_sha256": "f28ac1c92829d953f0a0152160f891b44068ba8b7e4b20a80ca37727d05a402f",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/AvatarMotionModule/Runtime/AvatarMotionQualityController.cs.meta",
+    "source": "unity/Assets/AvatarMotionModule/Runtime/AvatarMotionQualityController.cs.meta",
+    "source_sha256": "be03f145247da0f5c450c8b21cfc6c8e69c6d37e7ab2d8eecaa96a881455c6b4",
+    "staged_sha256": "085a3d3b45e1fc822052fdac1b89a3f355cef2577219c7028a87971082d3c331",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/AvatarMotionModule/Runtime/AvatarRunCycleController.cs",
+    "source": "unity/Assets/AvatarMotionModule/Runtime/AvatarRunCycleController.cs",
+    "source_sha256": "28f74a899a484b5b37b4c41b5aaaf8816b1950bbc3ea329d6ceb2ee4e38a302f",
+    "staged_sha256": "28f74a899a484b5b37b4c41b5aaaf8816b1950bbc3ea329d6ceb2ee4e38a302f",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/AvatarMotionModule/Runtime/AvatarRunCycleController.cs.meta",
+    "source": "unity/Assets/AvatarMotionModule/Runtime/AvatarRunCycleController.cs.meta",
+    "source_sha256": "419b5fd3f52e8a5f48a781030f10e6c5abac31c55fda3719fbb0cea88b6442f1",
+    "staged_sha256": "56cb80adff95483430d00d62e28ed37f380709bc6feedf410ebd23eb43bc41e1",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/AvatarMotionModule/Runtime/AvatarTurningAdaptation.cs",
+    "source": "unity/Assets/AvatarMotionModule/Runtime/AvatarTurningAdaptation.cs",
+    "source_sha256": "5307adc8617ab76952ac3e1762a3cd46aeb6aaa5178dadeeb148db97c402783f",
+    "staged_sha256": "5307adc8617ab76952ac3e1762a3cd46aeb6aaa5178dadeeb148db97c402783f",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/AvatarMotionModule/Runtime/AvatarTurningAdaptation.cs.meta",
+    "source": "unity/Assets/AvatarMotionModule/Runtime/AvatarTurningAdaptation.cs.meta",
+    "source_sha256": "a7453ba7abfddc2bad936afb4236d7bb21a6bd6fe224ac9ae95d95182ed3c25f",
+    "staged_sha256": "f7dee59c9e6d492a5884c90f342043225572a59e1556aaa0a51ede6f34caf9dd",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/AvatarMotionModule/Runtime/AvatarWalkCycleController.cs",
+    "source": "unity/Assets/AvatarMotionModule/Runtime/AvatarWalkCycleController.cs",
+    "source_sha256": "039b9771fb51f5b11a17a6593e8c83c844f5ab9c37bdd9dd0c5a792cc8a5205b",
+    "staged_sha256": "039b9771fb51f5b11a17a6593e8c83c844f5ab9c37bdd9dd0c5a792cc8a5205b",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/AvatarMotionModule/Runtime/AvatarWalkCycleController.cs.meta",
+    "source": "unity/Assets/AvatarMotionModule/Runtime/AvatarWalkCycleController.cs.meta",
+    "source_sha256": "c4ec6244e57a3ae4b904c9e273d5653e3b6cd1e057c789c657b6b3398b8e3611",
+    "staged_sha256": "c6c128d02e01a48b61a31b7960fdbe8aa280019a3564e5189a4345831cea46b4",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/AvatarMotionModule/Runtime/CompanionContactInteractor.cs",
+    "source": "unity/Assets/AvatarMotionModule/Runtime/CompanionContactInteractor.cs",
+    "source_sha256": "f2c0245292b622f5e99987022456d34abc44f5eb8a1e2e837cdef28f29335f81",
+    "staged_sha256": "4dfebf21447a6619904b0678cb04321dc390f573bd4b15ed37354cd9ed9d6d11",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/AvatarMotionModule/Runtime/CompanionContactInteractor.cs.meta",
+    "source": "unity/Assets/AvatarMotionModule/Runtime/CompanionContactInteractor.cs.meta",
+    "source_sha256": "b1edc4764ef927ec8bbc06df609abde83485a175b385f54692d79e8de73ab7c3",
+    "staged_sha256": "93d56987d51399b08fe6564194353821da7868f91effef7ea5db7aa4faf0e549",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/AvatarMotionModule/Runtime/CompanionContactZone.cs",
+    "source": "unity/Assets/AvatarMotionModule/Runtime/CompanionContactZone.cs",
+    "source_sha256": "6dfc9475b7f13c44eec63d2c93f04ad5d6f51eb308ac8d842d0ce76f6d3b29eb",
+    "staged_sha256": "5cdd6244a4925465ae0eb03d236a379d3ad8ea5180f3d9c8af7505c6cb665acb",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/AvatarMotionModule/Runtime/CompanionContactZone.cs.meta",
+    "source": "unity/Assets/AvatarMotionModule/Runtime/CompanionContactZone.cs.meta",
+    "source_sha256": "fb19104a81220f72a08ab990087dc0917d3db06866580ea01d61ad3ccb8ca0f7",
+    "staged_sha256": "638b199356bf4b33b70377ae188af278187ebbe6e05853f3b09934f9386a3a05",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/AvatarMotionModule/Runtime/CompanionGazeController.cs",
+    "source": "unity/Assets/AvatarMotionModule/Runtime/CompanionGazeController.cs",
+    "source_sha256": "c58ee66b74eddf722079ee91624a00ea196cccefe346ee1a451cbc71823cdfb7",
+    "staged_sha256": "04b75dd72e32dcd56f24852fe000ce7af57ba5c2b7edb093578328618e02f4ab",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/AvatarMotionModule/Runtime/CompanionGazeController.cs.meta",
+    "source": "unity/Assets/AvatarMotionModule/Runtime/CompanionGazeController.cs.meta",
+    "source_sha256": "cfac45fb63ebd85448d9a143103ad8882ceefae97b5b59375ad3fa919f08c244",
+    "staged_sha256": "fa44d4bda26b06ab8b27534f3e81b9fc1102bc9f22382bfef76175b9ed2742b6",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/AvatarMotionModule/Runtime/CompanionPoseRecoveryController.cs",
+    "source": "unity/Assets/AvatarMotionModule/Runtime/CompanionPoseRecoveryController.cs",
+    "source_sha256": "f0192ac7283558d3fac7dde5f26fba42ec57ad6a7dcf83e7b9f1f128394b586c",
+    "staged_sha256": "e322d8d746e0159ea4c62f254610d42d2410ae063ae4cdccf3eeb69f2eb3ea5b",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/AvatarMotionModule/Runtime/CompanionPoseRecoveryController.cs.meta",
+    "source": "unity/Assets/AvatarMotionModule/Runtime/CompanionPoseRecoveryController.cs.meta",
+    "source_sha256": "7f7f9647a282830e8da78648faaa9a6cefb025163ed510eef67772115835784c",
+    "staged_sha256": "2813ea4a2f128094cd373eeb5f5b172b0224b5c474ed0dab9c180c03a5639a46",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/AvatarMotionModule/Runtime/RunCycleProfile.cs",
+    "source": "unity/Assets/AvatarMotionModule/Runtime/RunCycleProfile.cs",
+    "source_sha256": "3b760ef190f18bf1d9b543fafbe9a781370b66bcf3f6589083555de5ede2ee5f",
+    "staged_sha256": "67d5344ad3d35695b13f6614c684a6fb06c0fac945572b742cc0eb5bce05ed74",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/AvatarMotionModule/Runtime/RunCycleProfile.cs.meta",
+    "source": "unity/Assets/AvatarMotionModule/Runtime/RunCycleProfile.cs.meta",
+    "source_sha256": "752ea12ba485bb6daaa6d40fd17bdb92cb884373ee4ea5f174cd3f610569ca02",
+    "staged_sha256": "26a80379f6c0c6a4134592dff07918c4cba3d7167adaa87607f09564e79e075d",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/AvatarMotionModule/Runtime/UMTAnimatorPoseAdapter.cs",
+    "source": "unity/Assets/AvatarMotionModule/Runtime/UMTAnimatorPoseAdapter.cs",
+    "source_sha256": "2f7bfc8e41c72d45ad636045b9cbacb132e56545364c631c338a117e9dd1c9d1",
+    "staged_sha256": "d2c9e6cf2f70c256fd1566486c2eb04bbf93a3f45396af3b50983254493e29dc",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/AvatarMotionModule/Runtime/UMTAnimatorPoseAdapter.cs.meta",
+    "source": "unity/Assets/AvatarMotionModule/Runtime/UMTAnimatorPoseAdapter.cs.meta",
+    "source_sha256": "f22d337a32ddafd4783c53d87a59dfb061690a4310d4ca539f03edcc4419f9af",
+    "staged_sha256": "e4fced197d11ec32559b992b93936ad7b5f754c4910392ebd2e790aa04bf785e",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/AvatarMotionModule/Runtime/WalkCycleProfile.cs",
+    "source": "unity/Assets/AvatarMotionModule/Runtime/WalkCycleProfile.cs",
+    "source_sha256": "ad53134e7a6d3e17cc3441afd3c1c7756f7b361185fbfd124862c81ec101ca5c",
+    "staged_sha256": "757ef616dea835e4361d34d1f6ad5f567d50b6b3d79a8eec1f03693505a9acf8",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/AvatarMotionModule/Runtime/WalkCycleProfile.cs.meta",
+    "source": "unity/Assets/AvatarMotionModule/Runtime/WalkCycleProfile.cs.meta",
+    "source_sha256": "214e45a8bb9c772203b426abf6aef2a4b0c56612b61e576a61abe0d73533d034",
+    "staged_sha256": "bbd168579fbbb4167564d7164333faa169b22871f665ee79bd3df3e8df76b83c",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/CompanionFollowModule/Runtime/CompanionFollowController.cs",
+    "source": "unity/Assets/CompanionFollowModule/Runtime/CompanionFollowController.cs",
+    "source_sha256": "5fa32f9a3159e7584d4d98ac2ec430734aaa72793c13c63c7f1ee83c9a5af061",
+    "staged_sha256": "5fa32f9a3159e7584d4d98ac2ec430734aaa72793c13c63c7f1ee83c9a5af061",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/CompanionFollowModule/Runtime/CompanionFollowController.cs.meta",
+    "source": "unity/Assets/CompanionFollowModule/Runtime/CompanionFollowController.cs.meta",
+    "source_sha256": "61b32cfefa263f8e1acd85c9ec94fc639c05573b15f462f1926624f0141d1a0e",
+    "staged_sha256": "3eb6601c508e0d3479cf4c58475f8763afe1d2212e8340a1454b99d72187d8a0",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/CompanionFollowModule/Runtime/CompanionFollowDebugController.cs",
+    "source": "unity/Assets/CompanionFollowModule/Runtime/CompanionFollowDebugController.cs",
+    "source_sha256": "c0ff89eed88d651b152c7c3b28a912801f73e8fd436e3946c53b461cc25f71cb",
+    "staged_sha256": "c0ff89eed88d651b152c7c3b28a912801f73e8fd436e3946c53b461cc25f71cb",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/CompanionFollowModule/Runtime/CompanionFollowDebugController.cs.meta",
+    "source": "unity/Assets/CompanionFollowModule/Runtime/CompanionFollowDebugController.cs.meta",
+    "source_sha256": "a6024c478f33f02f7d99d40aa7f421a6a37e8579e67fe0f5b1b7e87643facbe7",
+    "staged_sha256": "9d631ae14cd079c31e333ddafa0dfc9a6d1aad69e3e75f9891a48a1ac852f4c3",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/LipSyncModule/Runtime/LipSyncController.cs",
+    "source": "unity/Assets/LipSyncModule/Runtime/LipSyncController.cs",
+    "source_sha256": "15b9796a6010e0d5fb02ac51676b4fba3369eaad4123e1c0c2efcc5a06c463e9",
+    "staged_sha256": "15b9796a6010e0d5fb02ac51676b4fba3369eaad4123e1c0c2efcc5a06c463e9",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/LipSyncModule/Runtime/LipSyncController.cs.meta",
+    "source": "unity/Assets/LipSyncModule/Runtime/LipSyncController.cs.meta",
+    "source_sha256": "b9e360afd03aad1a68b41c45b0f8df112cbd0e0907bf48226d99a203509cda3d",
+    "staged_sha256": "b9e360afd03aad1a68b41c45b0f8df112cbd0e0907bf48226d99a203509cda3d",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/LipSyncModule/Runtime/LipSyncTimeline.cs",
+    "source": "unity/Assets/LipSyncModule/Runtime/LipSyncTimeline.cs",
+    "source_sha256": "420244f32e1844920a5314e51fcd791ac5748aa4c2886d4f184582391e3fd088",
+    "staged_sha256": "462f03c660c16d78ed49767aa5519f940e6d1b98beca83e4fecc258dedaab4f5",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/LipSyncModule/Runtime/LipSyncTimeline.cs.meta",
+    "source": "unity/Assets/LipSyncModule/Runtime/LipSyncTimeline.cs.meta",
+    "source_sha256": "c6507ba104e50516e8e8a5c2b1452ad687265542e95281caacd65fd195517a21",
+    "staged_sha256": "c6507ba104e50516e8e8a5c2b1452ad687265542e95281caacd65fd195517a21",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/EchoCancellationModule/Runtime/IAudioEchoCanceller.cs",
+    "source": "unity/Assets/EchoCancellationModule/Runtime/IAudioEchoCanceller.cs",
+    "source_sha256": "120e24cf3be067441a123926898ee4ec01506c7dff4296dfd13e616ef2f1c577",
+    "staged_sha256": "57316f8bcf748fdd6b367a5177c85a0189c8d78285d4ee93bf9d62de43e48097",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/EchoCancellationModule/Runtime/IAudioEchoCanceller.cs.meta",
+    "source": "unity/Assets/EchoCancellationModule/Runtime/IAudioEchoCanceller.cs.meta",
+    "source_sha256": "681f569fe094678485eb9442880910ec5323533724ca4a8f1016baec93aabc31",
+    "staged_sha256": "5159a39ed9269a53829e397b7bf3b23090050235796bac94374497859c885c1b",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/EchoCancellationModule/Runtime/MicrophoneEchoPipeline.cs",
+    "source": "unity/Assets/EchoCancellationModule/Runtime/MicrophoneEchoPipeline.cs",
+    "source_sha256": "9a467ba595f7bb9e928f8a216fb69c57978863093ce70aa97ee615893372899b",
+    "staged_sha256": "9a467ba595f7bb9e928f8a216fb69c57978863093ce70aa97ee615893372899b",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/EchoCancellationModule/Runtime/MicrophoneEchoPipeline.cs.meta",
+    "source": "unity/Assets/EchoCancellationModule/Runtime/MicrophoneEchoPipeline.cs.meta",
+    "source_sha256": "30e8339bcc40cba1e37d59bfd3ee7c7a75407c98ae96d77fe02e4e2e17130f65",
+    "staged_sha256": "66158404ebcbc7a574c2356bc6b6b79b5e7e703241cc03eb445a6e31a0a1aa22",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/EchoCancellationModule/Runtime/PlaybackReferenceBuffer.cs",
+    "source": "unity/Assets/EchoCancellationModule/Runtime/PlaybackReferenceBuffer.cs",
+    "source_sha256": "6eb4c2a1a702379f126af6a6d4a8247351561d715cf96720da4d7890972a5d6c",
+    "staged_sha256": "d79b1819c4ff41ae5da73e000591af62b4ca4958047264ee6b490f8ba68f7506",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/EchoCancellationModule/Runtime/PlaybackReferenceBuffer.cs.meta",
+    "source": "unity/Assets/EchoCancellationModule/Runtime/PlaybackReferenceBuffer.cs.meta",
+    "source_sha256": "cd273bcc59ab008f8fe1c1e1692dc3d59f5f3823a1c1f91f4079d911bc8637dd",
+    "staged_sha256": "fd2f9d67b74fe795ac42de54b0827ef9bf6d0e04a06616bfee16c358bc673115",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/EchoCancellationModule/Runtime/PlaybackReferenceTap.cs",
+    "source": "unity/Assets/EchoCancellationModule/Runtime/PlaybackReferenceTap.cs",
+    "source_sha256": "9dbab0b02f0e109382f3f69ee5545e5adbf75d2fc9fcaf90a3242946abde7c2c",
+    "staged_sha256": "ac9ade1928e723489a46ffee3812989388875008500b87e80dafec387c894a1e",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/EchoCancellationModule/Runtime/PlaybackReferenceTap.cs.meta",
+    "source": "unity/Assets/EchoCancellationModule/Runtime/PlaybackReferenceTap.cs.meta",
+    "source_sha256": "6f7d875dd32fb0700f293f8ef439714d5d3370b3712c3d3c15801c4cdada98a6",
+    "staged_sha256": "03a4092ee493cbfdc4f3d1c1dda4d478acfaaf2f5b0acbdaece94cd2a33d3dbf",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/QuestPlatformModule/Runtime/AgentInputActions.cs",
+    "source": "unity/Assets/QuestPlatformModule/Runtime/AgentInputActions.cs",
+    "source_sha256": "3af6cd34dabe42d84c05417e8158d2ef7109f66e8607e6b00e66509b9ba0746f",
+    "staged_sha256": "3af6cd34dabe42d84c05417e8158d2ef7109f66e8607e6b00e66509b9ba0746f",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/QuestPlatformModule/Runtime/AgentInputActions.cs.meta",
+    "source": "unity/Assets/QuestPlatformModule/Runtime/AgentInputActions.cs.meta",
+    "source_sha256": "570baf3a7e5a535d3f47f5ff210f217125d04aac66203233efafc0ba0e62c1e0",
+    "staged_sha256": "a9008112d8e034d33c5022d329f90f46f51fe823841e1c5199d37c6e2df178f4",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/QuestPlatformModule/Runtime/BackendEndpointConfig.cs",
+    "source": "unity/Assets/QuestPlatformModule/Runtime/BackendEndpointConfig.cs",
+    "source_sha256": "88e1614355e35415de86e28fb1367eadbd8e0ee168e78b1e72f78cbbac4033d7",
+    "staged_sha256": "88e1614355e35415de86e28fb1367eadbd8e0ee168e78b1e72f78cbbac4033d7",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/QuestPlatformModule/Runtime/BackendEndpointConfig.cs.meta",
+    "source": "unity/Assets/QuestPlatformModule/Runtime/BackendEndpointConfig.cs.meta",
+    "source_sha256": "781eedaab8837e86b887a9692e249012214680e57141730e1431bde971136b37",
+    "staged_sha256": "4085f601805d4b14055b924f2f5e96f9242289da6fbf77bb891f6b779691c800",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/QuestPlatformModule/Runtime/QuestDevelopmentInputAdapter.cs",
+    "source": "unity/Assets/QuestPlatformModule/Runtime/QuestDevelopmentInputAdapter.cs",
+    "source_sha256": "dc9e56e231b0b213a4b119a0b81d43303aa370d6d35787b9efaa1996f7555e90",
+    "staged_sha256": "dc9e56e231b0b213a4b119a0b81d43303aa370d6d35787b9efaa1996f7555e90",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/QuestPlatformModule/Runtime/QuestDevelopmentInputAdapter.cs.meta",
+    "source": "unity/Assets/QuestPlatformModule/Runtime/QuestDevelopmentInputAdapter.cs.meta",
+    "source_sha256": "7f880a0b23c7cce8860055a606a664baccbd470c5828f8d1ec684a46f5007bcb",
+    "staged_sha256": "aa74a298982ad8ea710273b5376de3848330ea5a1c21af56fb6240aced4a6312",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/QuestPlatformModule/Runtime/QuestMicrophonePermission.cs",
+    "source": "unity/Assets/QuestPlatformModule/Runtime/QuestMicrophonePermission.cs",
+    "source_sha256": "b2f1add004a68987a5e2516b072b577abd75ae71d735859ec12afa11fe0c90e0",
+    "staged_sha256": "b2f1add004a68987a5e2516b072b577abd75ae71d735859ec12afa11fe0c90e0",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/QuestPlatformModule/Runtime/QuestMicrophonePermission.cs.meta",
+    "source": "unity/Assets/QuestPlatformModule/Runtime/QuestMicrophonePermission.cs.meta",
+    "source_sha256": "51fe1ed04c831f323e6f659fa43d11bbb1381cd81fbe96667345b95912e1082d",
+    "staged_sha256": "985baae659455945b626ca1a36357b4f9e9f39f7f3adba8f6b7ecdcc127b7e90",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/QuestPlatformModule/Runtime/QuestPcvrVoiceProfile.cs",
+    "source": "unity/Assets/QuestPlatformModule/Runtime/QuestPcvrVoiceProfile.cs",
+    "source_sha256": "1ac14885a00ba5297383b8526be291f58ca8d5f7c8e46541cfe4a8238b6e991b",
+    "staged_sha256": "1ac14885a00ba5297383b8526be291f58ca8d5f7c8e46541cfe4a8238b6e991b",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/QuestPlatformModule/Runtime/QuestPcvrVoiceProfile.cs.meta",
+    "source": "unity/Assets/QuestPlatformModule/Runtime/QuestPcvrVoiceProfile.cs.meta",
+    "source_sha256": "639791b1b5ec69241c9d6cce7e9878f6a2a2b85dabb63b4d43cd30f76cfa178b",
+    "staged_sha256": "b0b01afec78559a05396204ebf63e681a9caf04232d750665996ab7bcffae57d",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/QuestPlatformModule/Runtime/QuestPerformanceProbe.cs",
+    "source": "unity/Assets/QuestPlatformModule/Runtime/QuestPerformanceProbe.cs",
+    "source_sha256": "9b3b36c6d90998b7e87194f7076e404592c228b7ce6a5246c11cc0030caaa551",
+    "staged_sha256": "9b3b36c6d90998b7e87194f7076e404592c228b7ce6a5246c11cc0030caaa551",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/QuestPlatformModule/Runtime/QuestPerformanceProbe.cs.meta",
+    "source": "unity/Assets/QuestPlatformModule/Runtime/QuestPerformanceProbe.cs.meta",
+    "source_sha256": "dac6f3fed730ade8d6ce907317fad417855995026f3310d2895edd392b6d1b28",
+    "staged_sha256": "8e5cf8d491a10153325a8babb322f060fb00aec7d777e8ab4980c6765f2c9153",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/DemoPresentation/Runtime/PresentationModeController.cs",
+    "source": "unity/Assets/DemoPresentation/Runtime/PresentationModeController.cs",
+    "source_sha256": "0a9ebc608c323d5b4a3cf4e550d88a7992c68fdd4acb50892db3739d8a21ebfe",
+    "staged_sha256": "dbd66081f86252033fe77690b63a0f617359880a01df1a95585fc84a35612900",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/DemoPresentation/Runtime/PresentationModeController.cs.meta",
+    "source": "unity/Assets/DemoPresentation/Runtime/PresentationModeController.cs.meta",
+    "source_sha256": "6655a9bae3a16ac469f14062e20b0a26c0282dba71036899b62bf53cfd9efea8",
+    "staged_sha256": "bb22a0fdb68781fe57dcb0a28785153afa3e17f977fde0b9d776593bca018da4",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/DemoPresentation/Runtime/PresentationResearchHUD.cs",
+    "source": "unity/Assets/DemoPresentation/Runtime/PresentationResearchHUD.cs",
+    "source_sha256": "97d39f1e5d45c5d391ac275fd0ab6eb61202db336f21b7e849678f06031a618f",
+    "staged_sha256": "97d39f1e5d45c5d391ac275fd0ab6eb61202db336f21b7e849678f06031a618f",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/DemoPresentation/Runtime/PresentationResearchHUD.cs.meta",
+    "source": "unity/Assets/DemoPresentation/Runtime/PresentationResearchHUD.cs.meta",
+    "source_sha256": "f90c65e94884a40e1094ff954dab678dc55eadee024617fa68b2e94d2543f7c0",
+    "staged_sha256": "6d6827dcf78e6933f1a88bba276517daec9ebffe4041d0bf64d0672397ea270d",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/Scripts/FaceBlendShapeTester.cs",
+    "source": "unity/Assets/Scripts/FaceBlendShapeTester.cs",
+    "source_sha256": "be9d8d07a05e066b9a11fc6f764f83077114220ce2ea2ed0e6cb022d78d704d2",
+    "staged_sha256": "be9d8d07a05e066b9a11fc6f764f83077114220ce2ea2ed0e6cb022d78d704d2",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/Scripts/FaceBlendShapeTester.cs.meta",
+    "source": "unity/Assets/Scripts/FaceBlendShapeTester.cs.meta",
+    "source_sha256": "67fa82a94ad0c0a35ee773c4f1e7c1032c709237c29a142af1365e8c11c3f608",
+    "staged_sha256": "26ed83fe596bb422255cbca2976411e4a347e70d58feb07c95f77cc31b013eeb",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/Scripts/FaceExpressionController.cs",
+    "source": "unity/Assets/Scripts/FaceExpressionController.cs",
+    "source_sha256": "7b24d7d9cd23e21225394fdca2820da234e96f4e4653cdcfa1801907dbf5e055",
+    "staged_sha256": "7b24d7d9cd23e21225394fdca2820da234e96f4e4653cdcfa1801907dbf5e055",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/Scripts/FaceExpressionController.cs.meta",
+    "source": "unity/Assets/Scripts/FaceExpressionController.cs.meta",
+    "source_sha256": "070b39d5c0e695fd9fd19856069d48a7a04f9dc9a8e11638cf64837ab3ec2e3c",
+    "staged_sha256": "552f827aa6ae56dca428f0b514d7e4640ef7d863a005914f6054069a6d969baa",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/Scripts/FaceExpressionDebugController.cs",
+    "source": "unity/Assets/Scripts/FaceExpressionDebugController.cs",
+    "source_sha256": "0bab70bbc3f4d372ceebc733d015b13665dd06cac7312b510292e638e46660d2",
+    "staged_sha256": "0bab70bbc3f4d372ceebc733d015b13665dd06cac7312b510292e638e46660d2",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/Scripts/FaceExpressionDebugController.cs.meta",
+    "source": "unity/Assets/Scripts/FaceExpressionDebugController.cs.meta",
+    "source_sha256": "760fde7f561aacf839c458bd6e6467c58cfe549181c595eac2c7b186d47e9bad",
+    "staged_sha256": "f3685916b73acd73e47cef648d0bc1b74ff2c47e01e85871da6c89f96f369f60",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/Scripts/FreeWalkingSpeedGain.cs",
+    "source": "unity/Assets/Scripts/FreeWalkingSpeedGain.cs",
+    "source_sha256": "00f264572fe59f68a75f973d3c09d5db233d2a4dbc69666c75ddb2d1d288719d",
+    "staged_sha256": "00f264572fe59f68a75f973d3c09d5db233d2a4dbc69666c75ddb2d1d288719d",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/Scripts/FreeWalkingSpeedGain.cs.meta",
+    "source": "unity/Assets/Scripts/FreeWalkingSpeedGain.cs.meta",
+    "source_sha256": "2a49a8355b64263144dcfac2359d63fc5372a8aea27d8cece36928643b401a8c",
+    "staged_sha256": "c6253876e89714368423043c03da8e783176e3f626aace6a6afb3db0b2c8a16e",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/Scripts/RoadSpeedPathFollower.cs",
+    "source": "unity/Assets/Scripts/RoadSpeedPathFollower.cs",
+    "source_sha256": "e8d50dd5bb96617f2f374fc8cfca964ca095e4870c4def8e758f5857d0d6e4e1",
+    "staged_sha256": "e8d50dd5bb96617f2f374fc8cfca964ca095e4870c4def8e758f5857d0d6e4e1",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/Scripts/RoadSpeedPathFollower.cs.meta",
+    "source": "unity/Assets/Scripts/RoadSpeedPathFollower.cs.meta",
+    "source_sha256": "e41e09e3f363c880962863f77f61d8cba680ad855f25902fb33967b066219e8a",
+    "staged_sha256": "cc115a553bf90b307a370330f4bcea550e2168f19eac2366cb86cf2c8e2fb60c",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/Scripts/SpeedInfoDisplay.cs",
+    "source": "unity/Assets/Scripts/SpeedInfoDisplay.cs",
+    "source_sha256": "df5bdf07777372bb57b09bf9af96895baa3f02957096ac8d16fa295470f387ad",
+    "staged_sha256": "df5bdf07777372bb57b09bf9af96895baa3f02957096ac8d16fa295470f387ad",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/Scripts/SpeedInfoDisplay.cs.meta",
+    "source": "unity/Assets/Scripts/SpeedInfoDisplay.cs.meta",
+    "source_sha256": "038bb7415ba4856d8088559a2fe8db47e61a265f1e7a9a188f5536bf6f162d75",
+    "staged_sha256": "bac4c4affcccb3f5772d45003320c08a1b8c778b5824245556f38e0d8d9c684c",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/WindsongIntegration/Runtime/DesktopXRDebugController.cs",
+    "source": "unity/Assets/WindsongIntegration/Runtime/DesktopXRDebugController.cs",
+    "source_sha256": "90b71a33514ab300b202dbc1a9e45014d1078e3842fd3a205c43ac7b0c8da5a9",
+    "staged_sha256": "90b71a33514ab300b202dbc1a9e45014d1078e3842fd3a205c43ac7b0c8da5a9",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/WindsongIntegration/Runtime/DesktopXRDebugController.cs.meta",
+    "source": "unity/Assets/WindsongIntegration/Runtime/DesktopXRDebugController.cs.meta",
+    "source_sha256": "9085ce9a281ffad55ca24db7dfae74eb8ecd3f9e76d6f53d8d8c9e7c00315592",
+    "staged_sha256": "baa15d742c6d2cfab6f67a4412c7f46a4a48f98d6d473e1bea89179ed8ded0cd",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "backend/action_tool_policy.py",
+    "source": "backend/action_tool_policy.py",
+    "source_sha256": "bcb9cc0fd0c3afe100f079b1c9079d7d22ad47c0a630b0c911f062b538497380",
+    "staged_sha256": "04ec02c1d879fa4eb546830bff19346b5d598cbfee52fd05ecde6db2bbe4fdda",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "backend/agent_context.py",
+    "source": "backend/agent_context.py",
+    "source_sha256": "c9fa5c364dc31ed8f57012710abb5ce2147243c3f203b247bc15b37b6a847ae0",
+    "staged_sha256": "c9fa5c364dc31ed8f57012710abb5ce2147243c3f203b247bc15b37b6a847ae0",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "backend/agent_state.py",
+    "source": "backend/agent_state.py",
+    "source_sha256": "df3a7708f2a64e695999c1918d3b5dfff1aae23b391b944482ba23d57a7776e7",
+    "staged_sha256": "8424f11a060ed4cb1040434799ff39364f9a3fb9157a57cec33192567a908745",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "backend/agent_streaming.py",
+    "source": "backend/agent_streaming.py",
+    "source_sha256": "ef2d8060dd24ec35f7b51a92b2e812424b1bd76aad2c42ef4b1c95bf24413cd9",
+    "staged_sha256": "ef2d8060dd24ec35f7b51a92b2e812424b1bd76aad2c42ef4b1c95bf24413cd9",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "backend/asr_input_guard.py",
+    "source": "backend/asr_input_guard.py",
+    "source_sha256": "4662d2c372973162482125ecd6e3635bc35e1f1af37e0896c205f1f626fb119e",
+    "staged_sha256": "e79dccc4b110b5802cad2618810d607070c016bedc2092eeb704c06ff5331969",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "backend/asr_language_policy.py",
+    "source": "backend/asr_language_policy.py",
+    "source_sha256": "f45fa516e06780e8e7d97b6a812766a9ed56337fd53c990edde1b3b47508e31e",
+    "staged_sha256": "f45fa516e06780e8e7d97b6a812766a9ed56337fd53c990edde1b3b47508e31e",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "backend/asr_language_providers.py",
+    "source": "backend/asr_language_providers.py",
+    "source_sha256": "5502f4ef32c87a566852acba99120971d38193efbe9440db033dcd909cd48b56",
+    "staged_sha256": "5502f4ef32c87a566852acba99120971d38193efbe9440db033dcd909cd48b56",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "backend/asr_providers.py",
+    "source": "backend/asr_providers.py",
+    "source_sha256": "c3b55fee99a37ff7fb2fe4d85b981ae1a77f75474874449e0830b3a8476ef680",
+    "staged_sha256": "c3b55fee99a37ff7fb2fe4d85b981ae1a77f75474874449e0830b3a8476ef680",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "backend/asr_streaming.py",
+    "source": "backend/asr_streaming.py",
+    "source_sha256": "30a68bc754ea59e8781471e9addace7e3f1d1880f0988338fe8543d10ad7017b",
+    "staged_sha256": "30a68bc754ea59e8781471e9addace7e3f1d1880f0988338fe8543d10ad7017b",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "backend/behavior_contract.py",
+    "source": "backend/behavior_contract.py",
+    "source_sha256": "c50c38c6f143c3e1b3378a66a6b657c01430663a628dcb167cb5b4c1cf4c989d",
+    "staged_sha256": "d3099c1028f5e1d213c2c8c8cb8e6524c4f1d6fef16cc2fdfdc9395f2906f21b",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "backend/companion_persona.py",
+    "source": "backend/companion_persona.py",
+    "source_sha256": "50422063ee2c403acce767785e1007e593728947681447811c1e83d1116ad0f0",
+    "staged_sha256": "50422063ee2c403acce767785e1007e593728947681447811c1e83d1116ad0f0",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "backend/latency_trace.py",
+    "source": "backend/latency_trace.py",
+    "source_sha256": "d69e6c0bb3bd8a8453ce804a224dbfa79ff3b775db9cdd5e9f7566adfb39ec65",
+    "staged_sha256": "d69e6c0bb3bd8a8453ce804a224dbfa79ff3b775db9cdd5e9f7566adfb39ec65",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "backend/lip_sync_planner.py",
+    "source": "backend/lip_sync_planner.py",
+    "source_sha256": "a8b96870afb241bc62952cd8832fcca17c080a1b2c0474a33cf6e65014c161b0",
+    "staged_sha256": "7bcc1eb528c15b4d3bc4be2d2a15dc24dafd242352698815c255ed5c431ff2c1",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "backend/native_tools.py",
+    "source": "backend/native_tools.py",
+    "source_sha256": "673da0d3cf801e66a0b0ae0bec92369382678a115b2c662d54b1adb6a577c6c8",
+    "staged_sha256": "673da0d3cf801e66a0b0ae0bec92369382678a115b2c662d54b1adb6a577c6c8",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "backend/reliability.py",
+    "source": "backend/reliability.py",
+    "source_sha256": "ffc0a88634eb102147a7a314b2daa4be6fab2f47659982e4af907b9bf2e32389",
+    "staged_sha256": "ffc0a88634eb102147a7a314b2daa4be6fab2f47659982e4af907b9bf2e32389",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "backend/server.py",
+    "source": "backend/server.py",
+    "source_sha256": "3f081c2d5ff90bff99b90d517ea035c1312db103d08e829a97467082b4a92e1d",
+    "staged_sha256": "3f081c2d5ff90bff99b90d517ea035c1312db103d08e829a97467082b4a92e1d",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "backend/tts_stream_endpoint.py",
+    "source": "backend/tts_stream_endpoint.py",
+    "source_sha256": "b1e2a82f63aec170322feee70d3af7b4610376cad314127db24394cb317a71c9",
+    "staged_sha256": "e869652e706303dfe79c30c46fdfbd78e32c5fcf20f1e537df2c43d9a08a5c00",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "backend/turn_lifecycle.py",
+    "source": "backend/turn_lifecycle.py",
+    "source_sha256": "5491650a126c1201c253a0ef37f29daa5950dffc54b748fea751bb0282290aa1",
+    "staged_sha256": "d431c29111e2a8efed4675b81ae41772fc27a720af74e5bb7fd8d813504e1a55",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "backend/whisper_runtime.py",
+    "source": "backend/whisper_runtime.py",
+    "source_sha256": "30628f1ca47e099fcc48103a38e74bc44593ef9e69e73bd0680fd5339a4e8836",
+    "staged_sha256": "30628f1ca47e099fcc48103a38e74bc44593ef9e69e73bd0680fd5339a4e8836",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "backend/tts/audio.py",
+    "source": "backend/tts/audio.py",
+    "source_sha256": "29f093ccf463c7e902134f58d154aab320edec0d190f36cb590bd72913dec4b1",
+    "staged_sha256": "63bd88f427e32defcaa2a943c8103447a04f9125b3a05cb5a4eb3964efb0a6f8",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "backend/tts/models.py",
+    "source": "backend/tts/models.py",
+    "source_sha256": "1185ca7b02a4db69cf2c08b7bd0edd15b893649e5149d2e8b909906202e93093",
+    "staged_sha256": "1185ca7b02a4db69cf2c08b7bd0edd15b893649e5149d2e8b909906202e93093",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "backend/tts/profiles.py",
+    "source": "backend/tts/profiles.py",
+    "source_sha256": "341fe45028638c5dd898c2ab3415afdb74f9d625d538782efd72be8f67b4b42f",
+    "staged_sha256": "341fe45028638c5dd898c2ab3415afdb74f9d625d538782efd72be8f67b4b42f",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "backend/tts/router.py",
+    "source": "backend/tts/router.py",
+    "source_sha256": "716a8a4b1a9799013778da65040428fe1d491d73cb469c91e2213cd2d98efecb",
+    "staged_sha256": "716a8a4b1a9799013778da65040428fe1d491d73cb469c91e2213cd2d98efecb",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "backend/tts/__init__.py",
+    "source": "backend/tts/__init__.py",
+    "source_sha256": "ad9c1de08cf78f1c495247b99fb03eb58be0f16b94c117cd200d7aa8506800b4",
+    "staged_sha256": "434185dc4f84d3ade432b4c9ca8f22c509a96d47b77bfeddc3d851957d02dbe4",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "backend/tts/providers/base.py",
+    "source": "backend/tts/providers/base.py",
+    "source_sha256": "6a9d9b6f9d2b6a18eda18699ea9968fe3980d0884e77e9838b1d3cc479914291",
+    "staged_sha256": "6a9d9b6f9d2b6a18eda18699ea9968fe3980d0884e77e9838b1d3cc479914291",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "backend/tts/providers/edge_provider.py",
+    "source": "backend/tts/providers/edge_provider.py",
+    "source_sha256": "989251c92bcc346f1d7e7eafeb5e2333f3c6d0413fbc6b5a62d761005f0de0a4",
+    "staged_sha256": "86e83ab23a7be22486629592d341e2d61c84465c4eaacc7a119483952ca46c41",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "backend/tts/providers/gpt_sovits_provider.py",
+    "source": "backend/tts/providers/gpt_sovits_provider.py",
+    "source_sha256": "5d1938c8b8888e479d92cf9208c7346cdf8713b7d98373300c7f0a6467a49447",
+    "staged_sha256": "5d1938c8b8888e479d92cf9208c7346cdf8713b7d98373300c7f0a6467a49447",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "backend/tts/providers/__init__.py",
+    "source": "backend/tts/providers/__init__.py",
+    "source_sha256": "87e887d85a95f769352351d37d95a5500f3524460113a0b022910042b62cb016",
+    "staged_sha256": "d725f83aa3fd19026495fab5ad9dc30b5719b5122f28b493be6782c1ae767836",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "backend/capabilities/registry.py",
+    "source": "backend/capabilities/registry.py",
+    "source_sha256": "f24a423a3926b0432a243ed3297eaf72197c1e1178e95065165218ec7883f4f2",
+    "staged_sha256": "79fbb114b1693bdd2b88d8818b04985f69aad4782f354e3a19577e69b6a5c93e",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "backend/capabilities/trace.py",
+    "source": "backend/capabilities/trace.py",
+    "source_sha256": "59ec6b46c4148514bf89e8aea1c276d82cbe2fad3802e26e2091522f67566dd2",
+    "staged_sha256": "8b34ae6af97435ea7c0a5e673d029642d5dce01083107ae9f59459bd780baf94",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "backend/capabilities/__init__.py",
+    "source": "backend/capabilities/__init__.py",
+    "source_sha256": "2ceb8c91b136434aef6b37abaf4379ee157f59e58e5dc2b9d61ba49f169dc5d9",
+    "staged_sha256": "64d0b55343acbec39d76471e0fe619ec56e2eacd8934c5b145304794c7771740",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "backend/eval/contracts.py",
+    "source": "backend/eval/contracts.py",
+    "source_sha256": "7e6f53b0b6c4df57f3a8ea2509970a7c4865b6f99d48d8f015adfae02b3d0edf",
+    "staged_sha256": "7e6f53b0b6c4df57f3a8ea2509970a7c4865b6f99d48d8f015adfae02b3d0edf",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "backend/eval/runner.py",
+    "source": "backend/eval/runner.py",
+    "source_sha256": "1b1ac49e86835b89b39a7ee0ee27ef4b886f5f5a3184d85faf15dbb1027096f9",
+    "staged_sha256": "2efaa02b5f2a614aaff161403391410b9f4770d3a123bf34faf322a4c1bd69b6",
+    "staging_only_changes": [
+      "1 machine-local path literal(s) replaced by nonfunctional placeholder"
+    ]
+  },
+  {
+    "destination": "backend/eval/summarize.py",
+    "source": "backend/eval/summarize.py",
+    "source_sha256": "9ccce0f52b94d24a69a45b54c9f3d396c4b86318dbadd03d35b8fa2c5aaf3c8b",
+    "staged_sha256": "60ce89635d13d2c8e815122cb276d2e98b840f83e2abf9c554f0ac27ffb2d388",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "backend/eval/unity_setup.py",
+    "source": "backend/eval/unity_setup.py",
+    "source_sha256": "3b8335ba7927b8be3d5ddb085ca10d5e1b317a6cd89468be508a1572ad2e5dea",
+    "staged_sha256": "79a20075006b509e662b2d6514816831c912579eb55c9cf2078fe04fcdb3159e",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "backend/eval/worker.py",
+    "source": "backend/eval/worker.py",
+    "source_sha256": "66d03c1b5fb580c80df96027ab1488bdcb2dce8bafc9700484c64aba83736fed",
+    "staged_sha256": "66d03c1b5fb580c80df96027ab1488bdcb2dce8bafc9700484c64aba83736fed",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "backend/eval/__init__.py",
+    "source": "backend/eval/__init__.py",
+    "source_sha256": "c1f69686a3d0db5ea7b6af262601f552fb4fb417ce8c589100b13fa023b2dc9f",
+    "staged_sha256": "5df5f4389abfd2955be2c446bb78d7299b6ec8437fbbaecf261373a08b1e3c0c",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "backend/eval/fixtures/client.py",
+    "source": "backend/eval/fixtures/client.py",
+    "source_sha256": "ea715bb1b2761548f0927981ec2b5683a28a8aa7aae8457cfa899909d2093994",
+    "staged_sha256": "ea715bb1b2761548f0927981ec2b5683a28a8aa7aae8457cfa899909d2093994",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "backend/eval/fixtures/native_client.py",
+    "source": "backend/eval/fixtures/native_client.py",
+    "source_sha256": "cd04c330200697f982fa3b7d45b190571b67f15cfe041c6ef085901f114981d5",
+    "staged_sha256": "cd04c330200697f982fa3b7d45b190571b67f15cfe041c6ef085901f114981d5",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "backend/eval/fixtures/service.py",
+    "source": "backend/eval/fixtures/service.py",
+    "source_sha256": "5cbe3b700a16c7fc315fd9c4919d529ef8e92e9935bfbaf89437e8af73de1d18",
+    "staged_sha256": "5cbe3b700a16c7fc315fd9c4919d529ef8e92e9935bfbaf89437e8af73de1d18",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "backend/eval/fixtures/source_loader.py",
+    "source": "backend/eval/fixtures/source_loader.py",
+    "source_sha256": "ec1f06e02bb8315a0852b9f2a56460768be6bf6625de4dee08e4e926f6845cbf",
+    "staged_sha256": "bea1cd287dbcd1c2eae9d845704df3fb93c71ad5f06495664d0191d5c8bff362",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "backend/eval/fixtures/tone.py",
+    "source": "backend/eval/fixtures/tone.py",
+    "source_sha256": "9bdf3b29f4186607edc9fca58c1a2a5eb72bd6f650ac48f09d297b12f80e8373",
+    "staged_sha256": "d42170fcae027c2b5b5cb31254b28d039dbdbb12349025a382a1ab454442c750",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "backend/eval/fixtures/__init__.py",
+    "source": "backend/eval/fixtures/__init__.py",
+    "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "staged_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "backend/eval/metrics/performance.py",
+    "source": "backend/eval/metrics/performance.py",
+    "source_sha256": "2f58ce0be0dc043ba27b155246bae6c4c1f13de87c7f1c0c4b07b758ac42faf9",
+    "staged_sha256": "ab611c013a184408b0ac8c9241c2d366b2509f87201c1ffba693570d8387c7cb",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "backend/eval/metrics/profiling.py",
+    "source": "backend/eval/metrics/profiling.py",
+    "source_sha256": "a40b5a4ed952dc4f8edb08d4c62b7c81cf859d78915890b126fa6f5aef22db05",
+    "staged_sha256": "a40b5a4ed952dc4f8edb08d4c62b7c81cf859d78915890b126fa6f5aef22db05",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "backend/eval/metrics/__init__.py",
+    "source": "backend/eval/metrics/__init__.py",
+    "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "staged_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "backend/eval/suites/asr_runtime_checks.py",
+    "source": "backend/eval/suites/asr_runtime_checks.py",
+    "source_sha256": "b77aed661b52307e027be54c6ef55a0a1aa03ee6d57fff68d4f25c4b2e37be69",
+    "staged_sha256": "bd231f8e347f33e3db0bd121f5f5f00e55cc90b220054dea2d07a1d4677ecc9d",
+    "staging_only_changes": [
+      "1 machine-local path literal(s) replaced by nonfunctional placeholder"
+    ]
+  },
+  {
+    "destination": "backend/eval/suites/catalog.py",
+    "source": "backend/eval/suites/catalog.py",
+    "source_sha256": "48221d1db5e8e0cf2abcf72912a3ab2075265ce54f4862d3f7f6c9cfce389339",
+    "staged_sha256": "48221d1db5e8e0cf2abcf72912a3ab2075265ce54f4862d3f7f6c9cfce389339",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "backend/eval/suites/checks.py",
+    "source": "backend/eval/suites/checks.py",
+    "source_sha256": "547c7ee66ef647922cf9751ee56da13cd0a3574f698da45c78b3b4c91ceafc59",
+    "staged_sha256": "32f3e8a4ef8c8e5b8d3d6072ee44f0a1fa7b57664f33bebbd59a03e3fbc5653f",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "backend/eval/suites/native_catalog.py",
+    "source": "backend/eval/suites/native_catalog.py",
+    "source_sha256": "8cde16b35bbdcd09f05eee1132fd56315e90eaf679833ab221246483f04890f4",
+    "staged_sha256": "8cde16b35bbdcd09f05eee1132fd56315e90eaf679833ab221246483f04890f4",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "backend/eval/suites/native_checks.py",
+    "source": "backend/eval/suites/native_checks.py",
+    "source_sha256": "be6a469379bad3dfcd1ede8c39360213742c339fe8a0759340183c71771381fd",
+    "staged_sha256": "be6a469379bad3dfcd1ede8c39360213742c339fe8a0759340183c71771381fd",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "backend/eval/suites/performance_checks.py",
+    "source": "backend/eval/suites/performance_checks.py",
+    "source_sha256": "5ba3cc1f091e95911dc9c95c606b1ff971b495617516b7ede4cc716215e7aafe",
+    "staged_sha256": "5ba3cc1f091e95911dc9c95c606b1ff971b495617516b7ede4cc716215e7aafe",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "backend/eval/suites/quest_checks.py",
+    "source": "backend/eval/suites/quest_checks.py",
+    "source_sha256": "b3565f1ee884a3a90596dc6a62128fa07cfa6cae53d7e60944bb7e58f933c21a",
+    "staged_sha256": "c09aa0c8e57e423e82a348dcfdd2a4ff761483ed6c15367e5a3baa85b01ef046",
+    "staging_only_changes": [
+      "1 machine-local path literal(s) replaced by nonfunctional placeholder"
+    ]
+  },
+  {
+    "destination": "backend/eval/suites/reliability_checks.py",
+    "source": "backend/eval/suites/reliability_checks.py",
+    "source_sha256": "8c9abe80fa8a8c4f9e553e602785067dd0c81ec55e2b0437179a4e60c3b47a97",
+    "staged_sha256": "8c9abe80fa8a8c4f9e553e602785067dd0c81ec55e2b0437179a4e60c3b47a97",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "backend/eval/suites/tool_catalog.py",
+    "source": "backend/eval/suites/tool_catalog.py",
+    "source_sha256": "1c8bc50cc3cdc4e6f7b5a9bcbbad2baaeace02c74387beb706291c3ed666452f",
+    "staged_sha256": "b5294c8aaadfee8317609680f7833b422dcc62eb4a5f033e4d69937a98a52a57",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "backend/eval/suites/tool_checks.py",
+    "source": "backend/eval/suites/tool_checks.py",
+    "source_sha256": "5cdd56f4f30b8ca292f77311a7cc0e0fe031f147d1d03b2da90ba0e844d7ce63",
+    "staged_sha256": "2ce5d47037747d65c61dd36f375a0b8955336723f5cb07e47edc3cdc803596d3",
+    "staging_only_changes": [
+      "1 machine-local path literal(s) replaced by nonfunctional placeholder"
+    ]
+  },
+  {
+    "destination": "backend/eval/suites/tts_runtime_checks.py",
+    "source": "backend/eval/suites/tts_runtime_checks.py",
+    "source_sha256": "61de5505bdd60811ac421da4ea524f475029dca70d71ae405bfdc16271393fc9",
+    "staged_sha256": "4e2c0b5e6cc378f2d93f9001945a001c2a7dcee8615a3bc9e5e2a4c810971bb8",
+    "staging_only_changes": [
+      "1 machine-local path literal(s) replaced by nonfunctional placeholder"
+    ]
+  },
+  {
+    "destination": "backend/eval/suites/__init__.py",
+    "source": "backend/eval/suites/__init__.py",
+    "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "staged_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "backend/state_snapshot.schema.json",
+    "source": "backend/state_snapshot.schema.json",
+    "source_sha256": "8e47c91a5dec99eb186bc8c1b87b3f0723f93f5a35021df5605a43d1a11c4f2c",
+    "staged_sha256": "8e47c91a5dec99eb186bc8c1b87b3f0723f93f5a35021df5605a43d1a11c4f2c",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "backend/asr_runtime_config.json",
+    "source": "backend/asr_runtime_config.json",
+    "source_sha256": "82ff9bfc6de688073702fed5a754ff9fb2458b101e4b132878a0b6391175eac2",
+    "staged_sha256": "82ff9bfc6de688073702fed5a754ff9fb2458b101e4b132878a0b6391175eac2",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "backend/capabilities/capability_manifest.json",
+    "source": "backend/capabilities/capability_manifest.json",
+    "source_sha256": "b20cde66567268ef7e01361753767ade6de5a3e47865fcb5dda674ac925b97b1",
+    "staged_sha256": "b20cde66567268ef7e01361753767ade6de5a3e47865fcb5dda674ac925b97b1",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "backend/eval/config.json",
+    "source": "backend/eval/config.json",
+    "source_sha256": "c5694cd0da4139320341e36518c9ad701c21207e9e3b47d114399edda0bc1a0f",
+    "staged_sha256": "c5694cd0da4139320341e36518c9ad701c21207e9e3b47d114399edda0bc1a0f",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Assets/CompanionCapabilityModule/Resources/CompanionCapabilities/capability_manifest.json",
+    "source": "unity/Assets/CompanionCapabilityModule/Resources/CompanionCapabilities/capability_manifest.json",
+    "source_sha256": "b20cde66567268ef7e01361753767ade6de5a3e47865fcb5dda674ac925b97b1",
+    "staged_sha256": "b20cde66567268ef7e01361753767ade6de5a3e47865fcb5dda674ac925b97b1",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/Packages/manifest.reference.json",
+    "source": "unity/Packages/manifest.json",
+    "source_sha256": "f007a4f041bf6170209088c37e2d12acad11fdaf251dcb3a26c94ac42d90f2f3",
+    "staged_sha256": "c6a9231d00bffcee276d299e9b62806fa5cc379fa71beaae867f6dfeba676d85",
+    "staging_only_changes": []
+  },
+  {
+    "destination": "unity/ProjectVersion.reference.txt",
+    "source": "unity/ProjectSettings/ProjectVersion.txt",
+    "source_sha256": "5337be89adb2269e4af881ec04fa792d6ae679f2b7bed4499d5a3d80278782a9",
+    "staged_sha256": "8cc1e7fc3bd47ef1894f9692e6c55a6a12b29390de33e7370ee895fda6f3b5f9",
+    "staging_only_changes": []
+  },
+  {
+    "source": "backend/eval/known_issues.json",
+    "destination": "backend/eval/known_issues.json",
+    "source_sha256": "efff936647c282496118c603ba05c18ac13a22121f91c585c133c5359bbcdcbf",
+    "staged_sha256": "9c7de8c1fdc9d3747db275284dd782197221b7f7e3ad8b94d9effc537d1f0190",
+    "staging_only_changes": [
+      "Retain historical issue counts/status; replace private report locations with explicit unbundled-evidence note. Evidence-dependent test deliberately remains FAIL.",
+      "P2: final historical evidence pointer now targets numeric-only genuine local fixture; existing test assertions unchanged."
+    ]
+  }
+]

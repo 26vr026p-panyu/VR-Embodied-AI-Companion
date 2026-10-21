@@ -1,0 +1,33 @@
+{
+  "id": "roxy3.retained_audio_underrun",
+  "status": "RESOLVED",
+  "category": "Playback",
+  "secondary_category": "Performance",
+  "production_tuning": "Phase 4-1B startup reference preparation + discarded native mode-3 synthesis. Existing production buffer retained. Resolution scope: controlled desktop production-like repeated tests; future extreme producer stalls can still underrun.",
+  "evidence": [
+    {
+      "result": "FAIL",
+      "underruns": 14,
+      "run_id": "20261010T063230Z-d2c8125f",
+      "report": "docs/evaluation.md (historical private report; not bundled)"
+    },
+    {
+      "result": "FAIL",
+      "underruns": 8,
+      "run_id": "20261010T063449Z-bb642b63",
+      "report": "docs/evaluation.md (historical private report; not bundled)"
+    },
+    {
+      "result": "PASS",
+      "underruns": 0,
+      "utterances": 12,
+      "real_llm_turns": 2,
+      "real_llm_speech_segments": 6,
+      "cancellation": 1,
+      "run_id": "phase4-1b-production",
+      "report": "eval/evidence/roxy-known-issue-sanitized.json"
+    }
+  ],
+  "first_seen": "2026-10-10",
+  "quality_category": "PlaybackQuality"
+}

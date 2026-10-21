@@ -1,0 +1,31 @@
+{
+  "phase": "4-P5",
+  "date": "2026-10-21",
+  "security": "PASS",
+  "security_findings": [],
+  "security_scope": "All staging text files scanned for token/private key/Bearer/absolute Windows path/private-IP patterns; only two exact reviewed rendered-media paths admitted as binary. Not blanket DLP/legal clearance.",
+  "approved_binary_sha256": {
+    "media/VR_Embodied_AI_Companion_Demo_JA.mp4": "478119a309fd2e00aa576714bc4a7ca091aa140c71ab97882312c944a2b93254",
+    "media/demo-thumbnail.png": "7b57428dfb59b8ac9e7f83074fbe167e7b23aa9e2489bdf4a800daf73bab1e2f"
+  },
+  "python_syntax_pass": 58,
+  "json_parse_pass_before_this_file": 28,
+  "original_files_checked": 137,
+  "original_files_changed": 0,
+  "temporary_driver_in_assets": false,
+  "scene_dirty_at_exit": false,
+  "missing_script_at_exit": 0,
+  "adapter_references_complete": true,
+  "cleanup_csharp_compile": "PASS",
+  "public_tests": {
+    "PASS": 68,
+    "SKIP": 11,
+    "exit_code": 0
+  },
+  "source_license": "REVIEW REQUIRED",
+  "media_owner_approval": "PENDING",
+  "subjective_audiovisual_review": "OWNER PREVIEW REQUIRED",
+  "published": false,
+  "relative_link_errors": [],
+  "manifest_scope": "All actual staging files; self entry lists size but omits its own SHA to avoid recursive hash."
+}

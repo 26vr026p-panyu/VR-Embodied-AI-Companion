@@ -1,0 +1,258 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "AgentStateSnapshot V1",
+  "type": "object",
+  "properties": {
+    "version": {
+      "const": 1
+    },
+    "snapshot_id": {
+      "type": "string",
+      "pattern": "^[A-Za-z0-9_-]{1,96}$"
+    },
+    "trace_id": {
+      "type": "string",
+      "pattern": "^[A-Za-z0-9_-]{1,96}$"
+    },
+    "created_at_ms": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "turn_id": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "state_version": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "conversation": {
+      "type": "object",
+      "properties": {
+        "session_id": {
+          "type": "string",
+          "maxLength": 128,
+          "pattern": "^[^\\x00-\\x1f]*$"
+        },
+        "language": {
+          "type": "string",
+          "enum": [
+            "auto",
+            "en",
+            "ja",
+            "zh"
+          ]
+        },
+        "mode": {
+          "type": "string",
+          "enum": [
+            "exercise",
+            "general"
+          ]
+        }
+      },
+      "additionalProperties": false,
+      "required": [
+        "mode",
+        "language",
+        "session_id"
+      ]
+    },
+    "turn": {
+      "type": "object",
+      "properties": {
+        "lifecycle": {
+          "type": "string",
+          "enum": [
+            "cancelled",
+            "completed",
+            "created",
+            "failed",
+            "listening",
+            "processingasr",
+            "processingllm",
+            "processingtts",
+            "speaking",
+            "waitingsupplement"
+          ]
+        },
+        "cancelled": {
+          "type": "boolean"
+        }
+      },
+      "additionalProperties": false
+    },
+    "speech": {
+      "type": "object",
+      "properties": {
+        "request_id": {
+          "type": "string",
+          "maxLength": 128,
+          "pattern": "^[^\\x00-\\x1f]*$"
+        },
+        "queue_depth": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 32
+        },
+        "state": {
+          "type": "string",
+          "enum": [
+            "completed",
+            "failed",
+            "idle",
+            "interrupted",
+            "preparing",
+            "ready",
+            "speaking"
+          ]
+        },
+        "source": {
+          "type": "string",
+          "enum": [
+            "conversation",
+            "exercise",
+            "proactive",
+            "system",
+            "tool"
+          ]
+        },
+        "is_speaking": {
+          "type": "boolean"
+        }
+      },
+      "additionalProperties": false
+    },
+    "avatar": {
+      "type": "object",
+      "properties": {
+        "locomotion": {
+          "type": "string",
+          "enum": [
+            "idle",
+            "running",
+            "walking"
+          ]
+        },
+        "spatial_mode": {
+          "type": "string",
+          "enum": [
+            "approach",
+            "lead",
+            "roam",
+            "side",
+            "stay",
+            "trail"
+          ]
+        },
+        "spatial_intent": {
+          "type": "string",
+          "enum": [
+            "approach",
+            "lead",
+            "roam",
+            "side",
+            "stay",
+            "trail"
+          ]
+        },
+        "gesture": {
+          "type": "string",
+          "enum": [
+            "nod",
+            "none",
+            "wave"
+          ]
+        },
+        "expression": {
+          "type": "string",
+          "enum": [
+            "angry",
+            "concerned",
+            "happy",
+            "neutral",
+            "relaxed",
+            "sad",
+            "shy",
+            "surprised",
+            "unknown"
+          ]
+        }
+      },
+      "additionalProperties": false
+    },
+    "user": {
+      "type": "object",
+      "properties": {
+        "activity": {
+          "type": "string",
+          "enum": [
+            "moving",
+            "stationary"
+          ]
+        },
+        "is_speaking": {
+          "type": "boolean"
+        }
+      },
+      "additionalProperties": false
+    },
+    "environment": {
+      "type": "object",
+      "properties": {
+        "scene": {
+          "type": "string",
+          "maxLength": 128,
+          "pattern": "^[^\\x00-\\x1f]*$"
+        },
+        "relative_side": {
+          "type": "string",
+          "enum": [
+            "aligned",
+            "left",
+            "right"
+          ]
+        },
+        "relative_forward": {
+          "type": "string",
+          "enum": [
+            "ahead",
+            "aligned",
+            "behind"
+          ]
+        },
+        "distance_m": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 100000
+        }
+      },
+      "additionalProperties": false
+    },
+    "system": {
+      "type": "object",
+      "properties": {
+        "language_mode": {
+          "type": "string",
+          "enum": [
+            "auto",
+            "ja",
+            "zh"
+          ]
+        }
+      },
+      "additionalProperties": false
+    }
+  },
+  "required": [
+    "version",
+    "snapshot_id",
+    "created_at_ms",
+    "turn_id",
+    "trace_id",
+    "state_version",
+    "conversation"
+  ],
+  "additionalProperties": false,
+  "description": "Optional request-time state; validated size <=8192 UTF-8 bytes and matching header/request identity. Invalid state uses minimal context."
+}

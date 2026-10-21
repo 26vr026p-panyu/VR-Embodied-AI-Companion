@@ -1,0 +1,49 @@
+{
+  "phase": "4-P4",
+  "review_date": "2026-10-21",
+  "selected_historical_candidate": "Final_Presentation_Demo_JA_v3.mp4",
+  "source_label": "private presentation outputs/final-demo-v3 (original not copied or modified)",
+  "sha256": "833d80e236d1867d98c93bf26a07460d55fd959e77afb5edeb733325bcbfb6b8",
+  "file_timestamp_date": "2026-09-29 (filesystem metadata, not independently captured calendar time)",
+  "duration_seconds": 49.733333333333334,
+  "resolution": "1920x1080",
+  "fps": 15,
+  "audio_present": true,
+  "recording_type": "Historical Desktop single-view presentation, not physical PCVR or Quest Standalone",
+  "why_selected": "Latest continuous full-presentation variant in the inspected known final-demo roots; longer coherent progression than older v2/fix clips. Not a whole-disk newest-video assertion.",
+  "review_method": [
+    "Decoded sampled contact sheet at3-second intervals across full duration for visual review",
+    "Read recording Driver, overlay/encoder scripts and phase/request/reply timeline",
+    "Read-only stream/format check; pre-dialogue16-second audio max approximately-91dB",
+    "Not a frame-by-frame privacy/gait certification; no subjective voice identity conclusion"
+  ],
+  "visible_content": [
+    "Idle, walking Side, Japanese dialogue captions, Lead, Run, Wave and return to Idle",
+    "Avatar/map and Research HUD; no desktop chrome/personal file path seen in reviewed samples"
+  ],
+  "input_method": "Preset Japanese text; recording Driver explicitly disables VAD. LISTENING/THINKING phases include recording timing, not physical microphone verification",
+  "dialogue_evidence": "Two logged Backend requests and corresponding speech/behavior replies; not a new live request by P4",
+  "native_tool_calling_evidence": "Not established. Sidecar contains behavior-envelope replies; Wave is Debug through Orchestrator. Do not label as current native function/tool-result demonstration.",
+  "voice_provider": "Not established from these recording sidecars; do not label this old video current production Roxy3 without further provenance",
+  "audio_path": "Recording encoder mixes two exported TTS clips into stereo. It is not a capture of the full live3D spatial mixer, so does not validate spatial localization.",
+  "lip_sync": "Current LipSync implementation not established by this historical footage",
+  "music": "Inspected encoder takes only two exported TTS clips and no BGM input. This is stronger than a filename guess, but not a full auditory rights certification.",
+  "fonts": "Caption overlay script uses installed Windows YuGothM/YuGothB rasterized into frames; no font binaries distributed. Original HUD font mapping/remaining applicable rendering conditions not fully resolved.",
+  "map": "AnimeStraightTrack/WindsongMeadow with SimpleNaturePack-context assets visible; local inspected roots did not supply clear source/terms proof for final media use",
+  "motion": "Recording uses existing avatar/runtime and local Debug Wave; original project contains generated Placeholder clips/procedural controllers. No separate imported motion-rights chain established by this review",
+  "visual_notes": [
+    "No clear personal identifier/debug button seen in sampled frames",
+    "Later stop/Wave framing makes the Avatar relatively small",
+    "No visible AI-generated-voice disclosure in sampled frames; prepare label/description before cleared publication",
+    "15fps presentation is not a performance acceptance result"
+  ],
+  "permission_status": {
+    "model_modifier": "CONFIRMED FOR DESCRIBED USE",
+    "roxy_publisher": "CONFIRMED FOR DESCRIBED USE; does not identify this historical soundtrack provider",
+    "upstream_voice": "NOT INDEPENDENTLY VERIFIED",
+    "remaining_assets_privacy": "PENDING FINAL ASSET REVIEW"
+  },
+  "decision": "PARTIAL — historical Desktop review candidate only; not approved or copied into public media",
+  "not_required": "No re-recording/new runtime/camera/voice feature implemented",
+  "public_candidate_copy_created": false
+}

@@ -1,0 +1,79 @@
+[
+  {
+    "id": "asr.baseline_quality",
+    "actual_skip_reason": "Actual ASR runtime benchmark not completed",
+    "classification": "Requires private measurement evidence",
+    "basis": "Requires private measurement report from retained-WAV baseline, including waveform-hash evidence.",
+    "runtime_behavior": "Reads a report; does not itself invoke microphone/provider/headset"
+  },
+  {
+    "id": "asr.candidate_quality",
+    "actual_skip_reason": "Actual ASR runtime benchmark not completed",
+    "classification": "Requires private measurement evidence",
+    "basis": "Requires private same-corpus candidate quality report.",
+    "runtime_behavior": "Reads a report; does not itself invoke microphone/provider/headset"
+  },
+  {
+    "id": "asr.warm_latency",
+    "actual_skip_reason": "Actual ASR runtime benchmark not completed",
+    "classification": "Requires private measurement evidence",
+    "basis": "Requires private repeated warm-inference measurements.",
+    "runtime_behavior": "Reads a report; does not itself invoke microphone/provider/headset"
+  },
+  {
+    "id": "asr.model_resident",
+    "actual_skip_reason": "Actual ASR runtime benchmark not completed",
+    "classification": "Requires private measurement evidence",
+    "basis": "Requires report with actual live residency/instance health observations.",
+    "runtime_behavior": "Reads a report; does not itself invoke microphone/provider/headset"
+  },
+  {
+    "id": "asr.readiness",
+    "actual_skip_reason": "Actual ASR runtime benchmark not completed",
+    "classification": "Requires private measurement evidence",
+    "basis": "Requires report with live readiness observations (the test also has local load-state fixtures).",
+    "runtime_behavior": "Reads a report; does not itself invoke microphone/provider/headset"
+  },
+  {
+    "id": "tts.ready_state",
+    "actual_skip_reason": "Roxy runtime evidence not completed",
+    "classification": "Requires private measurement evidence",
+    "basis": "Requires historical local GPT-SoVITS cold/ready health report.",
+    "runtime_behavior": "Reads a report; does not itself invoke microphone/provider/headset"
+  },
+  {
+    "id": "tts.first_pcm_cold",
+    "actual_skip_reason": "Roxy runtime evidence not completed",
+    "classification": "Requires private measurement evidence",
+    "basis": "Requires real local-provider cold first-PCM measurement report.",
+    "runtime_behavior": "Reads a report; does not itself invoke microphone/provider/headset"
+  },
+  {
+    "id": "tts.first_pcm_warm",
+    "actual_skip_reason": "Roxy runtime evidence not completed",
+    "classification": "Requires private measurement evidence",
+    "basis": "Requires repeated local-provider warm first-PCM/warmup-discard evidence.",
+    "runtime_behavior": "Reads a report; does not itself invoke microphone/provider/headset"
+  },
+  {
+    "id": "tts.true_underrun",
+    "actual_skip_reason": "Roxy runtime evidence not completed",
+    "classification": "Requires private measurement evidence",
+    "basis": "Requires detailed Unity/real-provider playback and producer-active underrun event report.",
+    "runtime_behavior": "Reads a report; does not itself invoke microphone/provider/headset"
+  },
+  {
+    "id": "tts.buffer_depth",
+    "actual_skip_reason": "Roxy runtime evidence not completed",
+    "classification": "Requires private measurement evidence",
+    "basis": "Requires detailed Unity stream buffer/drop/EOS measurements.",
+    "runtime_behavior": "Reads a report; does not itself invoke microphone/provider/headset"
+  },
+  {
+    "id": "tts.barge_cancel",
+    "actual_skip_reason": "Roxy runtime evidence not completed",
+    "classification": "Requires private measurement evidence",
+    "basis": "Requires historical Unity/real-provider stream cancellation/mouth/audio observations; not Quest physical barge-in.",
+    "runtime_behavior": "Reads a report; does not itself invoke microphone/provider/headset"
+  }
+]

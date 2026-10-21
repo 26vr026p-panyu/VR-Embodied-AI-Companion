@@ -1,0 +1,197 @@
+{
+  "date": "2026-10-21",
+  "basis": "WindowsEditor + Quest 2 Link/Air Link; temporary Rig simulation; preset text into real services",
+  "scope": "7 x 45 seconds, not Android; no physical ASR in these workloads",
+  "source_report": "phase4-2a-fix/quest-performance-updated.json (retained privately)",
+  "workloads": [
+    {
+      "duration_seconds": 45.02171069999986,
+      "frame": {
+        "samples": 2678,
+        "median_ms": 16.507803,
+        "p95_ms": 22.3876,
+        "max_ms": 71.15189
+      },
+      "main_thread": {
+        "samples": 2678,
+        "median_ms": 16.501,
+        "p95_ms": 22.3982,
+        "max_ms": 83.1762
+      },
+      "gpu": {
+        "samples": 2131,
+        "median_ms": 0.08272,
+        "p95_ms": 0.12076,
+        "max_ms": 0.27644
+      },
+      "gc_counter_available": true,
+      "gc_alloc_mean_bytes_per_frame": 83168.83233756534,
+      "gc_alloc_max_bytes_per_frame": 266818,
+      "allocated_memory_start_bytes": 600357636,
+      "allocated_memory_peak_bytes": 601004828,
+      "scenario": "Idle"
+    },
+    {
+      "duration_seconds": 45.011281399999916,
+      "frame": {
+        "samples": 2588,
+        "median_ms": 16.3976974,
+        "p95_ms": 22.5561028,
+        "max_ms": 31.3272953
+      },
+      "main_thread": {
+        "samples": 2588,
+        "median_ms": 16.4021,
+        "p95_ms": 22.5572,
+        "max_ms": 41.6379
+      },
+      "gpu": {
+        "samples": 1946,
+        "median_ms": 0.08412,
+        "p95_ms": 0.09376,
+        "max_ms": 0.27016
+      },
+      "gc_counter_available": true,
+      "gc_alloc_mean_bytes_per_frame": 59652.269319938176,
+      "gc_alloc_max_bytes_per_frame": 234448,
+      "allocated_memory_start_bytes": 596379016,
+      "allocated_memory_peak_bytes": 600876012,
+      "scenario": "Walk_Side"
+    },
+    {
+      "duration_seconds": 45.01227199999994,
+      "frame": {
+        "samples": 2668,
+        "median_ms": 16.6881027,
+        "p95_ms": 22.1730938,
+        "max_ms": 33.6143
+      },
+      "main_thread": {
+        "samples": 2668,
+        "median_ms": 16.678,
+        "p95_ms": 22.187,
+        "max_ms": 33.6139
+      },
+      "gpu": {
+        "samples": 2168,
+        "median_ms": 0.05396,
+        "p95_ms": 0.08632,
+        "max_ms": 0.2952
+      },
+      "gc_counter_available": true,
+      "gc_alloc_mean_bytes_per_frame": 102565.09820089955,
+      "gc_alloc_max_bytes_per_frame": 299494,
+      "allocated_memory_start_bytes": 596117996,
+      "allocated_memory_peak_bytes": 601011398,
+      "scenario": "Run_Turn"
+    },
+    {
+      "duration_seconds": 45.00119429999995,
+      "frame": {
+        "samples": 2591,
+        "median_ms": 16.625,
+        "p95_ms": 22.2207,
+        "max_ms": 1014.37531
+      },
+      "main_thread": {
+        "samples": 2591,
+        "median_ms": 16.6205,
+        "p95_ms": 22.2355,
+        "max_ms": 1014.1861
+      },
+      "gpu": {
+        "samples": 2191,
+        "median_ms": 0.0562,
+        "p95_ms": 0.09236,
+        "max_ms": 2.81432
+      },
+      "gc_counter_available": true,
+      "gc_alloc_mean_bytes_per_frame": 113239.3786182941,
+      "gc_alloc_max_bytes_per_frame": 1411206,
+      "allocated_memory_start_bytes": 594377251,
+      "allocated_memory_peak_bytes": 605013456,
+      "scenario": "Conversation"
+    },
+    {
+      "duration_seconds": 45.00226509999993,
+      "frame": {
+        "samples": 2643,
+        "median_ms": 16.4946,
+        "p95_ms": 22.5695934,
+        "max_ms": 33.3724
+      },
+      "main_thread": {
+        "samples": 2643,
+        "median_ms": 16.4908,
+        "p95_ms": 22.6006,
+        "max_ms": 33.3613
+      },
+      "gpu": {
+        "samples": 2077,
+        "median_ms": 0.069,
+        "p95_ms": 0.08188,
+        "max_ms": 0.30084
+      },
+      "gc_counter_available": true,
+      "gc_alloc_mean_bytes_per_frame": 79271.09080590238,
+      "gc_alloc_max_bytes_per_frame": 1584889,
+      "allocated_memory_start_bytes": 603622473,
+      "allocated_memory_peak_bytes": 604777171,
+      "scenario": "TTS_LipSync"
+    },
+    {
+      "duration_seconds": 45.002863400000024,
+      "frame": {
+        "samples": 2533,
+        "median_ms": 17.0460033,
+        "p95_ms": 22.7803,
+        "max_ms": 117.339294
+      },
+      "main_thread": {
+        "samples": 2533,
+        "median_ms": 17.0178,
+        "p95_ms": 22.7818,
+        "max_ms": 117.3064
+      },
+      "gpu": {
+        "samples": 1936,
+        "median_ms": 0.08344,
+        "p95_ms": 0.0902,
+        "max_ms": 1.85608
+      },
+      "gc_counter_available": true,
+      "gc_alloc_mean_bytes_per_frame": 65734.57283853139,
+      "gc_alloc_max_bytes_per_frame": 1532793,
+      "allocated_memory_start_bytes": 598847720,
+      "allocated_memory_peak_bytes": 604467486,
+      "scenario": "Tool_Spatial"
+    },
+    {
+      "duration_seconds": 45.014580900000055,
+      "frame": {
+        "samples": 2451,
+        "median_ms": 19.2738934,
+        "p95_ms": 27.8539047,
+        "max_ms": 41.474205
+      },
+      "main_thread": {
+        "samples": 2451,
+        "median_ms": 19.2644,
+        "p95_ms": 27.8623,
+        "max_ms": 41.4969
+      },
+      "gpu": {
+        "samples": 1893,
+        "median_ms": 0.0816,
+        "p95_ms": 0.08916,
+        "max_ms": 0.51058
+      },
+      "gc_counter_available": true,
+      "gc_alloc_mean_bytes_per_frame": 62046.34598123215,
+      "gc_alloc_max_bytes_per_frame": 1489052,
+      "allocated_memory_start_bytes": 598896305,
+      "allocated_memory_peak_bytes": 604232987,
+      "scenario": "Combined"
+    }
+  ]
+}

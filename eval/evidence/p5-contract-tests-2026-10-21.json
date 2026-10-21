@@ -1,0 +1,406 @@
+{
+  "phase": "4-P5",
+  "run_id": "20261021T145525Z-26cff344",
+  "counts": {
+    "PASS": 68,
+    "SKIP": 11
+  },
+  "exit_code": 0,
+  "cases": [
+    {
+      "case_id": "state.readonly",
+      "status": "PASS",
+      "reason": null
+    },
+    {
+      "case_id": "state.general",
+      "status": "PASS",
+      "reason": null
+    },
+    {
+      "case_id": "state.cancelled_history",
+      "status": "PASS",
+      "reason": null
+    },
+    {
+      "case_id": "state.malformed",
+      "status": "PASS",
+      "reason": null
+    },
+    {
+      "case_id": "state.budget",
+      "status": "PASS",
+      "reason": null
+    },
+    {
+      "case_id": "conversation.valid",
+      "status": "PASS",
+      "reason": null
+    },
+    {
+      "case_id": "conversation.speech_only",
+      "status": "PASS",
+      "reason": null
+    },
+    {
+      "case_id": "conversation.invalid_json",
+      "status": "PASS",
+      "reason": null
+    },
+    {
+      "case_id": "conversation.invalid_enum",
+      "status": "PASS",
+      "reason": null
+    },
+    {
+      "case_id": "conversation.context_present",
+      "status": "PASS",
+      "reason": null
+    },
+    {
+      "case_id": "conversation.streaming_chunks",
+      "status": "PASS",
+      "reason": null
+    },
+    {
+      "case_id": "reliability.history_once",
+      "status": "PASS",
+      "reason": null
+    },
+    {
+      "case_id": "reliability.late_result",
+      "status": "PASS",
+      "reason": null
+    },
+    {
+      "case_id": "performance.context",
+      "status": "PASS",
+      "reason": null
+    },
+    {
+      "case_id": "performance.thresholds",
+      "status": "PASS",
+      "reason": null
+    },
+    {
+      "case_id": "reliability.exit_codes",
+      "status": "PASS",
+      "reason": null
+    },
+    {
+      "case_id": "tool.manifest",
+      "status": "PASS",
+      "reason": null
+    },
+    {
+      "case_id": "tool.arguments",
+      "status": "PASS",
+      "reason": null
+    },
+    {
+      "case_id": "tool.availability",
+      "status": "PASS",
+      "reason": null
+    },
+    {
+      "case_id": "tool.call_contract",
+      "status": "PASS",
+      "reason": null
+    },
+    {
+      "case_id": "tool.performance",
+      "status": "PASS",
+      "reason": null
+    },
+    {
+      "case_id": "tool_calling.alias",
+      "status": "PASS",
+      "reason": null
+    },
+    {
+      "case_id": "tool_calling.assembly",
+      "status": "PASS",
+      "reason": null
+    },
+    {
+      "case_id": "tool_calling.no_tool",
+      "status": "PASS",
+      "reason": null
+    },
+    {
+      "case_id": "tool_calling.wave",
+      "status": "PASS",
+      "reason": null
+    },
+    {
+      "case_id": "tool_calling.lead",
+      "status": "PASS",
+      "reason": null
+    },
+    {
+      "case_id": "tool_calling.expression",
+      "status": "PASS",
+      "reason": null
+    },
+    {
+      "case_id": "tool_calling.invalid",
+      "status": "PASS",
+      "reason": null
+    },
+    {
+      "case_id": "tool_calling.unknown",
+      "status": "PASS",
+      "reason": null
+    },
+    {
+      "case_id": "tool_calling.already_side",
+      "status": "PASS",
+      "reason": null
+    },
+    {
+      "case_id": "tool_calling.multi",
+      "status": "PASS",
+      "reason": null
+    },
+    {
+      "case_id": "tool_calling.conflict",
+      "status": "PASS",
+      "reason": null
+    },
+    {
+      "case_id": "tool_calling.cancel",
+      "status": "PASS",
+      "reason": null
+    },
+    {
+      "case_id": "tool_calling.timeout",
+      "status": "PASS",
+      "reason": null
+    },
+    {
+      "case_id": "tool_calling.loop",
+      "status": "PASS",
+      "reason": null
+    },
+    {
+      "case_id": "tool_calling.legacy",
+      "status": "PASS",
+      "reason": null
+    },
+    {
+      "case_id": "tool_calling.prefix_identity",
+      "status": "PASS",
+      "reason": null
+    },
+    {
+      "case_id": "tool_calling.result_identity",
+      "status": "PASS",
+      "reason": null
+    },
+    {
+      "case_id": "tool_calling.policy",
+      "status": "PASS",
+      "reason": null
+    },
+    {
+      "case_id": "tool_calling.grounding_contract",
+      "status": "PASS",
+      "reason": null
+    },
+    {
+      "case_id": "reliability.policy_llm_pre",
+      "status": "PASS",
+      "reason": null
+    },
+    {
+      "case_id": "reliability.policy_llm_post",
+      "status": "PASS",
+      "reason": null
+    },
+    {
+      "case_id": "reliability.policy_tts_pre",
+      "status": "PASS",
+      "reason": null
+    },
+    {
+      "case_id": "reliability.policy_tts_post",
+      "status": "PASS",
+      "reason": null
+    },
+    {
+      "case_id": "reliability.policy_normal_rejection",
+      "status": "PASS",
+      "reason": null
+    },
+    {
+      "case_id": "reliability.policy_tool_timeout",
+      "status": "PASS",
+      "reason": null
+    },
+    {
+      "case_id": "reliability.policy_native_post",
+      "status": "PASS",
+      "reason": null
+    },
+    {
+      "case_id": "reliability.policy_cancel_priority",
+      "status": "PASS",
+      "reason": null
+    },
+    {
+      "case_id": "reliability.policy_loop",
+      "status": "PASS",
+      "reason": null
+    },
+    {
+      "case_id": "reliability.policy_depth",
+      "status": "PASS",
+      "reason": null
+    },
+    {
+      "case_id": "reliability.policy_fallback_failed",
+      "status": "PASS",
+      "reason": null
+    },
+    {
+      "case_id": "reliability.policy_retry_budget",
+      "status": "PASS",
+      "reason": null
+    },
+    {
+      "case_id": "reliability.policy_invalid_state",
+      "status": "PASS",
+      "reason": null
+    },
+    {
+      "case_id": "reliability.policy_actual_timeout",
+      "status": "PASS",
+      "reason": null
+    },
+    {
+      "case_id": "reliability.policy_history_once",
+      "status": "PASS",
+      "reason": null
+    },
+    {
+      "case_id": "reliability.policy_history_cancel",
+      "status": "PASS",
+      "reason": null
+    },
+    {
+      "case_id": "reliability.policy_cancel_race",
+      "status": "PASS",
+      "reason": null
+    },
+    {
+      "case_id": "reliability.policy_health",
+      "status": "PASS",
+      "reason": null
+    },
+    {
+      "case_id": "reliability.policy_safe_record",
+      "status": "PASS",
+      "reason": null
+    },
+    {
+      "case_id": "reliability.policy_known_issue",
+      "status": "PASS",
+      "reason": null
+    },
+    {
+      "case_id": "reliability.policy_overhead",
+      "status": "PASS",
+      "reason": null
+    },
+    {
+      "case_id": "reliability.policy_edge_router",
+      "status": "PASS",
+      "reason": null
+    },
+    {
+      "case_id": "reliability.policy_actual_rescue_failure",
+      "status": "PASS",
+      "reason": null
+    },
+    {
+      "case_id": "reliability.policy_edge_cancel",
+      "status": "PASS",
+      "reason": null
+    },
+    {
+      "case_id": "performance.measurement_integrity",
+      "status": "PASS",
+      "reason": null
+    },
+    {
+      "case_id": "performance.no_fake_metrics",
+      "status": "PASS",
+      "reason": null
+    },
+    {
+      "case_id": "performance.budget_schema",
+      "status": "PASS",
+      "reason": null
+    },
+    {
+      "case_id": "performance.baseline_serialization",
+      "status": "PASS",
+      "reason": null
+    },
+    {
+      "case_id": "asr.baseline_quality",
+      "status": "SKIP",
+      "reason": "Actual ASR runtime benchmark not completed"
+    },
+    {
+      "case_id": "asr.candidate_quality",
+      "status": "SKIP",
+      "reason": "Actual ASR runtime benchmark not completed"
+    },
+    {
+      "case_id": "asr.warm_latency",
+      "status": "SKIP",
+      "reason": "Actual ASR runtime benchmark not completed"
+    },
+    {
+      "case_id": "asr.model_resident",
+      "status": "SKIP",
+      "reason": "Actual ASR runtime benchmark not completed"
+    },
+    {
+      "case_id": "asr.readiness",
+      "status": "SKIP",
+      "reason": "Actual ASR runtime benchmark not completed"
+    },
+    {
+      "case_id": "tts.ready_state",
+      "status": "SKIP",
+      "reason": "Roxy runtime evidence not completed"
+    },
+    {
+      "case_id": "tts.first_pcm_cold",
+      "status": "SKIP",
+      "reason": "Roxy runtime evidence not completed"
+    },
+    {
+      "case_id": "tts.first_pcm_warm",
+      "status": "SKIP",
+      "reason": "Roxy runtime evidence not completed"
+    },
+    {
+      "case_id": "tts.true_underrun",
+      "status": "SKIP",
+      "reason": "Roxy runtime evidence not completed"
+    },
+    {
+      "case_id": "tts.buffer_depth",
+      "status": "SKIP",
+      "reason": "Roxy runtime evidence not completed"
+    },
+    {
+      "case_id": "tts.barge_cancel",
+      "status": "SKIP",
+      "reason": "Roxy runtime evidence not completed"
+    }
+  ]
+}

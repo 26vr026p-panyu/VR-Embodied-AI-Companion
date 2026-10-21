@@ -1,0 +1,101 @@
+{
+  "date": "2026-10-21",
+  "source_mode": "explicit file/module whitelist, not whole-project copy",
+  "original_files_hash_checked": 137,
+  "original_files_changed": 0,
+  "source_hash_inventory": "kept privately, no local paths published",
+  "original_unity": "UNCHANGED",
+  "original_backend": "UNCHANGED",
+  "copied_source_entries": 206,
+  "staged_source_hash_errors": [],
+  "broken_relative_links": [],
+  "mermaid": [
+    {
+      "document": "README.md",
+      "diagram": 1,
+      "structural_check": "PASS",
+      "full_parser": "NOT VERIFIED",
+      "render": "NOT VERIFIED"
+    },
+    {
+      "document": "README_ja.md",
+      "diagram": 1,
+      "structural_check": "PASS",
+      "full_parser": "NOT VERIFIED",
+      "render": "NOT VERIFIED"
+    },
+    {
+      "document": "docs/architecture.md",
+      "diagram": 1,
+      "structural_check": "PASS",
+      "full_parser": "NOT VERIFIED",
+      "render": "NOT VERIFIED"
+    },
+    {
+      "document": "docs/reliability.md",
+      "diagram": 1,
+      "structural_check": "PASS",
+      "full_parser": "NOT VERIFIED",
+      "render": "NOT VERIFIED"
+    },
+    {
+      "document": "docs/research-vision.md",
+      "diagram": 1,
+      "structural_check": "PASS",
+      "full_parser": "NOT VERIFIED",
+      "render": "NOT VERIFIED"
+    },
+    {
+      "document": "docs/roadmap.md",
+      "diagram": 1,
+      "structural_check": "PASS",
+      "full_parser": "NOT VERIFIED",
+      "render": "NOT VERIFIED"
+    },
+    {
+      "document": "docs/tool-calling.md",
+      "diagram": 1,
+      "structural_check": "PASS",
+      "full_parser": "NOT VERIFIED",
+      "render": "NOT VERIFIED"
+    },
+    {
+      "document": "docs/voice-pipeline.md",
+      "diagram": 1,
+      "structural_check": "PASS",
+      "full_parser": "NOT VERIFIED",
+      "render": "NOT VERIFIED"
+    }
+  ],
+  "unit_tests": {
+    "PASS": 68,
+    "FAIL": 0,
+    "SKIP": 11,
+    "ERROR": 0,
+    "exit_code": 0
+  },
+  "syntax": "PASS for 58 selected Python modules; no model import",
+  "public_tree_unity_compile": "NOT VERIFIED",
+  "public_tree_live_backend": "NOT TESTED",
+  "clean_install": "NOT TESTED",
+  "license_gate": "HUMAN REVIEW REQUIRED",
+  "published_to_github": false,
+  "previous_v0_1_unit_tests": {
+    "PASS": 67,
+    "FAIL": 1,
+    "SKIP": 11,
+    "exit_code": 1
+  },
+  "phase": "4-P2",
+  "mermaid_full_render": "NOT VERIFIED",
+  "latest_validation": "prerelease-validation.json",
+  "python_syntax": {
+    "PASS": 58,
+    "FAIL": 0
+  },
+  "json_parsing": {
+    "PASS": 19,
+    "FAIL": 0
+  },
+  "security_findings": []
+}

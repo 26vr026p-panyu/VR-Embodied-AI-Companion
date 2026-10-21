@@ -1,0 +1,63 @@
+{
+  "date": "2026-10-21",
+  "method": "P3 read-only primary browser pages/local model Readme+header; P4 locally viewed private MMD/Roxy affirmative-reply screenshots, no raw-copy publication",
+  "mmd": {
+    "url": "https://www.aplaybox.com/details/model/gF6QUvbECNUA",
+    "title": "【原神】茜特菈莉「星与烟帷的夜语」",
+    "provider_as_credited": "miHoYo",
+    "modifier_as_credited": "观海",
+    "public_modifier_contact_name": "观海子 (Bilibili)",
+    "readme_name": "readme【一定要看】.txt",
+    "readme_sha256": "78b25e862eb859b14db9cc20b14c09972c0a9f02c541e9a9f6dc18793b717b60",
+    "local_model_filename": "茜特拉莉_夏日.pmx",
+    "internal_name": "Citlali_CostumeSummer",
+    "pmx_file_format_version": 2.0,
+    "semantic_model_release_version": "NOT VERIFIED; PMX2.0 is format, not asset revision",
+    "embedded_comment_matches_local_readme": true,
+    "local_model_sha256": "17295c7c7d8d52af0f7846c5a71abff6a13040fe5abb8b45e72c479df7c1a80b",
+    "remote_archive_binary_match": "NOT VERIFIED; no new archive downloaded",
+    "confirmed_terms": [
+      "Limited correction/appearance/material modification permitted",
+      "Redistribution and harvesting parts for other models prohibited",
+      "Commercial use prohibited",
+      "Readme has explicit content-use restrictions",
+      "Page requires full borrowed-material credits",
+      "Page restricts use to video production"
+    ],
+    "interactive_unity_vr_use": "Contacted modifier affirms described personal noncommercial Unity/VR research and GitHub demo use; not unrestricted interactive redistribution or miHoYo legal clearance",
+    "video_showcase_use": "Modifier permission confirmed for described GitHub portfolio demo; final footage/other-asset review pending",
+    "separate_rigger_converter": "NOT VERIFIED; only general modification credit to 观海 established",
+    "user_statement": "Now corroborated by locally reviewed mmd.png DM screenshot; original retained privately",
+    "embedded_comment_matches_local_readme_after_newline_normalization": true,
+    "modifier_permission": "CONFIRMED FOR DESCRIBED USE"
+  },
+  "roxy": {
+    "url": "https://www.bilibili.com/video/BV1HfF6zNEK8/",
+    "title": "【GPT-SoVITS v2 pro plus】分享洛琪希最新AI语音模型（附保姆级使用教程）",
+    "verified_publisher_uploader": "独孤欲雪",
+    "uploader_profile": "https://space.bilibili.com/383710712",
+    "description_update_date": "2026-10-03",
+    "model_version_in_description": "Roxy3.0; additional animation voice data integrated",
+    "shared_contents_as_described": "GPT/SoVITS models, training material, reference recommendations; no files copied",
+    "explicit_synthesized_audio_publication_grant": "Visible publication description lacks an express grant; separate locally reviewed roxy.png DM affirmatively answers the described research/GitHub portfolio request",
+    "original_video_reupload": "Explicit unauthorized reprint prohibition displayed; no original video copied",
+    "package_terms_readme": "No separate Readme/terms text located by scoped package scan",
+    "performer_animation_source_rights": "NOT INDEPENDENTLY VERIFIED",
+    "publisher_permission": "CONFIRMED FOR DESCRIBED USE"
+  },
+  "software": {
+    "name": "GPT-SoVITS",
+    "project": "RVC-Boss/GPT-SoVITS and contributors",
+    "url": "https://github.com/RVC-Boss/GPT-SoVITS",
+    "license_url": "https://raw.githubusercontent.com/RVC-Boss/GPT-SoVITS/main/LICENSE",
+    "observed_license": "MIT, copyright2024 RVC-Boss; separate from voice model/data/performer rights"
+  },
+  "not_performed": [
+    "No contact/permission request sent by this agent; owner supplied existing replies",
+    "No original screenshot/asset moved or modified",
+    "No model/audio/runtime changed",
+    "No publication"
+  ],
+  "phase": "4-P4",
+  "authorization_metadata": "authorization-evidence.json"
+}

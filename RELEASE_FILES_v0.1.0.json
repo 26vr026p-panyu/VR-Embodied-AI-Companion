@@ -1,0 +1,1407 @@
+{
+  "scope": "Initial v0.1.0 release files; P5 manifest retained as historical approval baseline. Publication verification report may follow as docs-only commit.",
+  "self_entry": "Size/SHA omitted to avoid recursive self-hash",
+  "files": [
+    {
+      "path": ".env.example",
+      "bytes": 147,
+      "sha256": "568b78c9b88d72bb9a40501d288c99de6cf4ce4dc8cbbae772d67f2336faa154"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 800,
+      "sha256": "e59d63530b85709bdb0655d1c4d33dcf84d6c21f444b33c9bd91916a3c5a51a1"
+    },
+    {
+      "path": "backend/action_tool_policy.py",
+      "bytes": 2775,
+      "sha256": "04ec02c1d879fa4eb546830bff19346b5d598cbfee52fd05ecde6db2bbe4fdda"
+    },
+    {
+      "path": "backend/agent_context.py",
+      "bytes": 5728,
+      "sha256": "c9fa5c364dc31ed8f57012710abb5ce2147243c3f203b247bc15b37b6a847ae0"
+    },
+    {
+      "path": "backend/agent_state.py",
+      "bytes": 6731,
+      "sha256": "8424f11a060ed4cb1040434799ff39364f9a3fb9157a57cec33192567a908745"
+    },
+    {
+      "path": "backend/agent_streaming.py",
+      "bytes": 9714,
+      "sha256": "ef2d8060dd24ec35f7b51a92b2e812424b1bd76aad2c42ef4b1c95bf24413cd9"
+    },
+    {
+      "path": "backend/asr_input_guard.py",
+      "bytes": 1149,
+      "sha256": "e79dccc4b110b5802cad2618810d607070c016bedc2092eeb704c06ff5331969"
+    },
+    {
+      "path": "backend/asr_language_policy.py",
+      "bytes": 823,
+      "sha256": "f45fa516e06780e8e7d97b6a812766a9ed56337fd53c990edde1b3b47508e31e"
+    },
+    {
+      "path": "backend/asr_language_providers.py",
+      "bytes": 3226,
+      "sha256": "5502f4ef32c87a566852acba99120971d38193efbe9440db033dcd909cd48b56"
+    },
+    {
+      "path": "backend/asr_providers.py",
+      "bytes": 6739,
+      "sha256": "c3b55fee99a37ff7fb2fe4d85b981ae1a77f75474874449e0830b3a8476ef680"
+    },
+    {
+      "path": "backend/asr_runtime_config.json",
+      "bytes": 203,
+      "sha256": "82ff9bfc6de688073702fed5a754ff9fb2458b101e4b132878a0b6391175eac2"
+    },
+    {
+      "path": "backend/asr_streaming.py",
+      "bytes": 16187,
+      "sha256": "30a68bc754ea59e8781471e9addace7e3f1d1880f0988338fe8543d10ad7017b"
+    },
+    {
+      "path": "backend/behavior_contract.py",
+      "bytes": 2461,
+      "sha256": "d3099c1028f5e1d213c2c8c8cb8e6524c4f1d6fef16cc2fdfdc9395f2906f21b"
+    },
+    {
+      "path": "backend/capabilities/__init__.py",
+      "bytes": 74,
+      "sha256": "64d0b55343acbec39d76471e0fe619ec56e2eacd8934c5b145304794c7771740"
+    },
+    {
+      "path": "backend/capabilities/capability_manifest.json",
+      "bytes": 5594,
+      "sha256": "b20cde66567268ef7e01361753767ade6de5a3e47865fcb5dda674ac925b97b1"
+    },
+    {
+      "path": "backend/capabilities/registry.py",
+      "bytes": 6312,
+      "sha256": "79fbb114b1693bdd2b88d8818b04985f69aad4782f354e3a19577e69b6a5c93e"
+    },
+    {
+      "path": "backend/capabilities/trace.py",
+      "bytes": 667,
+      "sha256": "8b34ae6af97435ea7c0a5e673d029642d5dce01083107ae9f59459bd780baf94"
+    },
+    {
+      "path": "backend/companion_persona.py",
+      "bytes": 9601,
+      "sha256": "50422063ee2c403acce767785e1007e593728947681447811c1e83d1116ad0f0"
+    },
+    {
+      "path": "backend/eval/__init__.py",
+      "bytes": 74,
+      "sha256": "5df5f4389abfd2955be2c446bb78d7299b6ec8437fbbaecf261373a08b1e3c0c"
+    },
+    {
+      "path": "backend/eval/config.json",
+      "bytes": 231,
+      "sha256": "c5694cd0da4139320341e36518c9ad701c21207e9e3b47d114399edda0bc1a0f"
+    },
+    {
+      "path": "backend/eval/contracts.py",
+      "bytes": 1390,
+      "sha256": "7e6f53b0b6c4df57f3a8ea2509970a7c4865b6f99d48d8f015adfae02b3d0edf"
+    },
+    {
+      "path": "backend/eval/evidence/roxy-known-issue-sanitized.json",
+      "bytes": 3216,
+      "sha256": "0d10b700eb84b830bb9c0fbbf98b1d6b9f27b717a8824abd1617497256e71efb"
+    },
+    {
+      "path": "backend/eval/fixtures/__init__.py",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "backend/eval/fixtures/client.py",
+      "bytes": 1705,
+      "sha256": "ea715bb1b2761548f0927981ec2b5683a28a8aa7aae8457cfa899909d2093994"
+    },
+    {
+      "path": "backend/eval/fixtures/native_client.py",
+      "bytes": 2245,
+      "sha256": "cd04c330200697f982fa3b7d45b190571b67f15cfe041c6ef085901f114981d5"
+    },
+    {
+      "path": "backend/eval/fixtures/service.py",
+      "bytes": 5445,
+      "sha256": "5cbe3b700a16c7fc315fd9c4919d529ef8e92e9935bfbaf89437e8af73de1d18"
+    },
+    {
+      "path": "backend/eval/fixtures/source_loader.py",
+      "bytes": 1382,
+      "sha256": "bea1cd287dbcd1c2eae9d845704df3fb93c71ad5f06495664d0191d5c8bff362"
+    },
+    {
+      "path": "backend/eval/fixtures/tone.py",
+      "bytes": 685,
+      "sha256": "d42170fcae027c2b5b5cb31254b28d039dbdbb12349025a382a1ab454442c750"
+    },
+    {
+      "path": "backend/eval/known_issues.json",
+      "bytes": 1157,
+      "sha256": "9c7de8c1fdc9d3747db275284dd782197221b7f7e3ad8b94d9effc537d1f0190"
+    },
+    {
+      "path": "backend/eval/metrics/__init__.py",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "backend/eval/metrics/performance.py",
+      "bytes": 1812,
+      "sha256": "ab611c013a184408b0ac8c9241c2d366b2509f87201c1ffba693570d8387c7cb"
+    },
+    {
+      "path": "backend/eval/metrics/profiling.py",
+      "bytes": 3368,
+      "sha256": "a40b5a4ed952dc4f8edb08d4c62b7c81cf859d78915890b126fa6f5aef22db05"
+    },
+    {
+      "path": "backend/eval/runner.py",
+      "bytes": 15733,
+      "sha256": "2efaa02b5f2a614aaff161403391410b9f4770d3a123bf34faf322a4c1bd69b6"
+    },
+    {
+      "path": "backend/eval/suites/__init__.py",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "backend/eval/suites/asr_runtime_checks.py",
+      "bytes": 2538,
+      "sha256": "bd231f8e347f33e3db0bd121f5f5f00e55cc90b220054dea2d07a1d4677ecc9d"
+    },
+    {
+      "path": "backend/eval/suites/catalog.py",
+      "bytes": 14503,
+      "sha256": "48221d1db5e8e0cf2abcf72912a3ab2075265ce54f4862d3f7f6c9cfce389339"
+    },
+    {
+      "path": "backend/eval/suites/checks.py",
+      "bytes": 11303,
+      "sha256": "32f3e8a4ef8c8e5b8d3d6072ee44f0a1fa7b57664f33bebbd59a03e3fbc5653f"
+    },
+    {
+      "path": "backend/eval/suites/native_catalog.py",
+      "bytes": 1615,
+      "sha256": "8cde16b35bbdcd09f05eee1132fd56315e90eaf679833ab221246483f04890f4"
+    },
+    {
+      "path": "backend/eval/suites/native_checks.py",
+      "bytes": 10389,
+      "sha256": "be6a469379bad3dfcd1ede8c39360213742c339fe8a0759340183c71771381fd"
+    },
+    {
+      "path": "backend/eval/suites/performance_checks.py",
+      "bytes": 2447,
+      "sha256": "5ba3cc1f091e95911dc9c95c606b1ff971b495617516b7ede4cc716215e7aafe"
+    },
+    {
+      "path": "backend/eval/suites/quest_checks.py",
+      "bytes": 1249,
+      "sha256": "c09aa0c8e57e423e82a348dcfdd2a4ff761483ed6c15367e5a3baa85b01ef046"
+    },
+    {
+      "path": "backend/eval/suites/reliability_checks.py",
+      "bytes": 9366,
+      "sha256": "8c9abe80fa8a8c4f9e553e602785067dd0c81ec55e2b0437179a4e60c3b47a97"
+    },
+    {
+      "path": "backend/eval/suites/tool_catalog.py",
+      "bytes": 1363,
+      "sha256": "b5294c8aaadfee8317609680f7833b422dcc62eb4a5f033e4d69937a98a52a57"
+    },
+    {
+      "path": "backend/eval/suites/tool_checks.py",
+      "bytes": 5445,
+      "sha256": "2ce5d47037747d65c61dd36f375a0b8955336723f5cb07e47edc3cdc803596d3"
+    },
+    {
+      "path": "backend/eval/suites/tts_runtime_checks.py",
+      "bytes": 2684,
+      "sha256": "4e2c0b5e6cc378f2d93f9001945a001c2a7dcee8615a3bc9e5e2a4c810971bb8"
+    },
+    {
+      "path": "backend/eval/summarize.py",
+      "bytes": 3080,
+      "sha256": "60ce89635d13d2c8e815122cb276d2e98b840f83e2abf9c554f0ac27ffb2d388"
+    },
+    {
+      "path": "backend/eval/unity_setup.py",
+      "bytes": 1267,
+      "sha256": "79a20075006b509e662b2d6514816831c912579eb55c9cf2078fe04fcdb3159e"
+    },
+    {
+      "path": "backend/eval/worker.py",
+      "bytes": 1989,
+      "sha256": "66d03c1b5fb580c80df96027ab1488bdcb2dce8bafc9700484c64aba83736fed"
+    },
+    {
+      "path": "backend/latency_trace.py",
+      "bytes": 5267,
+      "sha256": "d69e6c0bb3bd8a8453ce804a224dbfa79ff3b775db9cdd5e9f7566adfb39ec65"
+    },
+    {
+      "path": "backend/lip_sync_planner.py",
+      "bytes": 2060,
+      "sha256": "7bcc1eb528c15b4d3bc4be2d2a15dc24dafd242352698815c255ed5c431ff2c1"
+    },
+    {
+      "path": "backend/native_tools.py",
+      "bytes": 24505,
+      "sha256": "673da0d3cf801e66a0b0ae0bec92369382678a115b2c662d54b1adb6a577c6c8"
+    },
+    {
+      "path": "backend/README.md",
+      "bytes": 1094,
+      "sha256": "5a8d829dbc14bfa2f0279de38ed31e14017e11cf22953650b3b387170726643a"
+    },
+    {
+      "path": "backend/reliability.py",
+      "bytes": 7438,
+      "sha256": "ffc0a88634eb102147a7a314b2daa4be6fab2f47659982e4af907b9bf2e32389"
+    },
+    {
+      "path": "backend/requirements.observed.txt",
+      "bytes": 260,
+      "sha256": "2919cb7736a62968c91bce38496116d85a388a41459263c99b3fa73e38556fa3"
+    },
+    {
+      "path": "backend/server.py",
+      "bytes": 23417,
+      "sha256": "3f081c2d5ff90bff99b90d517ea035c1312db103d08e829a97467082b4a92e1d"
+    },
+    {
+      "path": "backend/state_snapshot.schema.json",
+      "bytes": 5655,
+      "sha256": "8e47c91a5dec99eb186bc8c1b87b3f0723f93f5a35021df5605a43d1a11c4f2c"
+    },
+    {
+      "path": "backend/tts/__init__.py",
+      "bytes": 61,
+      "sha256": "434185dc4f84d3ade432b4c9ca8f22c509a96d47b77bfeddc3d851957d02dbe4"
+    },
+    {
+      "path": "backend/tts/audio.py",
+      "bytes": 2396,
+      "sha256": "63bd88f427e32defcaa2a943c8103447a04f9125b3a05cb5a4eb3964efb0a6f8"
+    },
+    {
+      "path": "backend/tts/config.example.json",
+      "bytes": 843,
+      "sha256": "40f5d7654569961d8b03768386bf4f1d34a709e21c8b147f3abece101019ea5e"
+    },
+    {
+      "path": "backend/tts/config.json",
+      "bytes": 843,
+      "sha256": "40f5d7654569961d8b03768386bf4f1d34a709e21c8b147f3abece101019ea5e"
+    },
+    {
+      "path": "backend/tts/models.py",
+      "bytes": 1053,
+      "sha256": "1185ca7b02a4db69cf2c08b7bd0edd15b893649e5149d2e8b909906202e93093"
+    },
+    {
+      "path": "backend/tts/profiles.py",
+      "bytes": 1693,
+      "sha256": "341fe45028638c5dd898c2ab3415afdb74f9d625d538782efd72be8f67b4b42f"
+    },
+    {
+      "path": "backend/tts/providers/__init__.py",
+      "bytes": 34,
+      "sha256": "d725f83aa3fd19026495fab5ad9dc30b5719b5122f28b493be6782c1ae767836"
+    },
+    {
+      "path": "backend/tts/providers/base.py",
+      "bytes": 473,
+      "sha256": "6a9d9b6f9d2b6a18eda18699ea9968fe3980d0884e77e9838b1d3cc479914291"
+    },
+    {
+      "path": "backend/tts/providers/edge_provider.py",
+      "bytes": 1155,
+      "sha256": "86e83ab23a7be22486629592d341e2d61c84465c4eaacc7a119483952ca46c41"
+    },
+    {
+      "path": "backend/tts/providers/gpt_sovits_provider.py",
+      "bytes": 6508,
+      "sha256": "5d1938c8b8888e479d92cf9208c7346cdf8713b7d98373300c7f0a6467a49447"
+    },
+    {
+      "path": "backend/tts/router.py",
+      "bytes": 4865,
+      "sha256": "716a8a4b1a9799013778da65040428fe1d491d73cb469c91e2213cd2d98efecb"
+    },
+    {
+      "path": "backend/tts_stream_endpoint.py",
+      "bytes": 3192,
+      "sha256": "e869652e706303dfe79c30c46fdfbd78e32c5fcf20f1e537df2c43d9a08a5c00"
+    },
+    {
+      "path": "backend/turn_lifecycle.py",
+      "bytes": 3575,
+      "sha256": "d431c29111e2a8efed4675b81ae41772fc27a720af74e5bb7fd8d813504e1a55"
+    },
+    {
+      "path": "backend/whisper_runtime.py",
+      "bytes": 2274,
+      "sha256": "30628f1ca47e099fcc48103a38e74bc44593ef9e69e73bd0680fd5339a4e8836"
+    },
+    {
+      "path": "docs/agent-harness.md",
+      "bytes": 1644,
+      "sha256": "d1eb5587cf01dc752508fb01eb766bd06e18dab721fe1b22ba23f4d55ffead3f"
+    },
+    {
+      "path": "docs/architecture.md",
+      "bytes": 2994,
+      "sha256": "2c72dcdefbbd1ce7adcaf3fcf6c27336ec94c2153b1d4e10c00b91f4992d2e1f"
+    },
+    {
+      "path": "docs/asset-rights-evidence.json",
+      "bytes": 3956,
+      "sha256": "6bd24bdf5312369a858a443889e18bcd031845f9dae9d78700a7aafbb7c6e666"
+    },
+    {
+      "path": "docs/ASSET_RIGHTS_REVIEW.md",
+      "bytes": 7297,
+      "sha256": "a6ba7994e929a8e13e4021e0325fa22da68b8f99b9965e907e6263d0fd3ca3d7"
+    },
+    {
+      "path": "docs/authorization-evidence.json",
+      "bytes": 3121,
+      "sha256": "e46d5398632586bed8b05f2664f971314c19fdaa2070f425b6c465949419f3c2"
+    },
+    {
+      "path": "docs/cross-project-audit.md",
+      "bytes": 1514,
+      "sha256": "c8495fc38f464eff9d3f75cd175068cf05115fc978d60d05291fccd59d92d4ad"
+    },
+    {
+      "path": "docs/demo-candidate-review.json",
+      "bytes": 4065,
+      "sha256": "682fb05c7efb0e9e2fdb4548f27cd1c59deb5e0b8d3d53b171315ace198ab3fa"
+    },
+    {
+      "path": "docs/demo-evidence.json",
+      "bytes": 4717,
+      "sha256": "63a172492e17f697d7da62d8c64da2ec6f578b98e3466c24799f6d3b802cdbd3"
+    },
+    {
+      "path": "docs/DEMO_CANDIDATE_REVIEW.md",
+      "bytes": 4284,
+      "sha256": "96b15e13c44cfa46153eb29786af068b1cfc7517049008f69eb13ede401f294f"
+    },
+    {
+      "path": "docs/DEMO_PUBLICATION_CHECKLIST.md",
+      "bytes": 3969,
+      "sha256": "33bac50676e2bedf9349779a33125c0fc980272550db3891b1f694471e722311"
+    },
+    {
+      "path": "docs/dependency-audit.md",
+      "bytes": 1622,
+      "sha256": "b154da05e9f4910d7ce9abe5dd6807a0d703b66855053412f0be9a1f3f07dd09"
+    },
+    {
+      "path": "docs/evaluation.md",
+      "bytes": 7487,
+      "sha256": "f457d2f534eaf3ce3a358b0f3cfb52954104528b5ad4831e724731e08fadf66d"
+    },
+    {
+      "path": "docs/LICENSE_SCOPE.md",
+      "bytes": 1440,
+      "sha256": "3a7f9ce940040d997b51fc2dacd57156b09a7fcd5e79e665701d87c6b58fcb56"
+    },
+    {
+      "path": "docs/limitations.md",
+      "bytes": 1449,
+      "sha256": "9b7077aea0fd21de5b61f6cfdb27c9e83479ccdef97e0d256691a996bdbe3976"
+    },
+    {
+      "path": "docs/media-review.json",
+      "bytes": 33774,
+      "sha256": "d9f0750795c13c28ca57cb720e19f01f3fa678be9693eef5ea6e23bdc32fc71b"
+    },
+    {
+      "path": "docs/MEDIA_REVIEW.md",
+      "bytes": 2407,
+      "sha256": "5383fd1fd7f1fd5b23a1882ec03c4e68fce35a2d41b92a63371245048d62ce71"
+    },
+    {
+      "path": "docs/p3-validation.json",
+      "bytes": 2500,
+      "sha256": "3454680ead8d9ed688e7b1c782a3c003cbf1806943e4b627fdbe932dfbcc1ac0"
+    },
+    {
+      "path": "docs/p4-validation.json",
+      "bytes": 1885,
+      "sha256": "1f29900756c2f92671e1f306a2df1e1615718fe36b7b93c4f75535189c7cbb70"
+    },
+    {
+      "path": "docs/p5-validation.json",
+      "bytes": 1294,
+      "sha256": "ca5e0b9a1c52c7abfdb79e9fafc637f95f6bff802eea54ae6bae91d13a253538"
+    },
+    {
+      "path": "docs/p6-prepublication-validation.json",
+      "bytes": 1152,
+      "sha256": "5b316462fe88a85c6d7a8cfe473ce9f548bf891ec6a57dadd9b3bca0fe7e37b6"
+    },
+    {
+      "path": "docs/performance.md",
+      "bytes": 2039,
+      "sha256": "5f38f77357a978038358726c3fa3a64c99fa64c89cbc41f60399e2d723aeb6fa"
+    },
+    {
+      "path": "docs/prerelease-validation.json",
+      "bytes": 3678,
+      "sha256": "e8d9e937ecc5da331cec2e4eb9df1f5be805908bad6be804688dbf1e027943e2"
+    },
+    {
+      "path": "docs/PRERELEASE_AUDIT.md",
+      "bytes": 1778,
+      "sha256": "811261417de02ef6b24334115cb94288d07077fc2fbc7d9ddcf05c5e53ac8d3b"
+    },
+    {
+      "path": "docs/PUBLIC_RELEASE_AUDIT.md",
+      "bytes": 5449,
+      "sha256": "82719faf06baf4d6008de53a8e58864e4f11b9381674c109450c79fb56288ed0"
+    },
+    {
+      "path": "docs/quest-validation-status.md",
+      "bytes": 2347,
+      "sha256": "96173f204128e459abbe2204bcafe8e8985bbfcff59f5eab75516e93c5ee25b0"
+    },
+    {
+      "path": "docs/RELEASE_NOTES_v0.1.0.md",
+      "bytes": 2506,
+      "sha256": "6186f5c38b089780791785ad36ae8e5613ee28e5f4d3abbb2d8fa788a46e0915"
+    },
+    {
+      "path": "docs/RELEASE_NOTES_v0.1_CANDIDATE.md",
+      "bytes": 1167,
+      "sha256": "5288aeec4516eedc5f726f72662f1c82e9ea5503e37fb5e169c6621765d8ed85"
+    },
+    {
+      "path": "docs/reliability.md",
+      "bytes": 2184,
+      "sha256": "597def79d436b008991f5f26bd6d622802058faf6d783a8f60ff6193cc76c002"
+    },
+    {
+      "path": "docs/research-vision.md",
+      "bytes": 1988,
+      "sha256": "b4c4baafbe9bcaef643b8a4808f272129f75807b2251fc58e124ef31a13227cc"
+    },
+    {
+      "path": "docs/roadmap.md",
+      "bytes": 1294,
+      "sha256": "979806c7ff6107bbd845f7ad7684a31037f4905d2f425ddd8bed0af09e8ab77c"
+    },
+    {
+      "path": "docs/security-scan.json",
+      "bytes": 624,
+      "sha256": "91ad1fe5785235b27cd2b39fec74e79f257599260c6b8d241377410d2b35900c"
+    },
+    {
+      "path": "docs/SECURITY_REVIEW.md",
+      "bytes": 2892,
+      "sha256": "dde0da5ad931059739c58ea5da39ae50113323edf03e100819a2a13ac2543ebf"
+    },
+    {
+      "path": "docs/setup.md",
+      "bytes": 3475,
+      "sha256": "9da35300a2a56148cff08822de92964d78fc8b630a64b70ba9baa3f2fdec18d4"
+    },
+    {
+      "path": "docs/source-manifest.json",
+      "bytes": 77463,
+      "sha256": "f566ca1d000b8b3126cd76ecf9edabda670dbc8abbb4136761c2e7605d02e6ef"
+    },
+    {
+      "path": "docs/THIRD_PARTY_NOTICES.md",
+      "bytes": 7893,
+      "sha256": "a9ceb15a20a3e237e8e994bdec05f5d2bf2d7ff9058e332cb038027f663ed761"
+    },
+    {
+      "path": "docs/tool-calling.md",
+      "bytes": 1506,
+      "sha256": "26e5513a2303089176b5b7276e3f1094aac10384b8e716ea8beec53aabfd268a"
+    },
+    {
+      "path": "docs/validation-summary.json",
+      "bytes": 2648,
+      "sha256": "10879295472391ce225e78b8747a65a5ecffd5a34bc3269fca44b468ae7698e9"
+    },
+    {
+      "path": "docs/voice-pipeline.md",
+      "bytes": 1648,
+      "sha256": "db0cb87a0c4c8632eed2699aed95ab8e50531235a12fcc836b8b56e6f42bfb70"
+    },
+    {
+      "path": "eval/evidence/asr-runtime-aggregate.json",
+      "bytes": 1711,
+      "sha256": "d151ea528375b14990980597ad328d0b89a460a615e6f9ea86cbe0e3b1866d54"
+    },
+    {
+      "path": "eval/evidence/p3-contract-tests-2026-10-21.json",
+      "bytes": 8884,
+      "sha256": "e6bd3dc16dca0af3e5b50b994e574ffecf83fa10e3ba91a71fedcfd96a2aacf0"
+    },
+    {
+      "path": "eval/evidence/p4-contract-tests-2026-10-21.json",
+      "bytes": 8955,
+      "sha256": "182fc74e3f587dd1adeb0af50b73857ac8c4abcc848e39b04c18d4c84c67ac4c"
+    },
+    {
+      "path": "eval/evidence/p5-contract-tests-2026-10-21.json",
+      "bytes": 9032,
+      "sha256": "c916cc70ec95b08f21301e5e22ccf6da8671a71aa676606bc79d66eb6b56e1ff"
+    },
+    {
+      "path": "eval/evidence/p6-contract-tests-2026-10-22.json",
+      "bytes": 9334,
+      "sha256": "dcd91fbdca0727e8ac69ad7fa4dfd707ea2495098df4ebd88f239ba76116714b"
+    },
+    {
+      "path": "eval/evidence/packaging-contract-tests-2026-10-21.json",
+      "bytes": 9198,
+      "sha256": "09fb9110aaa24a3b73aef117caccf23c303a3d583e27a653d3da1341490a1056"
+    },
+    {
+      "path": "eval/evidence/pcvr-performance-2026-10-21.json",
+      "bytes": 5677,
+      "sha256": "580071883ec01bbe8e3c00e2c9df928263f690dd724212513925ab791b38ec14"
+    },
+    {
+      "path": "eval/evidence/public-skip-reasons.json",
+      "bytes": 4006,
+      "sha256": "36fc85918a32fb13145c20239e9a9eba741938472543c01feabc6dc4173db9ae"
+    },
+    {
+      "path": "eval/README.md",
+      "bytes": 957,
+      "sha256": "e34459c6db117935e177fe14caaa8b2a40768a55d10c0653926427fecc9cf70b"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 1084,
+      "sha256": "804a551453ffc162e37c9ca0f584616951ef0530b612b0dd82ee867163993f78"
+    },
+    {
+      "path": "LICENSE_OPTIONS.md",
+      "bytes": 5476,
+      "sha256": "f689429b7565f4b981080e21d14998b9847d97a8a30955bd5e6ad1d4dad26ab7"
+    },
+    {
+      "path": "media/demo-review.md",
+      "bytes": 6262,
+      "sha256": "df34819a233d65af60355e6e81ec1e75c2d754a9317500604516ee11c4e5a30a"
+    },
+    {
+      "path": "media/demo-thumbnail.png",
+      "bytes": 354946,
+      "sha256": "7b57428dfb59b8ac9e7f83074fbe167e7b23aa9e2489bdf4a800daf73bab1e2f"
+    },
+    {
+      "path": "media/README.md",
+      "bytes": 1302,
+      "sha256": "038846dde326e36ff1102f74721d9ee9478866196e24a3ffc4b387b7a8d3f8e2"
+    },
+    {
+      "path": "media/VR_Embodied_AI_Companion_Demo_JA.mp4",
+      "bytes": 6983640,
+      "sha256": "478119a309fd2e00aa576714bc4a7ca091aa140c71ab97882312c944a2b93254"
+    },
+    {
+      "path": "portfolio/project-summary.md",
+      "bytes": 3329,
+      "sha256": "a72c81145282197bb85e3b1ebaba72f70fbbd32ac32552096d1237b2a960f96c"
+    },
+    {
+      "path": "portfolio/resume-bullets.md",
+      "bytes": 2227,
+      "sha256": "55ff57fc991e0fb6aab54f1d2efe98284eb18bf56f5fa4a44bd0e862be32434f"
+    },
+    {
+      "path": "PORTFOLIO_P3_RELEASE_REVIEW.md",
+      "bytes": 6037,
+      "sha256": "6e8ae4d0658f3f4ee722c71e21740e3d95b118885e10780fd6842e852b85e42c"
+    },
+    {
+      "path": "PORTFOLIO_P4_FINAL_REVIEW.md",
+      "bytes": 7850,
+      "sha256": "6eef91d0bda2bcf952259f09fabfeb0de175f5d41316ae2f49d6ae76413f7afb"
+    },
+    {
+      "path": "PORTFOLIO_PACKAGING_REPORT.md",
+      "bytes": 4721,
+      "sha256": "104415d0a5d924d4ed63a7eb8a7098b1ba4ededf50cfdb01bb3eb21c2b7c2bd2"
+    },
+    {
+      "path": "PORTFOLIO_PRERELEASE_REPORT.md",
+      "bytes": 6432,
+      "sha256": "5292bd949ddbf10bede83482924b848183036d2d2a4519a3cdc5981023dd9aa4"
+    },
+    {
+      "path": "PORTFOLIO_VIDEO_AND_RELEASE_REPORT.md",
+      "bytes": 7442,
+      "sha256": "50b04a512d831afd7729a61dcf2269a454ca2ce0cb94a58c3db30cb70f53db9d"
+    },
+    {
+      "path": "README.md",
+      "bytes": 9239,
+      "sha256": "0a847a345eba90e92d8e17f6b2d3b52a6c505280b954b0fd607bfc2e50e78604"
+    },
+    {
+      "path": "README_ja.md",
+      "bytes": 8130,
+      "sha256": "e10b9484bd77d9f62c58226786671d93ecbce0691d963b7a0c2d8e242a029c6c"
+    },
+    {
+      "path": "RELEASE_CANDIDATE_FILES.json",
+      "bytes": 51305,
+      "sha256": "f90a432f3de5d1a83f3c488001ac52bc70ffd3feb914f06ae072138e93240214"
+    },
+    {
+      "path": "security_scan_summary.md",
+      "bytes": 2069,
+      "sha256": "0ae5e460b4433fb80f1b40b9587583ab5c26d266c728f6a619140a1c0a33e256"
+    },
+    {
+      "path": "THIRD_PARTY_AND_AI_VOICE_NOTICE.md",
+      "bytes": 8146,
+      "sha256": "1a60a0cadba58b2647a971ab6175c575eb599e6ac7d976953c21460eb2226709"
+    },
+    {
+      "path": "unity/Assets/AgentContextModule/Runtime/AgentStateStore.cs",
+      "bytes": 6343,
+      "sha256": "662d6fde2aedca3f47833c202a5a8b5331fe90a598d4956ccb4e732a96c82e98"
+    },
+    {
+      "path": "unity/Assets/AgentContextModule/Runtime/AgentStateStore.cs.meta",
+      "bytes": 254,
+      "sha256": "8d0d0e45c9b3f3164d7a604cfa8fde93f458880f8f459033dd10d265197b2699"
+    },
+    {
+      "path": "unity/Assets/AvatarMotionModule/Editor/CompanionContactDebugTools.cs",
+      "bytes": 1448,
+      "sha256": "4a9d0a31e18c4d9c4a9d22e2109fb8edf351b7d08cc92b1f29a628a1de08b728"
+    },
+    {
+      "path": "unity/Assets/AvatarMotionModule/Editor/CompanionContactDebugTools.cs.meta",
+      "bytes": 60,
+      "sha256": "d715153f2dde2444dfa7fb2457541ef7900a3eacbe633a14584cd6942ac03bfc"
+    },
+    {
+      "path": "unity/Assets/AvatarMotionModule/Runtime/AvatarHandPoseController.cs",
+      "bytes": 1880,
+      "sha256": "1abbf049712a2a999146eb1d5d1e9a3d4961f3c6e5149b228d54e97e047967c6"
+    },
+    {
+      "path": "unity/Assets/AvatarMotionModule/Runtime/AvatarHandPoseController.cs.meta",
+      "bytes": 60,
+      "sha256": "7d7b447692c3ff91fa76e427bc0e53cd4b02d65afbbb60c59f1c728230358de0"
+    },
+    {
+      "path": "unity/Assets/AvatarMotionModule/Runtime/AvatarMotionController.cs",
+      "bytes": 3796,
+      "sha256": "7c070499c2cf76f755a477b275bd74ce06085798f043390c86a868608504ebd2"
+    },
+    {
+      "path": "unity/Assets/AvatarMotionModule/Runtime/AvatarMotionController.cs.meta",
+      "bytes": 60,
+      "sha256": "916f43b53b44a20822d04aa2b134e7c6dbf1f2431bba32e5f79a4391ebdda401"
+    },
+    {
+      "path": "unity/Assets/AvatarMotionModule/Runtime/AvatarMotionDebugController.cs",
+      "bytes": 1649,
+      "sha256": "4228ebb513c6337bbbe1da8dfbe7804a04c54bf277606e5690e49e4e03933828"
+    },
+    {
+      "path": "unity/Assets/AvatarMotionModule/Runtime/AvatarMotionDebugController.cs.meta",
+      "bytes": 60,
+      "sha256": "02db893bc6a2e07d70d14a0f7a22c0eb98475c867833a0d8ed6ddcff212991e6"
+    },
+    {
+      "path": "unity/Assets/AvatarMotionModule/Runtime/AvatarMotionQualityController.cs",
+      "bytes": 10963,
+      "sha256": "f28ac1c92829d953f0a0152160f891b44068ba8b7e4b20a80ca37727d05a402f"
+    },
+    {
+      "path": "unity/Assets/AvatarMotionModule/Runtime/AvatarMotionQualityController.cs.meta",
+      "bytes": 60,
+      "sha256": "085a3d3b45e1fc822052fdac1b89a3f355cef2577219c7028a87971082d3c331"
+    },
+    {
+      "path": "unity/Assets/AvatarMotionModule/Runtime/AvatarRunCycleController.cs",
+      "bytes": 7489,
+      "sha256": "28f74a899a484b5b37b4c41b5aaaf8816b1950bbc3ea329d6ceb2ee4e38a302f"
+    },
+    {
+      "path": "unity/Assets/AvatarMotionModule/Runtime/AvatarRunCycleController.cs.meta",
+      "bytes": 60,
+      "sha256": "56cb80adff95483430d00d62e28ed37f380709bc6feedf410ebd23eb43bc41e1"
+    },
+    {
+      "path": "unity/Assets/AvatarMotionModule/Runtime/AvatarTurningAdaptation.cs",
+      "bytes": 4057,
+      "sha256": "5307adc8617ab76952ac3e1762a3cd46aeb6aaa5178dadeeb148db97c402783f"
+    },
+    {
+      "path": "unity/Assets/AvatarMotionModule/Runtime/AvatarTurningAdaptation.cs.meta",
+      "bytes": 60,
+      "sha256": "f7dee59c9e6d492a5884c90f342043225572a59e1556aaa0a51ede6f34caf9dd"
+    },
+    {
+      "path": "unity/Assets/AvatarMotionModule/Runtime/AvatarWalkCycleController.cs",
+      "bytes": 10445,
+      "sha256": "039b9771fb51f5b11a17a6593e8c83c844f5ab9c37bdd9dd0c5a792cc8a5205b"
+    },
+    {
+      "path": "unity/Assets/AvatarMotionModule/Runtime/AvatarWalkCycleController.cs.meta",
+      "bytes": 60,
+      "sha256": "c6c128d02e01a48b61a31b7960fdbe8aa280019a3564e5189a4345831cea46b4"
+    },
+    {
+      "path": "unity/Assets/AvatarMotionModule/Runtime/CompanionContactInteractor.cs",
+      "bytes": 259,
+      "sha256": "4dfebf21447a6619904b0678cb04321dc390f573bd4b15ed37354cd9ed9d6d11"
+    },
+    {
+      "path": "unity/Assets/AvatarMotionModule/Runtime/CompanionContactInteractor.cs.meta",
+      "bytes": 60,
+      "sha256": "93d56987d51399b08fe6564194353821da7868f91effef7ea5db7aa4faf0e549"
+    },
+    {
+      "path": "unity/Assets/AvatarMotionModule/Runtime/CompanionContactZone.cs",
+      "bytes": 3919,
+      "sha256": "5cdd6244a4925465ae0eb03d236a379d3ad8ea5180f3d9c8af7505c6cb665acb"
+    },
+    {
+      "path": "unity/Assets/AvatarMotionModule/Runtime/CompanionContactZone.cs.meta",
+      "bytes": 60,
+      "sha256": "638b199356bf4b33b70377ae188af278187ebbe6e05853f3b09934f9386a3a05"
+    },
+    {
+      "path": "unity/Assets/AvatarMotionModule/Runtime/CompanionGazeController.cs",
+      "bytes": 5247,
+      "sha256": "04b75dd72e32dcd56f24852fe000ce7af57ba5c2b7edb093578328618e02f4ab"
+    },
+    {
+      "path": "unity/Assets/AvatarMotionModule/Runtime/CompanionGazeController.cs.meta",
+      "bytes": 60,
+      "sha256": "fa44d4bda26b06ab8b27534f3e81b9fc1102bc9f22382bfef76175b9ed2742b6"
+    },
+    {
+      "path": "unity/Assets/AvatarMotionModule/Runtime/CompanionPoseRecoveryController.cs",
+      "bytes": 1501,
+      "sha256": "e322d8d746e0159ea4c62f254610d42d2410ae063ae4cdccf3eeb69f2eb3ea5b"
+    },
+    {
+      "path": "unity/Assets/AvatarMotionModule/Runtime/CompanionPoseRecoveryController.cs.meta",
+      "bytes": 60,
+      "sha256": "2813ea4a2f128094cd373eeb5f5b172b0224b5c474ed0dab9c180c03a5639a46"
+    },
+    {
+      "path": "unity/Assets/AvatarMotionModule/Runtime/RunCycleProfile.cs",
+      "bytes": 1407,
+      "sha256": "67d5344ad3d35695b13f6614c684a6fb06c0fac945572b742cc0eb5bce05ed74"
+    },
+    {
+      "path": "unity/Assets/AvatarMotionModule/Runtime/RunCycleProfile.cs.meta",
+      "bytes": 60,
+      "sha256": "26a80379f6c0c6a4134592dff07918c4cba3d7167adaa87607f09564e79e075d"
+    },
+    {
+      "path": "unity/Assets/AvatarMotionModule/Runtime/UMTAnimatorPoseAdapter.cs",
+      "bytes": 1067,
+      "sha256": "d2c9e6cf2f70c256fd1566486c2eb04bbf93a3f45396af3b50983254493e29dc"
+    },
+    {
+      "path": "unity/Assets/AvatarMotionModule/Runtime/UMTAnimatorPoseAdapter.cs.meta",
+      "bytes": 60,
+      "sha256": "e4fced197d11ec32559b992b93936ad7b5f754c4910392ebd2e790aa04bf785e"
+    },
+    {
+      "path": "unity/Assets/AvatarMotionModule/Runtime/WalkCycleProfile.cs",
+      "bytes": 3513,
+      "sha256": "757ef616dea835e4361d34d1f6ad5f567d50b6b3d79a8eec1f03693505a9acf8"
+    },
+    {
+      "path": "unity/Assets/AvatarMotionModule/Runtime/WalkCycleProfile.cs.meta",
+      "bytes": 60,
+      "sha256": "bbd168579fbbb4167564d7164333faa169b22871f665ee79bd3df3e8df76b83c"
+    },
+    {
+      "path": "unity/Assets/CompanionBehaviorModule/Runtime/AgentBehaviorAdapter.cs",
+      "bytes": 7598,
+      "sha256": "99bd3082cdb3d570369de70b85e6e19fb8b0bb79d5d6c737860d5ab55517e490"
+    },
+    {
+      "path": "unity/Assets/CompanionBehaviorModule/Runtime/AgentBehaviorAdapter.cs.meta",
+      "bytes": 62,
+      "sha256": "b146cac08c634142fb6c445cc7a8024f74893a330985ce4642ae981b5e6ae681"
+    },
+    {
+      "path": "unity/Assets/CompanionBehaviorModule/Runtime/AgentBehaviorProposal.cs",
+      "bytes": 3956,
+      "sha256": "aed42c27c59903b4397fb059cde941611b6c75a8524480b88c2362eac09ef93a"
+    },
+    {
+      "path": "unity/Assets/CompanionBehaviorModule/Runtime/AgentBehaviorProposal.cs.meta",
+      "bytes": 62,
+      "sha256": "255006ddd9551b6b0191e35fb424ad4467a7f7ea1c06cd49a9b9916ecf01511a"
+    },
+    {
+      "path": "unity/Assets/CompanionBehaviorModule/Runtime/AgentReplyEnvelope.cs",
+      "bytes": 1001,
+      "sha256": "c916f1fc80b4636c9dd6b677eda77ea782308e8aeffd857bdb6a8afb851ef100"
+    },
+    {
+      "path": "unity/Assets/CompanionBehaviorModule/Runtime/AgentReplyEnvelope.cs.meta",
+      "bytes": 62,
+      "sha256": "e4b221455c00551488193045cf8bf5f573078029a56ba1b898c6ed19aa334de3"
+    },
+    {
+      "path": "unity/Assets/CompanionBehaviorModule/Runtime/CompanionBehaviorOrchestrator.cs",
+      "bytes": 11378,
+      "sha256": "f465fee34b9211a784b3958723f12c8f147997ed3de7b433d86b457f36139211"
+    },
+    {
+      "path": "unity/Assets/CompanionBehaviorModule/Runtime/CompanionBehaviorOrchestrator.cs.meta",
+      "bytes": 62,
+      "sha256": "ea8ca6cc8ea1a4584ffdc764b6b7a6e9828dcda64d7f36adaf0ffee038389c61"
+    },
+    {
+      "path": "unity/Assets/CompanionBehaviorModule/Runtime/CompanionBehaviorRequest.cs",
+      "bytes": 1848,
+      "sha256": "533d790aa4077fa62ed4d7d9d5d4bfb6420bed85de4915e776214fd020e8b218"
+    },
+    {
+      "path": "unity/Assets/CompanionBehaviorModule/Runtime/CompanionBehaviorRequest.cs.meta",
+      "bytes": 62,
+      "sha256": "f184909d9a0a0a330ada7fee678d9f75c85f64f81152f6a1efae1e2777638794"
+    },
+    {
+      "path": "unity/Assets/CompanionCapabilityModule/Resources/CompanionCapabilities/capability_manifest.json",
+      "bytes": 5594,
+      "sha256": "b20cde66567268ef7e01361753767ade6de5a3e47865fcb5dda674ac925b97b1"
+    },
+    {
+      "path": "unity/Assets/CompanionCapabilityModule/Runtime/CapabilityRegistry.cs",
+      "bytes": 6736,
+      "sha256": "8eeaeea8406e7cf6ecc27ab17336c8e1f1bc790050d9cdcf6ccd663584dcd141"
+    },
+    {
+      "path": "unity/Assets/CompanionCapabilityModule/Runtime/CapabilityRegistry.cs.meta",
+      "bytes": 62,
+      "sha256": "26beb7ffa6b9a6a50aca6a7efb2a6f93b3414824a0910322ca9d69eea1217965"
+    },
+    {
+      "path": "unity/Assets/CompanionCapabilityModule/Runtime/ToolContracts.cs",
+      "bytes": 3457,
+      "sha256": "a782e66750ff5b56ee467f2fd73850a7d32486306d462781c1f61a1eeeac7fcf"
+    },
+    {
+      "path": "unity/Assets/CompanionCapabilityModule/Runtime/ToolContracts.cs.meta",
+      "bytes": 62,
+      "sha256": "ce3dc298648054403642715451a74cd90b49b308741c4169254f85384e205f32"
+    },
+    {
+      "path": "unity/Assets/CompanionCapabilityModule/Runtime/ToolExecutionBridge.cs",
+      "bytes": 9410,
+      "sha256": "635ea15a0b5c43dbb4e729d34b3e5e93d89f197f27f68862bdc1bf61b463bb0f"
+    },
+    {
+      "path": "unity/Assets/CompanionCapabilityModule/Runtime/ToolExecutionBridge.cs.meta",
+      "bytes": 62,
+      "sha256": "55ed2cc60713ddf7b93d5af83477a4e83f9aee23ba44b6da531adc477ac0043f"
+    },
+    {
+      "path": "unity/Assets/CompanionFollowModule/Runtime/CompanionFollowController.cs",
+      "bytes": 26387,
+      "sha256": "5fa32f9a3159e7584d4d98ac2ec430734aaa72793c13c63c7f1ee83c9a5af061"
+    },
+    {
+      "path": "unity/Assets/CompanionFollowModule/Runtime/CompanionFollowController.cs.meta",
+      "bytes": 60,
+      "sha256": "3eb6601c508e0d3479cf4c58475f8763afe1d2212e8340a1454b99d72187d8a0"
+    },
+    {
+      "path": "unity/Assets/CompanionFollowModule/Runtime/CompanionFollowDebugController.cs",
+      "bytes": 1836,
+      "sha256": "c0ff89eed88d651b152c7c3b28a912801f73e8fd436e3946c53b461cc25f71cb"
+    },
+    {
+      "path": "unity/Assets/CompanionFollowModule/Runtime/CompanionFollowDebugController.cs.meta",
+      "bytes": 60,
+      "sha256": "9d631ae14cd079c31e333ddafa0dfc9a6d1aad69e3e75f9891a48a1ac852f4c3"
+    },
+    {
+      "path": "unity/Assets/DemoPresentation/Runtime/PresentationModeController.cs",
+      "bytes": 1557,
+      "sha256": "dbd66081f86252033fe77690b63a0f617359880a01df1a95585fc84a35612900"
+    },
+    {
+      "path": "unity/Assets/DemoPresentation/Runtime/PresentationModeController.cs.meta",
+      "bytes": 60,
+      "sha256": "bb22a0fdb68781fe57dcb0a28785153afa3e17f977fde0b9d776593bca018da4"
+    },
+    {
+      "path": "unity/Assets/DemoPresentation/Runtime/PresentationResearchHUD.cs",
+      "bytes": 2103,
+      "sha256": "97d39f1e5d45c5d391ac275fd0ab6eb61202db336f21b7e849678f06031a618f"
+    },
+    {
+      "path": "unity/Assets/DemoPresentation/Runtime/PresentationResearchHUD.cs.meta",
+      "bytes": 60,
+      "sha256": "6d6827dcf78e6933f1a88bba276517daec9ebffe4041d0bf64d0672397ea270d"
+    },
+    {
+      "path": "unity/Assets/EchoCancellationModule/Runtime/IAudioEchoCanceller.cs",
+      "bytes": 1613,
+      "sha256": "57316f8bcf748fdd6b367a5177c85a0189c8d78285d4ee93bf9d62de43e48097"
+    },
+    {
+      "path": "unity/Assets/EchoCancellationModule/Runtime/IAudioEchoCanceller.cs.meta",
+      "bytes": 60,
+      "sha256": "5159a39ed9269a53829e397b7bf3b23090050235796bac94374497859c885c1b"
+    },
+    {
+      "path": "unity/Assets/EchoCancellationModule/Runtime/MicrophoneEchoPipeline.cs",
+      "bytes": 6055,
+      "sha256": "9a467ba595f7bb9e928f8a216fb69c57978863093ce70aa97ee615893372899b"
+    },
+    {
+      "path": "unity/Assets/EchoCancellationModule/Runtime/MicrophoneEchoPipeline.cs.meta",
+      "bytes": 60,
+      "sha256": "66158404ebcbc7a574c2356bc6b6b79b5e7e703241cc03eb445a6e31a0a1aa22"
+    },
+    {
+      "path": "unity/Assets/EchoCancellationModule/Runtime/PlaybackReferenceBuffer.cs",
+      "bytes": 2048,
+      "sha256": "d79b1819c4ff41ae5da73e000591af62b4ca4958047264ee6b490f8ba68f7506"
+    },
+    {
+      "path": "unity/Assets/EchoCancellationModule/Runtime/PlaybackReferenceBuffer.cs.meta",
+      "bytes": 60,
+      "sha256": "fd2f9d67b74fe795ac42de54b0827ef9bf6d0e04a06616bfee16c358bc673115"
+    },
+    {
+      "path": "unity/Assets/EchoCancellationModule/Runtime/PlaybackReferenceTap.cs",
+      "bytes": 1870,
+      "sha256": "ac9ade1928e723489a46ffee3812989388875008500b87e80dafec387c894a1e"
+    },
+    {
+      "path": "unity/Assets/EchoCancellationModule/Runtime/PlaybackReferenceTap.cs.meta",
+      "bytes": 60,
+      "sha256": "03a4092ee493cbfdc4f3d1c1dda4d478acfaaf2f5b0acbdaece94cd2a33d3dbf"
+    },
+    {
+      "path": "unity/Assets/ExerciseAgent/Scripts/AgentStreamDownloadHandler.cs",
+      "bytes": 1369,
+      "sha256": "6997d4753af29dc0b1a8bd3d0b3f0bb7421a329f2a4f04363b4f4c7b8a426855"
+    },
+    {
+      "path": "unity/Assets/ExerciseAgent/Scripts/AgentStreamDownloadHandler.cs.meta",
+      "bytes": 60,
+      "sha256": "85e6a9ad96806ac6b8d20cf788d0aec8e02f807f25d93c1a52d4115d7093a299"
+    },
+    {
+      "path": "unity/Assets/ExerciseAgent/Scripts/AgentUIDisplay.cs",
+      "bytes": 438,
+      "sha256": "8f0404945c82050a2abd3be9b68766fc97b2a825129fa6109d752658e1d30b5d"
+    },
+    {
+      "path": "unity/Assets/ExerciseAgent/Scripts/AgentUIDisplay.cs.meta",
+      "bytes": 60,
+      "sha256": "94a6a3c23aafe606e0f916b85f2cceed2c210c395386944a6068ee413dd51842"
+    },
+    {
+      "path": "unity/Assets/ExerciseAgent/Scripts/AsrLanguagePolicy.cs",
+      "bytes": 448,
+      "sha256": "b488aac91214b3dcd0da0f68ed3e1e3f29a64c68d088bc8270bd750b01fb21c4"
+    },
+    {
+      "path": "unity/Assets/ExerciseAgent/Scripts/AsrLanguagePolicy.cs.meta",
+      "bytes": 60,
+      "sha256": "6703385739eeed25d81fc46110f8b5e56b380b64702bab322994ef103c819322"
+    },
+    {
+      "path": "unity/Assets/ExerciseAgent/Scripts/AudioClipWavEncoder.cs",
+      "bytes": 2267,
+      "sha256": "a23dc65b67c5f0f35e16b2733652909c1f8c10652f11c16a3ed64ab21093bd36"
+    },
+    {
+      "path": "unity/Assets/ExerciseAgent/Scripts/AudioClipWavEncoder.cs.meta",
+      "bytes": 60,
+      "sha256": "83ee587b851e86884befcb2534b75ef2b0d438044df2cf30710633169e09a8df"
+    },
+    {
+      "path": "unity/Assets/ExerciseAgent/Scripts/AudioPcmRingBuffer.cs",
+      "bytes": 4938,
+      "sha256": "36e5b19c775d1741cb8b3acc0eec81eae3fc7ab8a03552222ece868a4c3d66cb"
+    },
+    {
+      "path": "unity/Assets/ExerciseAgent/Scripts/AudioPcmRingBuffer.cs.meta",
+      "bytes": 60,
+      "sha256": "71749b227aa78548a916a843ae9a9ddd0639735e883616aa8d538451873bf91c"
+    },
+    {
+      "path": "unity/Assets/ExerciseAgent/Scripts/ConversationStateManager.cs",
+      "bytes": 1447,
+      "sha256": "9b4747a778d4422799eee68f6090884ebfb83b8419d618bae3eb0d904f4abaa2"
+    },
+    {
+      "path": "unity/Assets/ExerciseAgent/Scripts/ConversationStateManager.cs.meta",
+      "bytes": 60,
+      "sha256": "0c45642e915b845965ed26d85dc154c3aeb54a0a7fefe318540ad6544f5840cd"
+    },
+    {
+      "path": "unity/Assets/ExerciseAgent/Scripts/ExerciseStateManager.cs",
+      "bytes": 987,
+      "sha256": "e53cf75dfc092f54b63f47e9dc6bdbe55aef386e83ca17124b542ae9833cebf8"
+    },
+    {
+      "path": "unity/Assets/ExerciseAgent/Scripts/ExerciseStateManager.cs.meta",
+      "bytes": 60,
+      "sha256": "3ff57f86f560567a2d8d7d37015fbab0fba07610672613281c58313b4246cc10"
+    },
+    {
+      "path": "unity/Assets/ExerciseAgent/Scripts/FakeExerciseAgent.cs",
+      "bytes": 1254,
+      "sha256": "cb952adb0b40d31867461a510e0ce082d2824a2816a4c6ae64006c4083b37c8e"
+    },
+    {
+      "path": "unity/Assets/ExerciseAgent/Scripts/FakeExerciseAgent.cs.meta",
+      "bytes": 60,
+      "sha256": "bdd5b002419ac1064458d5fd86b3711e58fc29a220e50c8b551f26a2ca0f3857"
+    },
+    {
+      "path": "unity/Assets/ExerciseAgent/Scripts/LatencyBehaviorObserver.cs",
+      "bytes": 1183,
+      "sha256": "a78f7d008710dd8ab97ed2b832dd4a95fe1de453468cd5ebc2e038a555a2669d"
+    },
+    {
+      "path": "unity/Assets/ExerciseAgent/Scripts/LatencyBehaviorObserver.cs.meta",
+      "bytes": 60,
+      "sha256": "507b968fbe472a1f2e96f10879948e778947cb6451f80c6a1a48365664210361"
+    },
+    {
+      "path": "unity/Assets/ExerciseAgent/Scripts/LatencyTrace.cs",
+      "bytes": 6955,
+      "sha256": "f5d22fba0c2c0bc0c42e55d77ddaf600cecc55f9ced0281b3d7c4caca8b09d9c"
+    },
+    {
+      "path": "unity/Assets/ExerciseAgent/Scripts/LatencyTrace.cs.meta",
+      "bytes": 60,
+      "sha256": "9a4c2ec82c660dc6796370f63c74d95c43b11d663fce9e95da6b4f60c92e9d3d"
+    },
+    {
+      "path": "unity/Assets/ExerciseAgent/Scripts/MicrophonePcmRing.cs",
+      "bytes": 4501,
+      "sha256": "a7bdd746f1201ea2aa2d024d23ce5542afc30438712826a3ce69133048f25283"
+    },
+    {
+      "path": "unity/Assets/ExerciseAgent/Scripts/MicrophonePcmRing.cs.meta",
+      "bytes": 60,
+      "sha256": "1dcbc6063538d11eb3a3a7aab86a4f887fc5871efa19be472a3baa45a699fdb5"
+    },
+    {
+      "path": "unity/Assets/ExerciseAgent/Scripts/MicrophoneRecorder.cs",
+      "bytes": 11930,
+      "sha256": "32acca62cb0d7a7e5d61fed3bdd77b44561b24ed77983dfb336cb4291305e788"
+    },
+    {
+      "path": "unity/Assets/ExerciseAgent/Scripts/MicrophoneRecorder.cs.meta",
+      "bytes": 60,
+      "sha256": "a249f1f111bf014e9817f534e51990275aeb000445ef9f9f0f42b57c12cfc0b3"
+    },
+    {
+      "path": "unity/Assets/ExerciseAgent/Scripts/PythonExerciseAgent.cs",
+      "bytes": 20011,
+      "sha256": "3b71eac01dfaf1397a6bae2b837e9f2949018e47a6aeeca5192ce0863e1cdb90"
+    },
+    {
+      "path": "unity/Assets/ExerciseAgent/Scripts/PythonExerciseAgent.cs.meta",
+      "bytes": 60,
+      "sha256": "f2eac7b2c00b9818780ced8b8f25a1ad05d27b24b3f605ea1fa1a97540a96efc"
+    },
+    {
+      "path": "unity/Assets/ExerciseAgent/Scripts/ReliabilityPolicy.cs",
+      "bytes": 7700,
+      "sha256": "f905534583ffe18e0cd90e38d92b93e6bf1f76c9a81c28a36e1afce33633ad47"
+    },
+    {
+      "path": "unity/Assets/ExerciseAgent/Scripts/ReliabilityPolicy.cs.meta",
+      "bytes": 60,
+      "sha256": "834d607e7924bbab1a2a46941f3bb8f360582319a650ba622536281feefa5605"
+    },
+    {
+      "path": "unity/Assets/ExerciseAgent/Scripts/SpeechArbiter.cs",
+      "bytes": 12418,
+      "sha256": "31401bdc423f7fce419b5cf86eddaabf7e7c6b223a1bc14f0345c5b717ab87ac"
+    },
+    {
+      "path": "unity/Assets/ExerciseAgent/Scripts/SpeechArbiter.cs.meta",
+      "bytes": 60,
+      "sha256": "a86b6a194616b12046d32ec1fe02715b1ad8a7a792cbf32bb262c1e812ba7c08"
+    },
+    {
+      "path": "unity/Assets/ExerciseAgent/Scripts/SpeechRequest.cs",
+      "bytes": 1811,
+      "sha256": "5c5e7b44ee0a81051e633a32c47cb7de9673e21baa418fb1a6da0a684b289237"
+    },
+    {
+      "path": "unity/Assets/ExerciseAgent/Scripts/SpeechRequest.cs.meta",
+      "bytes": 60,
+      "sha256": "9f7ad004933394cad6f464f7b2fc29bbd27d274a0d5c96c8574e65ca469cb0eb"
+    },
+    {
+      "path": "unity/Assets/ExerciseAgent/Scripts/StreamingAsrSession.cs",
+      "bytes": 6114,
+      "sha256": "4dc57f02d752d93fad8105d388eef4b2738780d0d5f85b05c46f99d054b92cc0"
+    },
+    {
+      "path": "unity/Assets/ExerciseAgent/Scripts/StreamingAsrSession.cs.meta",
+      "bytes": 60,
+      "sha256": "548d8bbe2d7d08a5a4e8bae81ecb4cd8a087850bc0871957b1066f9f529df4c2"
+    },
+    {
+      "path": "unity/Assets/ExerciseAgent/Scripts/StreamingTtsSession.cs",
+      "bytes": 4157,
+      "sha256": "15f1c57c31e3799c3ea5a9513dd8d46d9af48753fe648e7c1e1277e87f14ffa3"
+    },
+    {
+      "path": "unity/Assets/ExerciseAgent/Scripts/StreamingTtsSession.cs.meta",
+      "bytes": 60,
+      "sha256": "0da0dea554075cc282b63ab20f90f8225849b0e8d61ac906f564dc8354f53f8c"
+    },
+    {
+      "path": "unity/Assets/ExerciseAgent/Scripts/TTSPlayer.cs",
+      "bytes": 15261,
+      "sha256": "768285ff97bc406bbda8ba0c54b2a5cc231ac20819e8806cb36a0ba18987be5f"
+    },
+    {
+      "path": "unity/Assets/ExerciseAgent/Scripts/TTSPlayer.cs.meta",
+      "bytes": 60,
+      "sha256": "e6e77df54deb430253dd98b963004fde387e989321722f31570408188bb37986"
+    },
+    {
+      "path": "unity/Assets/ExerciseAgent/Scripts/TurnContext.cs",
+      "bytes": 1746,
+      "sha256": "0e7ff2f0a9fe4f9fcbe4e99c039226f6a4d0770f8397da80b31c03802d12e07f"
+    },
+    {
+      "path": "unity/Assets/ExerciseAgent/Scripts/TurnContext.cs.meta",
+      "bytes": 60,
+      "sha256": "5bbce684f261b4fa46193facc0efcbe12f572f5a93c48670555c57f17dc73064"
+    },
+    {
+      "path": "unity/Assets/ExerciseAgent/Scripts/TurnLifecycleManager.cs",
+      "bytes": 7190,
+      "sha256": "54ce44fd6be3ac745636249c287a04c32d4c00fcc44e8f880348caceed2d3ee4"
+    },
+    {
+      "path": "unity/Assets/ExerciseAgent/Scripts/TurnLifecycleManager.cs.meta",
+      "bytes": 60,
+      "sha256": "808eb87b579354f276b3300dee9c41d80095bfc9a87cc7a25da40a838d9f0ec0"
+    },
+    {
+      "path": "unity/Assets/ExerciseAgent/Scripts/VoiceActivityDetector.cs",
+      "bytes": 10563,
+      "sha256": "6d480c3774974a32942805c7ecc5bc67d79cb5d3cd5cad228de2118567454c2f"
+    },
+    {
+      "path": "unity/Assets/ExerciseAgent/Scripts/VoiceActivityDetector.cs.meta",
+      "bytes": 60,
+      "sha256": "037b8e85974af26a2d553ed7d8e8cf042e1fc0111e5c47fdb7d8f1f2ecb48df1"
+    },
+    {
+      "path": "unity/Assets/ExerciseAgent/Scripts/VoiceTranscriptionClient.cs",
+      "bytes": 14908,
+      "sha256": "3d951498429b817efaa2741f76c6b7ab0caaa4e767d137466fbd84df4e6bed3b"
+    },
+    {
+      "path": "unity/Assets/ExerciseAgent/Scripts/VoiceTranscriptionClient.cs.meta",
+      "bytes": 60,
+      "sha256": "c0bc2f23d3e4bce95ad4bfb3a04e577ad196d4bbbf2176376ccbd38ebb6d1dfc"
+    },
+    {
+      "path": "unity/Assets/LipSyncModule/Runtime/LipSyncController.cs",
+      "bytes": 8432,
+      "sha256": "15b9796a6010e0d5fb02ac51676b4fba3369eaad4123e1c0c2efcc5a06c463e9"
+    },
+    {
+      "path": "unity/Assets/LipSyncModule/Runtime/LipSyncController.cs.meta",
+      "bytes": 62,
+      "sha256": "b9e360afd03aad1a68b41c45b0f8df112cbd0e0907bf48226d99a203509cda3d"
+    },
+    {
+      "path": "unity/Assets/LipSyncModule/Runtime/LipSyncTimeline.cs",
+      "bytes": 3705,
+      "sha256": "462f03c660c16d78ed49767aa5519f940e6d1b98beca83e4fecc258dedaab4f5"
+    },
+    {
+      "path": "unity/Assets/LipSyncModule/Runtime/LipSyncTimeline.cs.meta",
+      "bytes": 62,
+      "sha256": "c6507ba104e50516e8e8a5c2b1452ad687265542e95281caacd65fd195517a21"
+    },
+    {
+      "path": "unity/Assets/QuestPlatformModule/Runtime/AgentInputActions.cs",
+      "bytes": 4632,
+      "sha256": "3af6cd34dabe42d84c05417e8158d2ef7109f66e8607e6b00e66509b9ba0746f"
+    },
+    {
+      "path": "unity/Assets/QuestPlatformModule/Runtime/AgentInputActions.cs.meta",
+      "bytes": 60,
+      "sha256": "a9008112d8e034d33c5022d329f90f46f51fe823841e1c5199d37c6e2df178f4"
+    },
+    {
+      "path": "unity/Assets/QuestPlatformModule/Runtime/BackendEndpointConfig.cs",
+      "bytes": 4142,
+      "sha256": "88e1614355e35415de86e28fb1367eadbd8e0ee168e78b1e72f78cbbac4033d7"
+    },
+    {
+      "path": "unity/Assets/QuestPlatformModule/Runtime/BackendEndpointConfig.cs.meta",
+      "bytes": 60,
+      "sha256": "4085f601805d4b14055b924f2f5e96f9242289da6fbf77bb891f6b779691c800"
+    },
+    {
+      "path": "unity/Assets/QuestPlatformModule/Runtime/QuestDevelopmentInputAdapter.cs",
+      "bytes": 2053,
+      "sha256": "dc9e56e231b0b213a4b119a0b81d43303aa370d6d35787b9efaa1996f7555e90"
+    },
+    {
+      "path": "unity/Assets/QuestPlatformModule/Runtime/QuestDevelopmentInputAdapter.cs.meta",
+      "bytes": 60,
+      "sha256": "aa74a298982ad8ea710273b5376de3848330ea5a1c21af56fb6240aced4a6312"
+    },
+    {
+      "path": "unity/Assets/QuestPlatformModule/Runtime/QuestMicrophonePermission.cs",
+      "bytes": 1346,
+      "sha256": "b2f1add004a68987a5e2516b072b577abd75ae71d735859ec12afa11fe0c90e0"
+    },
+    {
+      "path": "unity/Assets/QuestPlatformModule/Runtime/QuestMicrophonePermission.cs.meta",
+      "bytes": 60,
+      "sha256": "985baae659455945b626ca1a36357b4f9e9f39f7f3adba8f6b7ecdcc127b7e90"
+    },
+    {
+      "path": "unity/Assets/QuestPlatformModule/Runtime/QuestPcvrVoiceProfile.cs",
+      "bytes": 1030,
+      "sha256": "1ac14885a00ba5297383b8526be291f58ca8d5f7c8e46541cfe4a8238b6e991b"
+    },
+    {
+      "path": "unity/Assets/QuestPlatformModule/Runtime/QuestPcvrVoiceProfile.cs.meta",
+      "bytes": 60,
+      "sha256": "b0b01afec78559a05396204ebf63e681a9caf04232d750665996ab7bcffae57d"
+    },
+    {
+      "path": "unity/Assets/QuestPlatformModule/Runtime/QuestPerformanceProbe.cs",
+      "bytes": 3831,
+      "sha256": "9b3b36c6d90998b7e87194f7076e404592c228b7ce6a5246c11cc0030caaa551"
+    },
+    {
+      "path": "unity/Assets/QuestPlatformModule/Runtime/QuestPerformanceProbe.cs.meta",
+      "bytes": 60,
+      "sha256": "8e5cf8d491a10153325a8babb322f060fb00aec7d777e8ab4980c6765f2c9153"
+    },
+    {
+      "path": "unity/Assets/Scripts/FaceBlendShapeTester.cs",
+      "bytes": 4865,
+      "sha256": "be9d8d07a05e066b9a11fc6f764f83077114220ce2ea2ed0e6cb022d78d704d2"
+    },
+    {
+      "path": "unity/Assets/Scripts/FaceBlendShapeTester.cs.meta",
+      "bytes": 60,
+      "sha256": "26ed83fe596bb422255cbca2976411e4a347e70d58feb07c95f77cc31b013eeb"
+    },
+    {
+      "path": "unity/Assets/Scripts/FaceExpressionController.cs",
+      "bytes": 9521,
+      "sha256": "7b24d7d9cd23e21225394fdca2820da234e96f4e4653cdcfa1801907dbf5e055"
+    },
+    {
+      "path": "unity/Assets/Scripts/FaceExpressionController.cs.meta",
+      "bytes": 60,
+      "sha256": "552f827aa6ae56dca428f0b514d7e4640ef7d863a005914f6054069a6d969baa"
+    },
+    {
+      "path": "unity/Assets/Scripts/FaceExpressionDebugController.cs",
+      "bytes": 3618,
+      "sha256": "0bab70bbc3f4d372ceebc733d015b13665dd06cac7312b510292e638e46660d2"
+    },
+    {
+      "path": "unity/Assets/Scripts/FaceExpressionDebugController.cs.meta",
+      "bytes": 60,
+      "sha256": "f3685916b73acd73e47cef648d0bc1b74ff2c47e01e85871da6c89f96f369f60"
+    },
+    {
+      "path": "unity/Assets/Scripts/FreeWalkingSpeedGain.cs",
+      "bytes": 2699,
+      "sha256": "00f264572fe59f68a75f973d3c09d5db233d2a4dbc69666c75ddb2d1d288719d"
+    },
+    {
+      "path": "unity/Assets/Scripts/FreeWalkingSpeedGain.cs.meta",
+      "bytes": 60,
+      "sha256": "c6253876e89714368423043c03da8e783176e3f626aace6a6afb3db0b2c8a16e"
+    },
+    {
+      "path": "unity/Assets/Scripts/RoadSpeedPathFollower.cs",
+      "bytes": 2714,
+      "sha256": "e8d50dd5bb96617f2f374fc8cfca964ca095e4870c4def8e758f5857d0d6e4e1"
+    },
+    {
+      "path": "unity/Assets/Scripts/RoadSpeedPathFollower.cs.meta",
+      "bytes": 60,
+      "sha256": "cc115a553bf90b307a370330f4bcea550e2168f19eac2366cb86cf2c8e2fb60c"
+    },
+    {
+      "path": "unity/Assets/Scripts/SpeedInfoDisplay.cs",
+      "bytes": 737,
+      "sha256": "df5bdf07777372bb57b09bf9af96895baa3f02957096ac8d16fa295470f387ad"
+    },
+    {
+      "path": "unity/Assets/Scripts/SpeedInfoDisplay.cs.meta",
+      "bytes": 60,
+      "sha256": "bac4c4affcccb3f5772d45003320c08a1b8c778b5824245556f38e0d8d9c684c"
+    },
+    {
+      "path": "unity/Assets/WindsongIntegration/Runtime/DesktopXRDebugController.cs",
+      "bytes": 7976,
+      "sha256": "90b71a33514ab300b202dbc1a9e45014d1078e3842fd3a205c43ac7b0c8da5a9"
+    },
+    {
+      "path": "unity/Assets/WindsongIntegration/Runtime/DesktopXRDebugController.cs.meta",
+      "bytes": 60,
+      "sha256": "baa15d742c6d2cfab6f67a4412c7f46a4a48f98d6d473e1bea89179ed8ded0cd"
+    },
+    {
+      "path": "unity/Packages/manifest.reference.json",
+      "bytes": 2247,
+      "sha256": "c6a9231d00bffcee276d299e9b62806fa5cc379fa71beaae867f6dfeba676d85"
+    },
+    {
+      "path": "unity/ProjectVersion.reference.txt",
+      "bytes": 87,
+      "sha256": "8cc1e7fc3bd47ef1894f9692e6c55a6a12b29390de33e7370ee895fda6f3b5f9"
+    },
+    {
+      "path": "unity/README.md",
+      "bytes": 1023,
+      "sha256": "0273fc6bad4bf854de4dde03717b1a8d95c4dac01165370766ec0623858acb32"
+    },
+    {
+      "path": "RELEASE_FILES_v0.1.0.json",
+      "bytes": null,
+      "sha256": null
+    }
+  ],
+  "count": 280
+}

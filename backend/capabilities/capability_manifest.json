@@ -1,0 +1,179 @@
+{
+  "registry_version": 1,
+  "tools": [
+    {
+      "name": "gesture.nod",
+      "version": 1,
+      "category": "gesture",
+      "description": "Perform one head nod through the current behavior policy.",
+      "argument_schema": {
+        "type": "object",
+        "properties": {},
+        "additionalProperties": false
+      },
+      "side_effect": "gesture",
+      "priority_class": "normal",
+      "idempotency": "call_id_once_per_avatar_session",
+      "availability_policy": "gesture_state_v1",
+      "preconditions": [
+        "active_bound_turn",
+        "orchestrator_authorization"
+      ],
+      "executor": "unity.orchestrator",
+      "completion_semantics": "dispatch_acknowledgement_only"
+    },
+    {
+      "name": "gesture.wave",
+      "version": 1,
+      "category": "gesture",
+      "description": "Perform one wave through the current behavior policy.",
+      "argument_schema": {
+        "type": "object",
+        "properties": {},
+        "additionalProperties": false
+      },
+      "side_effect": "gesture",
+      "priority_class": "normal",
+      "idempotency": "call_id_once_per_avatar_session",
+      "availability_policy": "gesture_state_v1",
+      "preconditions": [
+        "active_bound_turn",
+        "orchestrator_authorization"
+      ],
+      "executor": "unity.orchestrator",
+      "completion_semantics": "dispatch_acknowledgement_only"
+    },
+    {
+      "name": "expression.set",
+      "version": 1,
+      "category": "expression",
+      "description": "Set a semantic facial expression with bounded intensity and hold; neutral explicitly releases.",
+      "argument_schema": {
+        "type": "object",
+        "required": [
+          "expression"
+        ],
+        "additionalProperties": false,
+        "properties": {
+          "expression": {
+            "type": "string",
+            "enum": [
+              "neutral",
+              "happy",
+              "concerned",
+              "surprised",
+              "relaxed",
+              "shy"
+            ]
+          },
+          "intensity": {
+            "type": "number",
+            "minimum": 0,
+            "maximum": 1,
+            "default": 0.6
+          },
+          "hold_seconds": {
+            "type": "number",
+            "minimum": 0,
+            "maximum": 10,
+            "default": 3
+          }
+        }
+      },
+      "side_effect": "expression",
+      "priority_class": "normal",
+      "idempotency": "call_id_once_per_avatar_session",
+      "availability_policy": "expression_state_v1",
+      "preconditions": [
+        "active_bound_turn",
+        "orchestrator_authorization"
+      ],
+      "executor": "unity.orchestrator",
+      "completion_semantics": "dispatch_acknowledgement_only"
+    },
+    {
+      "name": "spatial.lead",
+      "version": 1,
+      "category": "spatial",
+      "description": "Prefer leading along the track; stationary social behavior may retain a nearby effective mode.",
+      "argument_schema": {
+        "type": "object",
+        "properties": {},
+        "additionalProperties": false
+      },
+      "side_effect": "movement",
+      "priority_class": "normal",
+      "idempotency": "call_id_once_per_avatar_session",
+      "availability_policy": "spatial_state_v1",
+      "preconditions": [
+        "active_bound_turn",
+        "orchestrator_authorization"
+      ],
+      "executor": "unity.orchestrator",
+      "completion_semantics": "dispatch_acknowledgement_only"
+    },
+    {
+      "name": "spatial.side",
+      "version": 1,
+      "category": "spatial",
+      "description": "Prefer accompanying beside the user.",
+      "argument_schema": {
+        "type": "object",
+        "properties": {},
+        "additionalProperties": false
+      },
+      "side_effect": "movement",
+      "priority_class": "normal",
+      "idempotency": "call_id_once_per_avatar_session",
+      "availability_policy": "spatial_state_v1",
+      "preconditions": [
+        "active_bound_turn",
+        "orchestrator_authorization"
+      ],
+      "executor": "unity.orchestrator",
+      "completion_semantics": "dispatch_acknowledgement_only"
+    },
+    {
+      "name": "spatial.trail",
+      "version": 1,
+      "category": "spatial",
+      "description": "Prefer following behind the user.",
+      "argument_schema": {
+        "type": "object",
+        "properties": {},
+        "additionalProperties": false
+      },
+      "side_effect": "movement",
+      "priority_class": "normal",
+      "idempotency": "call_id_once_per_avatar_session",
+      "availability_policy": "spatial_state_v1",
+      "preconditions": [
+        "active_bound_turn",
+        "orchestrator_authorization"
+      ],
+      "executor": "unity.orchestrator",
+      "completion_semantics": "dispatch_acknowledgement_only"
+    },
+    {
+      "name": "spatial.nearby",
+      "version": 1,
+      "category": "spatial",
+      "description": "Prefer nearby social positioning using existing Follow policy.",
+      "argument_schema": {
+        "type": "object",
+        "properties": {},
+        "additionalProperties": false
+      },
+      "side_effect": "movement",
+      "priority_class": "normal",
+      "idempotency": "call_id_once_per_avatar_session",
+      "availability_policy": "spatial_state_v1",
+      "preconditions": [
+        "active_bound_turn",
+        "orchestrator_authorization"
+      ],
+      "executor": "unity.orchestrator",
+      "completion_semantics": "dispatch_acknowledgement_only"
+    }
+  ]
+}

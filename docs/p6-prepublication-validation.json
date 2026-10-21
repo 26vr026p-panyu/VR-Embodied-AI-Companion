@@ -1,0 +1,27 @@
+{
+  "phase": "4-P6",
+  "local_date": "2026-10-22 Asia/Tokyo",
+  "p5_manifest_files_verified": 274,
+  "p5_manifest_initial_differences": [],
+  "source_files_unchanged": 128,
+  "git_root_is_independent_public_staging": true,
+  "junction_or_symlink": false,
+  "security": "PASS within defined scope",
+  "security_findings": [],
+  "binary_whitelist_sha256": {
+    "media/VR_Embodied_AI_Companion_Demo_JA.mp4": "478119a309fd2e00aa576714bc4a7ca091aa140c71ab97882312c944a2b93254",
+    "media/demo-thumbnail.png": "7b57428dfb59b8ac9e7f83074fbe167e7b23aa9e2489bdf4a800daf73bab1e2f"
+  },
+  "private_assets": "EXCLUDED",
+  "license": "MIT, Copyright(c)2026 Pan Yu; authorized original source only; third-party/media exclusions retained",
+  "github_account_verified": "26vr026p-panyu",
+  "repository_created_and_read_back": "PUBLIC / empty before first push",
+  "runtime_source_changes": 0,
+  "public_evaluation": {
+    "PASS": 68,
+    "SKIP": 11,
+    "exit_code": 0
+  },
+  "original_project_operations": "Read-only; no source/config/Scene modifications",
+  "scope": "Candidate/actual Git index only; no blanket rights or DLP guarantee"
+}

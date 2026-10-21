@@ -1,0 +1,116 @@
+{
+  "known_issue_id": "roxy3.retained_audio_underrun",
+  "status": "RESOLVED within controlled Desktop measurements",
+  "test_environment": "Windows Unity Editor + local production Roxy service; not Quest reliability",
+  "extracted_date": "2026-10-21",
+  "source_file_modified_utc": "2026-10-11T04:01:33.092457+00:00",
+  "source_report_sha256": "dcdd470ee7d2d57c828467a2ace2add7f17e80f9a029870604280591d07c1b3f",
+  "source_report_label": "Phase4-1B runtime-results.json; original kept private",
+  "transformation": "Numeric field whitelist, source order preserved; no text, audio, identity, trace, path or provider payload",
+  "observed_counts": {
+    "production_utterances": 12,
+    "true_underruns": 0,
+    "runtime_errors": 0
+  },
+  "production_true_underruns": 0,
+  "production_runtime_errors": 0,
+  "production_normal": [
+    {
+      "case_index": 1,
+      "underruns": 0,
+      "completed_count": 1,
+      "request_to_play_ms": 1456.8118999995932,
+      "buffer_ms": 300,
+      "reserve_ms": 800
+    },
+    {
+      "case_index": 2,
+      "underruns": 0,
+      "completed_count": 1,
+      "request_to_play_ms": 1400.430900000174,
+      "buffer_ms": 300,
+      "reserve_ms": 800
+    },
+    {
+      "case_index": 3,
+      "underruns": 0,
+      "completed_count": 1,
+      "request_to_play_ms": 1451.1610999998084,
+      "buffer_ms": 300,
+      "reserve_ms": 800
+    },
+    {
+      "case_index": 4,
+      "underruns": 0,
+      "completed_count": 1,
+      "request_to_play_ms": 1383.8785999996617,
+      "buffer_ms": 300,
+      "reserve_ms": 800
+    },
+    {
+      "case_index": 5,
+      "underruns": 0,
+      "completed_count": 1,
+      "request_to_play_ms": 1400.9451000001718,
+      "buffer_ms": 300,
+      "reserve_ms": 800
+    },
+    {
+      "case_index": 6,
+      "underruns": 0,
+      "completed_count": 1,
+      "request_to_play_ms": 1450.0517000005857,
+      "buffer_ms": 300,
+      "reserve_ms": 800
+    },
+    {
+      "case_index": 7,
+      "underruns": 0,
+      "completed_count": 1,
+      "request_to_play_ms": 1401.218200000585,
+      "buffer_ms": 300,
+      "reserve_ms": 800
+    },
+    {
+      "case_index": 8,
+      "underruns": 0,
+      "completed_count": 1,
+      "request_to_play_ms": 1417.3967000006087,
+      "buffer_ms": 300,
+      "reserve_ms": 800
+    },
+    {
+      "case_index": 9,
+      "underruns": 0,
+      "completed_count": 1,
+      "request_to_play_ms": 2450.397200000225,
+      "buffer_ms": 300,
+      "reserve_ms": 800
+    },
+    {
+      "case_index": 10,
+      "underruns": 0,
+      "completed_count": 1,
+      "request_to_play_ms": 1533.269399999881,
+      "buffer_ms": 300,
+      "reserve_ms": 800
+    },
+    {
+      "case_index": 11,
+      "underruns": 0,
+      "completed_count": 1,
+      "request_to_play_ms": 1384.0031999998246,
+      "buffer_ms": 300,
+      "reserve_ms": 800
+    },
+    {
+      "case_index": 12,
+      "underruns": 0,
+      "completed_count": 1,
+      "request_to_play_ms": 1384.3716000001223,
+      "buffer_ms": 300,
+      "reserve_ms": 800
+    }
+  ],
+  "limits": "Historical evidence replay, not new live playback or Quest acceptance."
+}

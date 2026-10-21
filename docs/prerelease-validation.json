@@ -1,0 +1,135 @@
+{
+  "original_files_checked": 137,
+  "original_changes": 0,
+  "staged_source_files_checked": 128,
+  "staged_runtime_source_changes": [],
+  "modified_files": [
+    ".gitignore",
+    "PORTFOLIO_PACKAGING_REPORT.md",
+    "README.md",
+    "README_ja.md",
+    "backend/README.md",
+    "docs/architecture.md",
+    "docs/evaluation.md",
+    "docs/limitations.md",
+    "docs/performance.md",
+    "docs/PUBLIC_RELEASE_AUDIT.md",
+    "docs/quest-validation-status.md",
+    "docs/reliability.md",
+    "docs/research-vision.md",
+    "docs/setup.md",
+    "docs/source-manifest.json",
+    "docs/THIRD_PARTY_NOTICES.md",
+    "docs/validation-summary.json",
+    "eval/README.md",
+    "media/README.md",
+    "unity/README.md",
+    "eval/evidence/packaging-contract-tests-2026-10-21.json",
+    "backend/eval/known_issues.json"
+  ],
+  "new_files": [
+    "LICENSE_OPTIONS.md",
+    "PORTFOLIO_PRERELEASE_REPORT.md",
+    "docs/media-review.json",
+    "docs/MEDIA_REVIEW.md",
+    "docs/PRERELEASE_AUDIT.md",
+    "docs/SECURITY_REVIEW.md",
+    "eval/evidence/public-skip-reasons.json",
+    "backend/eval/evidence/roxy-known-issue-sanitized.json",
+    "docs/prerelease-validation.json",
+    "security_scan_summary.md"
+  ],
+  "removed_files": [],
+  "phase": "4-P2",
+  "date": "2026-10-21",
+  "python_syntax": {
+    "PASS": 58,
+    "FAIL": 0
+  },
+  "json_parsing": {
+    "PASS": 19,
+    "FAIL": 0
+  },
+  "relative_link_errors": [],
+  "mermaid": [
+    {
+      "document": "README.md",
+      "diagram": 1,
+      "structural_check": "PASS",
+      "full_parser": "NOT VERIFIED",
+      "render": "NOT VERIFIED"
+    },
+    {
+      "document": "README_ja.md",
+      "diagram": 1,
+      "structural_check": "PASS",
+      "full_parser": "NOT VERIFIED",
+      "render": "NOT VERIFIED"
+    },
+    {
+      "document": "docs/architecture.md",
+      "diagram": 1,
+      "structural_check": "PASS",
+      "full_parser": "NOT VERIFIED",
+      "render": "NOT VERIFIED"
+    },
+    {
+      "document": "docs/reliability.md",
+      "diagram": 1,
+      "structural_check": "PASS",
+      "full_parser": "NOT VERIFIED",
+      "render": "NOT VERIFIED"
+    },
+    {
+      "document": "docs/research-vision.md",
+      "diagram": 1,
+      "structural_check": "PASS",
+      "full_parser": "NOT VERIFIED",
+      "render": "NOT VERIFIED"
+    },
+    {
+      "document": "docs/roadmap.md",
+      "diagram": 1,
+      "structural_check": "PASS",
+      "full_parser": "NOT VERIFIED",
+      "render": "NOT VERIFIED"
+    },
+    {
+      "document": "docs/tool-calling.md",
+      "diagram": 1,
+      "structural_check": "PASS",
+      "full_parser": "NOT VERIFIED",
+      "render": "NOT VERIFIED"
+    },
+    {
+      "document": "docs/voice-pipeline.md",
+      "diagram": 1,
+      "structural_check": "PASS",
+      "full_parser": "NOT VERIFIED",
+      "render": "NOT VERIFIED"
+    }
+  ],
+  "staged_source_manifest_mismatches": [],
+  "security_findings": [],
+  "security": "PASS within defined scan",
+  "cross_project_source_matches": [],
+  "full_chat_audit": "NOT FULLY AUDITABLE",
+  "unit_tests": {
+    "PASS": 68,
+    "FAIL": 0,
+    "SKIP": 11,
+    "ERROR": 0,
+    "exit_code": 0
+  },
+  "unity_compile": "NOT VERIFIED",
+  "clean_install": "NOT VERIFIED",
+  "full_live_backend": "NOT VERIFIED",
+  "license": "HUMAN DECISION REQUIRED",
+  "media": "EXCLUDED",
+  "ready_for_human_review": true,
+  "ready_to_publish": false,
+  "published": false,
+  "staging_file_count": 252,
+  "staging_total_file_bytes": 873136,
+  "size_basis": "sum of all logical file lengths, including this report; not filesystem allocation"
+}

@@ -1,0 +1,793 @@
+{
+  "date": "2026-10-21",
+  "inventory_scope": "Five known presentation/visual-polish output roots; not a whole-disk search",
+  "candidates": [
+    {
+      "filename": "01_会話.mp4",
+      "source": "private-demo-outputs/final-demo/01_会話.mp4",
+      "bytes": 10316490,
+      "contents": "Desktop presentation / validation recording; classification from filename and prior companion metadata, not rewatched this phase",
+      "third_party_assets": "Character, scenery and possibly synthesized Roxy voice; exact coverage not frame-by-frame verified",
+      "privacy_risk": "Dialogue/captions/HUD/file-screen content not fully reviewed",
+      "license_status": "NOT CONFIRMED",
+      "decision": "REVIEW REQUIRED",
+      "recommended_action": "EXCLUDED from public staging pending rights and privacy review"
+    },
+    {
+      "filename": "02_伴走・先導.mp4",
+      "source": "private-demo-outputs/final-demo/02_伴走・先導.mp4",
+      "bytes": 14539038,
+      "contents": "Desktop presentation / validation recording; classification from filename and prior companion metadata, not rewatched this phase",
+      "third_party_assets": "Character, scenery and possibly synthesized Roxy voice; exact coverage not frame-by-frame verified",
+      "privacy_risk": "Dialogue/captions/HUD/file-screen content not fully reviewed",
+      "license_status": "NOT CONFIRMED",
+      "decision": "REVIEW REQUIRED",
+      "recommended_action": "EXCLUDED from public staging pending rights and privacy review"
+    },
+    {
+      "filename": "03_歩行・走行.mp4",
+      "source": "private-demo-outputs/final-demo/03_歩行・走行.mp4",
+      "bytes": 11319949,
+      "contents": "Desktop presentation / validation recording; classification from filename and prior companion metadata, not rewatched this phase",
+      "third_party_assets": "Character, scenery and possibly synthesized Roxy voice; exact coverage not frame-by-frame verified",
+      "privacy_risk": "Dialogue/captions/HUD/file-screen content not fully reviewed",
+      "license_status": "NOT CONFIRMED",
+      "decision": "REVIEW REQUIRED",
+      "recommended_action": "EXCLUDED from public staging pending rights and privacy review"
+    },
+    {
+      "filename": "04_手を振る.mp4",
+      "source": "private-demo-outputs/final-demo/04_手を振る.mp4",
+      "bytes": 15101009,
+      "contents": "Desktop presentation / validation recording; classification from filename and prior companion metadata, not rewatched this phase",
+      "third_party_assets": "Character, scenery and possibly synthesized Roxy voice; exact coverage not frame-by-frame verified",
+      "privacy_risk": "Dialogue/captions/HUD/file-screen content not fully reviewed",
+      "license_status": "NOT CONFIRMED",
+      "decision": "REVIEW REQUIRED",
+      "recommended_action": "EXCLUDED from public staging pending rights and privacy review"
+    },
+    {
+      "filename": "Final_Presentation_Demo_JA.mp4",
+      "source": "private-demo-outputs/final-demo/Final_Presentation_Demo_JA.mp4",
+      "bytes": 65761131,
+      "contents": "Desktop presentation / validation recording; classification from filename and prior companion metadata, not rewatched this phase",
+      "third_party_assets": "Character, scenery and possibly synthesized Roxy voice; exact coverage not frame-by-frame verified",
+      "privacy_risk": "Dialogue/captions/HUD/file-screen content not fully reviewed",
+      "license_status": "NOT CONFIRMED",
+      "decision": "REVIEW REQUIRED",
+      "recommended_action": "EXCLUDED from public staging pending rights and privacy review"
+    },
+    {
+      "filename": "Final_Presentation_Demo_JA_v2.mp4",
+      "source": "private-demo-outputs/final-demo-v2/Final_Presentation_Demo_JA_v2.mp4",
+      "bytes": 87541461,
+      "contents": "Desktop presentation / validation recording; classification from filename and prior companion metadata, not rewatched this phase",
+      "third_party_assets": "Character, scenery and possibly synthesized Roxy voice; exact coverage not frame-by-frame verified",
+      "privacy_risk": "Dialogue/captions/HUD/file-screen content not fully reviewed",
+      "license_status": "NOT CONFIRMED",
+      "decision": "REVIEW REQUIRED",
+      "recommended_action": "EXCLUDED from public staging pending rights and privacy review"
+    },
+    {
+      "filename": "Final_Presentation_Demo_JA_v3.mp4",
+      "source": "private-demo-outputs/final-demo-v3/Final_Presentation_Demo_JA_v3.mp4",
+      "bytes": 76954533,
+      "contents": "Desktop presentation / validation recording; classification from filename and prior companion metadata, not rewatched this phase",
+      "third_party_assets": "Character, scenery and possibly synthesized Roxy voice; exact coverage not frame-by-frame verified",
+      "privacy_risk": "Dialogue/captions/HUD/file-screen content not fully reviewed",
+      "license_status": "NOT CONFIRMED",
+      "decision": "REVIEW REQUIRED",
+      "recommended_action": "EXCLUDED from public staging pending rights and privacy review"
+    },
+    {
+      "filename": "Lead_Fix_Check.mp4",
+      "source": "private-demo-outputs/demo-fix-check/Lead_Fix_Check.mp4",
+      "bytes": 17308516,
+      "contents": "Desktop presentation / validation recording; classification from filename and prior companion metadata, not rewatched this phase",
+      "third_party_assets": "Character, scenery and possibly synthesized Roxy voice; exact coverage not frame-by-frame verified",
+      "privacy_risk": "Dialogue/captions/HUD/file-screen content not fully reviewed",
+      "license_status": "NOT CONFIRMED",
+      "decision": "REVIEW REQUIRED",
+      "recommended_action": "EXCLUDED from public staging pending rights and privacy review"
+    },
+    {
+      "filename": "Run_Fix_Check.mp4",
+      "source": "private-demo-outputs/demo-fix-check/Run_Fix_Check.mp4",
+      "bytes": 14991938,
+      "contents": "Desktop presentation / validation recording; classification from filename and prior companion metadata, not rewatched this phase",
+      "third_party_assets": "Character, scenery and possibly synthesized Roxy voice; exact coverage not frame-by-frame verified",
+      "privacy_risk": "Dialogue/captions/HUD/file-screen content not fully reviewed",
+      "license_status": "NOT CONFIRMED",
+      "decision": "REVIEW REQUIRED",
+      "recommended_action": "EXCLUDED from public staging pending rights and privacy review"
+    },
+    {
+      "filename": "Wave_Fix_Check.mp4",
+      "source": "private-demo-outputs/demo-fix-check/Wave_Fix_Check.mp4",
+      "bytes": 18708016,
+      "contents": "Desktop presentation / validation recording; classification from filename and prior companion metadata, not rewatched this phase",
+      "third_party_assets": "Character, scenery and possibly synthesized Roxy voice; exact coverage not frame-by-frame verified",
+      "privacy_risk": "Dialogue/captions/HUD/file-screen content not fully reviewed",
+      "license_status": "NOT CONFIRMED",
+      "decision": "REVIEW REQUIRED",
+      "recommended_action": "EXCLUDED from public staging pending rights and privacy review"
+    },
+    {
+      "filename": "hands-final_Presentation.mp4",
+      "source": "private-demo-outputs/demo-polish/hands-final_Presentation.mp4",
+      "bytes": 1831753,
+      "contents": "Desktop presentation / validation recording; classification from filename and prior companion metadata, not rewatched this phase",
+      "third_party_assets": "Character, scenery and possibly synthesized Roxy voice; exact coverage not frame-by-frame verified",
+      "privacy_risk": "Dialogue/captions/HUD/file-screen content not fully reviewed",
+      "license_status": "NOT CONFIRMED",
+      "decision": "REVIEW REQUIRED",
+      "recommended_action": "EXCLUDED from public staging pending rights and privacy review"
+    },
+    {
+      "filename": "DevelopmentRestored.jpg",
+      "source": "private-demo-outputs/demo-polish/DevelopmentRestored.jpg",
+      "bytes": 95224,
+      "contents": "Desktop screenshot / frame; classification from filename and prior companion metadata, not rewatched this phase",
+      "third_party_assets": "Character, scenery and possibly synthesized Roxy voice; exact coverage not frame-by-frame verified",
+      "privacy_risk": "Dialogue/captions/HUD/file-screen content not fully reviewed",
+      "license_status": "NOT CONFIRMED",
+      "decision": "REVIEW REQUIRED",
+      "recommended_action": "EXCLUDED from public staging pending rights and privacy review"
+    },
+    {
+      "filename": "PresentationDesktop.jpg",
+      "source": "private-demo-outputs/demo-polish/PresentationDesktop.jpg",
+      "bytes": 87860,
+      "contents": "Desktop screenshot / frame; classification from filename and prior companion metadata, not rewatched this phase",
+      "third_party_assets": "Character, scenery and possibly synthesized Roxy voice; exact coverage not frame-by-frame verified",
+      "privacy_risk": "Dialogue/captions/HUD/file-screen content not fully reviewed",
+      "license_status": "NOT CONFIRMED",
+      "decision": "REVIEW REQUIRED",
+      "recommended_action": "EXCLUDED from public staging pending rights and privacy review"
+    }
+  ],
+  "derived_groups": [
+    {
+      "source": "final-demo/attempt-01/frames",
+      "count": 526,
+      "kind": "generated frame sequence / image group",
+      "license_status": "NOT CONFIRMED",
+      "decision": "EXCLUDED",
+      "reason": "Derived frames retain character/scenery risks; no public copy"
+    },
+    {
+      "source": "final-demo/attempt-02-offline/frames",
+      "count": 448,
+      "kind": "generated frame sequence / image group",
+      "license_status": "NOT CONFIRMED",
+      "decision": "EXCLUDED",
+      "reason": "Derived frames retain character/scenery risks; no public copy"
+    },
+    {
+      "source": "final-demo/captioned",
+      "count": 525,
+      "kind": "generated frame sequence / image group",
+      "license_status": "NOT CONFIRMED",
+      "decision": "EXCLUDED",
+      "reason": "Derived frames retain character/scenery risks; no public copy"
+    },
+    {
+      "source": "final-demo/frames",
+      "count": 459,
+      "kind": "generated frame sequence / image group",
+      "license_status": "NOT CONFIRMED",
+      "decision": "EXCLUDED",
+      "reason": "Derived frames retain character/scenery risks; no public copy"
+    },
+    {
+      "source": "final-demo-v2/captioned",
+      "count": 585,
+      "kind": "generated frame sequence / image group",
+      "license_status": "NOT CONFIRMED",
+      "decision": "EXCLUDED",
+      "reason": "Derived frames retain character/scenery risks; no public copy"
+    },
+    {
+      "source": "final-demo-v2/Lead/frames",
+      "count": 103,
+      "kind": "generated frame sequence / image group",
+      "license_status": "NOT CONFIRMED",
+      "decision": "EXCLUDED",
+      "reason": "Derived frames retain character/scenery risks; no public copy"
+    },
+    {
+      "source": "final-demo-v2/Main/frames",
+      "count": 285,
+      "kind": "generated frame sequence / image group",
+      "license_status": "NOT CONFIRMED",
+      "decision": "EXCLUDED",
+      "reason": "Derived frames retain character/scenery risks; no public copy"
+    },
+    {
+      "source": "final-demo-v3/captioned",
+      "count": 746,
+      "kind": "generated frame sequence / image group",
+      "license_status": "NOT CONFIRMED",
+      "decision": "EXCLUDED",
+      "reason": "Derived frames retain character/scenery risks; no public copy"
+    },
+    {
+      "source": "final-demo-v3/frames",
+      "count": 644,
+      "kind": "generated frame sequence / image group",
+      "license_status": "NOT CONFIRMED",
+      "decision": "EXCLUDED",
+      "reason": "Derived frames retain character/scenery risks; no public copy"
+    },
+    {
+      "source": "demo-fix-check/first-check/Lead_Fix_Check/frames",
+      "count": 102,
+      "kind": "generated frame sequence / image group",
+      "license_status": "NOT CONFIRMED",
+      "decision": "EXCLUDED",
+      "reason": "Derived frames retain character/scenery risks; no public copy"
+    },
+    {
+      "source": "demo-fix-check/first-check/Run_Fix_Check/frames",
+      "count": 106,
+      "kind": "generated frame sequence / image group",
+      "license_status": "NOT CONFIRMED",
+      "decision": "EXCLUDED",
+      "reason": "Derived frames retain character/scenery risks; no public copy"
+    },
+    {
+      "source": "demo-fix-check/first-check/Wave_Fix_Check/frames",
+      "count": 105,
+      "kind": "generated frame sequence / image group",
+      "license_status": "NOT CONFIRMED",
+      "decision": "EXCLUDED",
+      "reason": "Derived frames retain character/scenery risks; no public copy"
+    },
+    {
+      "source": "demo-fix-check/Lead_Fix_Check/captioned",
+      "count": 120,
+      "kind": "generated frame sequence / image group",
+      "license_status": "NOT CONFIRMED",
+      "decision": "EXCLUDED",
+      "reason": "Derived frames retain character/scenery risks; no public copy"
+    },
+    {
+      "source": "demo-fix-check/Lead_Fix_Check/frames",
+      "count": 102,
+      "kind": "generated frame sequence / image group",
+      "license_status": "NOT CONFIRMED",
+      "decision": "EXCLUDED",
+      "reason": "Derived frames retain character/scenery risks; no public copy"
+    },
+    {
+      "source": "demo-fix-check/Run_Fix_Check/captioned",
+      "count": 120,
+      "kind": "generated frame sequence / image group",
+      "license_status": "NOT CONFIRMED",
+      "decision": "EXCLUDED",
+      "reason": "Derived frames retain character/scenery risks; no public copy"
+    },
+    {
+      "source": "demo-fix-check/Run_Fix_Check/frames",
+      "count": 108,
+      "kind": "generated frame sequence / image group",
+      "license_status": "NOT CONFIRMED",
+      "decision": "EXCLUDED",
+      "reason": "Derived frames retain character/scenery risks; no public copy"
+    },
+    {
+      "source": "demo-fix-check/Wave_Fix_Check/captioned",
+      "count": 120,
+      "kind": "generated frame sequence / image group",
+      "license_status": "NOT CONFIRMED",
+      "decision": "EXCLUDED",
+      "reason": "Derived frames retain character/scenery risks; no public copy"
+    },
+    {
+      "source": "demo-fix-check/Wave_Fix_Check/frames",
+      "count": 104,
+      "kind": "generated frame sequence / image group",
+      "license_status": "NOT CONFIRMED",
+      "decision": "EXCLUDED",
+      "reason": "Derived frames retain character/scenery risks; no public copy"
+    },
+    {
+      "source": "demo-polish/after/IdleHand",
+      "count": 91,
+      "kind": "generated frame sequence / image group",
+      "license_status": "NOT CONFIRMED",
+      "decision": "EXCLUDED",
+      "reason": "Derived frames retain character/scenery risks; no public copy"
+    },
+    {
+      "source": "demo-polish/after/Presentation",
+      "count": 240,
+      "kind": "generated frame sequence / image group",
+      "license_status": "NOT CONFIRMED",
+      "decision": "EXCLUDED",
+      "reason": "Derived frames retain character/scenery risks; no public copy"
+    },
+    {
+      "source": "demo-polish/after/RunHand",
+      "count": 91,
+      "kind": "generated frame sequence / image group",
+      "license_status": "NOT CONFIRMED",
+      "decision": "EXCLUDED",
+      "reason": "Derived frames retain character/scenery risks; no public copy"
+    },
+    {
+      "source": "demo-polish/after/RunLeft90_Rear",
+      "count": 91,
+      "kind": "generated frame sequence / image group",
+      "license_status": "NOT CONFIRMED",
+      "decision": "EXCLUDED",
+      "reason": "Derived frames retain character/scenery risks; no public copy"
+    },
+    {
+      "source": "demo-polish/after/RunRight90_Front",
+      "count": 91,
+      "kind": "generated frame sequence / image group",
+      "license_status": "NOT CONFIRMED",
+      "decision": "EXCLUDED",
+      "reason": "Derived frames retain character/scenery risks; no public copy"
+    },
+    {
+      "source": "demo-polish/after/RunRight90_Side",
+      "count": 91,
+      "kind": "generated frame sequence / image group",
+      "license_status": "NOT CONFIRMED",
+      "decision": "EXCLUDED",
+      "reason": "Derived frames retain character/scenery risks; no public copy"
+    },
+    {
+      "source": "demo-polish/after/WalkHand",
+      "count": 91,
+      "kind": "generated frame sequence / image group",
+      "license_status": "NOT CONFIRMED",
+      "decision": "EXCLUDED",
+      "reason": "Derived frames retain character/scenery risks; no public copy"
+    },
+    {
+      "source": "demo-polish/after/WaveHand",
+      "count": 91,
+      "kind": "generated frame sequence / image group",
+      "license_status": "NOT CONFIRMED",
+      "decision": "EXCLUDED",
+      "reason": "Derived frames retain character/scenery risks; no public copy"
+    },
+    {
+      "source": "demo-polish/before/RunLeft90_Rear",
+      "count": 91,
+      "kind": "generated frame sequence / image group",
+      "license_status": "NOT CONFIRMED",
+      "decision": "EXCLUDED",
+      "reason": "Derived frames retain character/scenery risks; no public copy"
+    },
+    {
+      "source": "demo-polish/before/RunRight90_Front",
+      "count": 91,
+      "kind": "generated frame sequence / image group",
+      "license_status": "NOT CONFIRMED",
+      "decision": "EXCLUDED",
+      "reason": "Derived frames retain character/scenery risks; no public copy"
+    },
+    {
+      "source": "demo-polish/before/RunRight90_Side",
+      "count": 91,
+      "kind": "generated frame sequence / image group",
+      "license_status": "NOT CONFIRMED",
+      "decision": "EXCLUDED",
+      "reason": "Derived frames retain character/scenery risks; no public copy"
+    },
+    {
+      "source": "demo-polish/before-misaligned/RunLeft90_Rear",
+      "count": 91,
+      "kind": "generated frame sequence / image group",
+      "license_status": "NOT CONFIRMED",
+      "decision": "EXCLUDED",
+      "reason": "Derived frames retain character/scenery risks; no public copy"
+    },
+    {
+      "source": "demo-polish/before-misaligned/RunRight90_Front",
+      "count": 91,
+      "kind": "generated frame sequence / image group",
+      "license_status": "NOT CONFIRMED",
+      "decision": "EXCLUDED",
+      "reason": "Derived frames retain character/scenery risks; no public copy"
+    },
+    {
+      "source": "demo-polish/before-misaligned/RunRight90_Side",
+      "count": 91,
+      "kind": "generated frame sequence / image group",
+      "license_status": "NOT CONFIRMED",
+      "decision": "EXCLUDED",
+      "reason": "Derived frames retain character/scenery risks; no public copy"
+    },
+    {
+      "source": "demo-polish/full/Departure180_Front",
+      "count": 150,
+      "kind": "generated frame sequence / image group",
+      "license_status": "NOT CONFIRMED",
+      "decision": "EXCLUDED",
+      "reason": "Derived frames retain character/scenery risks; no public copy"
+    },
+    {
+      "source": "demo-polish/full/Departure180_Rear",
+      "count": 150,
+      "kind": "generated frame sequence / image group",
+      "license_status": "NOT CONFIRMED",
+      "decision": "EXCLUDED",
+      "reason": "Derived frames retain character/scenery risks; no public copy"
+    },
+    {
+      "source": "demo-polish/full/Departure180_Side",
+      "count": 150,
+      "kind": "generated frame sequence / image group",
+      "license_status": "NOT CONFIRMED",
+      "decision": "EXCLUDED",
+      "reason": "Derived frames retain character/scenery risks; no public copy"
+    },
+    {
+      "source": "demo-polish/full/Departure90_Front",
+      "count": 150,
+      "kind": "generated frame sequence / image group",
+      "license_status": "NOT CONFIRMED",
+      "decision": "EXCLUDED",
+      "reason": "Derived frames retain character/scenery risks; no public copy"
+    },
+    {
+      "source": "demo-polish/full/Departure90_Rear",
+      "count": 150,
+      "kind": "generated frame sequence / image group",
+      "license_status": "NOT CONFIRMED",
+      "decision": "EXCLUDED",
+      "reason": "Derived frames retain character/scenery risks; no public copy"
+    },
+    {
+      "source": "demo-polish/full/Departure90_Side",
+      "count": 150,
+      "kind": "generated frame sequence / image group",
+      "license_status": "NOT CONFIRMED",
+      "decision": "EXCLUDED",
+      "reason": "Derived frames retain character/scenery risks; no public copy"
+    },
+    {
+      "source": "demo-polish/full/IdleHand",
+      "count": 91,
+      "kind": "generated frame sequence / image group",
+      "license_status": "NOT CONFIRMED",
+      "decision": "EXCLUDED",
+      "reason": "Derived frames retain character/scenery risks; no public copy"
+    },
+    {
+      "source": "demo-polish/full/Presentation",
+      "count": 240,
+      "kind": "generated frame sequence / image group",
+      "license_status": "NOT CONFIRMED",
+      "decision": "EXCLUDED",
+      "reason": "Derived frames retain character/scenery risks; no public copy"
+    },
+    {
+      "source": "demo-polish/full/RunHand",
+      "count": 91,
+      "kind": "generated frame sequence / image group",
+      "license_status": "NOT CONFIRMED",
+      "decision": "EXCLUDED",
+      "reason": "Derived frames retain character/scenery risks; no public copy"
+    },
+    {
+      "source": "demo-polish/full/RunLargeTurn_Follow",
+      "count": 150,
+      "kind": "generated frame sequence / image group",
+      "license_status": "NOT CONFIRMED",
+      "decision": "EXCLUDED",
+      "reason": "Derived frames retain character/scenery risks; no public copy"
+    },
+    {
+      "source": "demo-polish/full/RunLeft30_Front",
+      "count": 91,
+      "kind": "generated frame sequence / image group",
+      "license_status": "NOT CONFIRMED",
+      "decision": "EXCLUDED",
+      "reason": "Derived frames retain character/scenery risks; no public copy"
+    },
+    {
+      "source": "demo-polish/full/RunLeft30_Rear",
+      "count": 91,
+      "kind": "generated frame sequence / image group",
+      "license_status": "NOT CONFIRMED",
+      "decision": "EXCLUDED",
+      "reason": "Derived frames retain character/scenery risks; no public copy"
+    },
+    {
+      "source": "demo-polish/full/RunLeft30_Side",
+      "count": 91,
+      "kind": "generated frame sequence / image group",
+      "license_status": "NOT CONFIRMED",
+      "decision": "EXCLUDED",
+      "reason": "Derived frames retain character/scenery risks; no public copy"
+    },
+    {
+      "source": "demo-polish/full/RunLeft90_Front",
+      "count": 91,
+      "kind": "generated frame sequence / image group",
+      "license_status": "NOT CONFIRMED",
+      "decision": "EXCLUDED",
+      "reason": "Derived frames retain character/scenery risks; no public copy"
+    },
+    {
+      "source": "demo-polish/full/RunLeft90_Rear",
+      "count": 91,
+      "kind": "generated frame sequence / image group",
+      "license_status": "NOT CONFIRMED",
+      "decision": "EXCLUDED",
+      "reason": "Derived frames retain character/scenery risks; no public copy"
+    },
+    {
+      "source": "demo-polish/full/RunLeft90_Side",
+      "count": 91,
+      "kind": "generated frame sequence / image group",
+      "license_status": "NOT CONFIRMED",
+      "decision": "EXCLUDED",
+      "reason": "Derived frames retain character/scenery risks; no public copy"
+    },
+    {
+      "source": "demo-polish/full/RunRight30_Front",
+      "count": 91,
+      "kind": "generated frame sequence / image group",
+      "license_status": "NOT CONFIRMED",
+      "decision": "EXCLUDED",
+      "reason": "Derived frames retain character/scenery risks; no public copy"
+    },
+    {
+      "source": "demo-polish/full/RunRight30_Rear",
+      "count": 91,
+      "kind": "generated frame sequence / image group",
+      "license_status": "NOT CONFIRMED",
+      "decision": "EXCLUDED",
+      "reason": "Derived frames retain character/scenery risks; no public copy"
+    },
+    {
+      "source": "demo-polish/full/RunRight30_Side",
+      "count": 91,
+      "kind": "generated frame sequence / image group",
+      "license_status": "NOT CONFIRMED",
+      "decision": "EXCLUDED",
+      "reason": "Derived frames retain character/scenery risks; no public copy"
+    },
+    {
+      "source": "demo-polish/full/RunRight90_Front",
+      "count": 91,
+      "kind": "generated frame sequence / image group",
+      "license_status": "NOT CONFIRMED",
+      "decision": "EXCLUDED",
+      "reason": "Derived frames retain character/scenery risks; no public copy"
+    },
+    {
+      "source": "demo-polish/full/RunRight90_Rear",
+      "count": 91,
+      "kind": "generated frame sequence / image group",
+      "license_status": "NOT CONFIRMED",
+      "decision": "EXCLUDED",
+      "reason": "Derived frames retain character/scenery risks; no public copy"
+    },
+    {
+      "source": "demo-polish/full/RunRight90_Side",
+      "count": 91,
+      "kind": "generated frame sequence / image group",
+      "license_status": "NOT CONFIRMED",
+      "decision": "EXCLUDED",
+      "reason": "Derived frames retain character/scenery risks; no public copy"
+    },
+    {
+      "source": "demo-polish/full/WalkHand",
+      "count": 91,
+      "kind": "generated frame sequence / image group",
+      "license_status": "NOT CONFIRMED",
+      "decision": "EXCLUDED",
+      "reason": "Derived frames retain character/scenery risks; no public copy"
+    },
+    {
+      "source": "demo-polish/full/WalkLeft30_Front",
+      "count": 91,
+      "kind": "generated frame sequence / image group",
+      "license_status": "NOT CONFIRMED",
+      "decision": "EXCLUDED",
+      "reason": "Derived frames retain character/scenery risks; no public copy"
+    },
+    {
+      "source": "demo-polish/full/WalkLeft30_Rear",
+      "count": 91,
+      "kind": "generated frame sequence / image group",
+      "license_status": "NOT CONFIRMED",
+      "decision": "EXCLUDED",
+      "reason": "Derived frames retain character/scenery risks; no public copy"
+    },
+    {
+      "source": "demo-polish/full/WalkLeft30_Side",
+      "count": 91,
+      "kind": "generated frame sequence / image group",
+      "license_status": "NOT CONFIRMED",
+      "decision": "EXCLUDED",
+      "reason": "Derived frames retain character/scenery risks; no public copy"
+    },
+    {
+      "source": "demo-polish/full/WalkLeft90_Front",
+      "count": 91,
+      "kind": "generated frame sequence / image group",
+      "license_status": "NOT CONFIRMED",
+      "decision": "EXCLUDED",
+      "reason": "Derived frames retain character/scenery risks; no public copy"
+    },
+    {
+      "source": "demo-polish/full/WalkLeft90_Rear",
+      "count": 91,
+      "kind": "generated frame sequence / image group",
+      "license_status": "NOT CONFIRMED",
+      "decision": "EXCLUDED",
+      "reason": "Derived frames retain character/scenery risks; no public copy"
+    },
+    {
+      "source": "demo-polish/full/WalkLeft90_Side",
+      "count": 91,
+      "kind": "generated frame sequence / image group",
+      "license_status": "NOT CONFIRMED",
+      "decision": "EXCLUDED",
+      "reason": "Derived frames retain character/scenery risks; no public copy"
+    },
+    {
+      "source": "demo-polish/full/WalkRight30_Front",
+      "count": 91,
+      "kind": "generated frame sequence / image group",
+      "license_status": "NOT CONFIRMED",
+      "decision": "EXCLUDED",
+      "reason": "Derived frames retain character/scenery risks; no public copy"
+    },
+    {
+      "source": "demo-polish/full/WalkRight30_Rear",
+      "count": 91,
+      "kind": "generated frame sequence / image group",
+      "license_status": "NOT CONFIRMED",
+      "decision": "EXCLUDED",
+      "reason": "Derived frames retain character/scenery risks; no public copy"
+    },
+    {
+      "source": "demo-polish/full/WalkRight30_Side",
+      "count": 91,
+      "kind": "generated frame sequence / image group",
+      "license_status": "NOT CONFIRMED",
+      "decision": "EXCLUDED",
+      "reason": "Derived frames retain character/scenery risks; no public copy"
+    },
+    {
+      "source": "demo-polish/full/WalkRight90_Front",
+      "count": 91,
+      "kind": "generated frame sequence / image group",
+      "license_status": "NOT CONFIRMED",
+      "decision": "EXCLUDED",
+      "reason": "Derived frames retain character/scenery risks; no public copy"
+    },
+    {
+      "source": "demo-polish/full/WalkRight90_Rear",
+      "count": 91,
+      "kind": "generated frame sequence / image group",
+      "license_status": "NOT CONFIRMED",
+      "decision": "EXCLUDED",
+      "reason": "Derived frames retain character/scenery risks; no public copy"
+    },
+    {
+      "source": "demo-polish/full/WalkRight90_Side",
+      "count": 91,
+      "kind": "generated frame sequence / image group",
+      "license_status": "NOT CONFIRMED",
+      "decision": "EXCLUDED",
+      "reason": "Derived frames retain character/scenery risks; no public copy"
+    },
+    {
+      "source": "demo-polish/full/WaveHand",
+      "count": 91,
+      "kind": "generated frame sequence / image group",
+      "license_status": "NOT CONFIRMED",
+      "decision": "EXCLUDED",
+      "reason": "Derived frames retain character/scenery risks; no public copy"
+    },
+    {
+      "source": "demo-polish/hands-final/IdleHand",
+      "count": 91,
+      "kind": "generated frame sequence / image group",
+      "license_status": "NOT CONFIRMED",
+      "decision": "EXCLUDED",
+      "reason": "Derived frames retain character/scenery risks; no public copy"
+    },
+    {
+      "source": "demo-polish/hands-final/Presentation",
+      "count": 241,
+      "kind": "generated frame sequence / image group",
+      "license_status": "NOT CONFIRMED",
+      "decision": "EXCLUDED",
+      "reason": "Derived frames retain character/scenery risks; no public copy"
+    },
+    {
+      "source": "demo-polish/hands-final/RunHand",
+      "count": 91,
+      "kind": "generated frame sequence / image group",
+      "license_status": "NOT CONFIRMED",
+      "decision": "EXCLUDED",
+      "reason": "Derived frames retain character/scenery risks; no public copy"
+    },
+    {
+      "source": "demo-polish/hands-final/RunLargeTurn_Follow",
+      "count": 151,
+      "kind": "generated frame sequence / image group",
+      "license_status": "NOT CONFIRMED",
+      "decision": "EXCLUDED",
+      "reason": "Derived frames retain character/scenery risks; no public copy"
+    },
+    {
+      "source": "demo-polish/hands-final/WalkHand",
+      "count": 91,
+      "kind": "generated frame sequence / image group",
+      "license_status": "NOT CONFIRMED",
+      "decision": "EXCLUDED",
+      "reason": "Derived frames retain character/scenery risks; no public copy"
+    },
+    {
+      "source": "demo-polish/hands-final/WaveBody",
+      "count": 151,
+      "kind": "generated frame sequence / image group",
+      "license_status": "NOT CONFIRMED",
+      "decision": "EXCLUDED",
+      "reason": "Derived frames retain character/scenery risks; no public copy"
+    },
+    {
+      "source": "demo-polish/hands-final/WaveHand",
+      "count": 151,
+      "kind": "generated frame sequence / image group",
+      "license_status": "NOT CONFIRMED",
+      "decision": "EXCLUDED",
+      "reason": "Derived frames retain character/scenery risks; no public copy"
+    },
+    {
+      "source": "demo-polish/sheets",
+      "count": 37,
+      "kind": "generated frame sequence / image group",
+      "license_status": "NOT CONFIRMED",
+      "decision": "EXCLUDED",
+      "reason": "Derived frames retain character/scenery risks; no public copy"
+    },
+    {
+      "source": "demo-polish/turn-final/RunLargeTurn_Follow",
+      "count": 241,
+      "kind": "generated frame sequence / image group",
+      "license_status": "NOT CONFIRMED",
+      "decision": "EXCLUDED",
+      "reason": "Derived frames retain character/scenery risks; no public copy"
+    },
+    {
+      "source": "demo-polish/waveoff/WaveProbe",
+      "count": 151,
+      "kind": "generated frame sequence / image group",
+      "license_status": "NOT CONFIRMED",
+      "decision": "EXCLUDED",
+      "reason": "Derived frames retain character/scenery risks; no public copy"
+    },
+    {
+      "source": "demo-polish/waveprobe/WaveProbe",
+      "count": 151,
+      "kind": "generated frame sequence / image group",
+      "license_status": "NOT CONFIRMED",
+      "decision": "EXCLUDED",
+      "reason": "Derived frames retain character/scenery risks; no public copy"
+    }
+  ],
+  "approved": 0,
+  "original_media_copied": false,
+  "quest_pcvr_recording": "No separate explicitly identified Quest PCVR recording found within these inspected roots; not a claim that none exists elsewhere",
+  "review_method": "Read-only names/sizes and prior sidecar metadata. Audio/music/private-text absence not visually certified.",
+  "inventory_phase": "4-P2 historical inventory; per-video full clearance was not performed",
+  "p4_update": {
+    "author_replies": "Both private screenshots verified; described-use consents CONFIRMED",
+    "selected_current_review": "demo-candidate-review.json",
+    "remaining": "Final per-video asset/privacy/technical-claim review; original model/voice permissions are no longer pending a reply"
+  }
+}

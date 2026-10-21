@@ -1,0 +1,138 @@
+{
+  "date": "2026-10-21",
+  "recording": "New Unity continuous Play; second complete take; no historical video/audio used",
+  "source_resolution": "1280x720",
+  "encoded_resolution": "1280x720",
+  "encoded_fps": 15,
+  "duration_seconds": 66.86666666666666,
+  "video_codec": "H.264",
+  "audio_codec": "AAC",
+  "audio_capture": "Current VoiceAnchor AudioSource OnAudioFilterRead, source-level stereo export; not full Quest/HRTF mixer capture",
+  "size_bytes": 6983640,
+  "sha256": "478119a309fd2e00aa576714bc4a7ca091aa140c71ab97882312c944a2b93254",
+  "input": "Preset Japanese text; microphone disabled. Virtual player-position input; no real exercise sensor.",
+  "edits": {
+    "source_duration": 66.82333374023438,
+    "cut_intervals": [],
+    "output_duration": 66.86666666666666,
+    "policy": "Only pre-playback waiting removed; no speech/action speedup. Text input and omitted wait disclosed."
+  },
+  "turns": [
+    {
+      "demo_turn": 1,
+      "user_text": "今日はいい天気だね。一言で返事して。",
+      "speech": "うん、ほんとに気持ちいい空だね。",
+      "user_at_s": 5.003326416015625,
+      "playback_at_s": 8.635976791381836,
+      "providers": [
+        {
+          "provider": "gpt_sovits",
+          "voice_id": "roxy3"
+        }
+      ],
+      "native_tools": [],
+      "playback_finished": true,
+      "tts_underrun_events": 0,
+      "fallback_events": []
+    },
+    {
+      "demo_turn": 2,
+      "user_text": "隣で一緒に歩いてくれる？短く返事して。",
+      "speech": "うん、このまま隣で一緒に歩くね。",
+      "user_at_s": 13.970277786254883,
+      "playback_at_s": 16.945356369018555,
+      "providers": [
+        {
+          "provider": "gpt_sovits",
+          "voice_id": "roxy3"
+        }
+      ],
+      "native_tools": [],
+      "playback_finished": true,
+      "tts_underrun_events": 0,
+      "fallback_events": []
+    },
+    {
+      "demo_turn": 3,
+      "user_text": "少し前を走ってくれる？短く返事して。",
+      "speech": "了解、前を走るね。",
+      "user_at_s": 30.65126609802246,
+      "playback_at_s": 34.85444641113281,
+      "providers": [
+        {
+          "provider": "gpt_sovits",
+          "voice_id": "roxy3"
+        }
+      ],
+      "native_tools": [
+        {
+          "tool": "spatial.lead",
+          "status": "Accepted",
+          "dispatch_scope": "dispatch_only",
+          "validated": true,
+          "unity_result_http_200": true,
+          "backend_result_received": true,
+          "tool_choice": [
+            "auto"
+          ]
+        }
+      ],
+      "playback_finished": true,
+      "tts_underrun_events": 0,
+      "fallback_events": []
+    },
+    {
+      "demo_turn": 4,
+      "user_text": "私に向かって手を振ってくれる？短く返事して。",
+      "speech": "うん、手を振るね。",
+      "user_at_s": 56.30657196044922,
+      "playback_at_s": 61.13816833496094,
+      "providers": [
+        {
+          "provider": "gpt_sovits",
+          "voice_id": "roxy3"
+        }
+      ],
+      "native_tools": [
+        {
+          "tool": "gesture.wave",
+          "status": "Accepted",
+          "dispatch_scope": "dispatch_only",
+          "validated": true,
+          "unity_result_http_200": true,
+          "backend_result_received": true,
+          "tool_choice": [
+            "auto"
+          ]
+        }
+      ],
+      "playback_finished": true,
+      "tts_underrun_events": 0,
+      "fallback_events": []
+    }
+  ],
+  "lip_sync_peak_activity": 0.8,
+  "visual_gain": "NOT SHOWN; HUD correctly indicates unavailable motion source",
+  "sampled_visual_review": "Whole timeline contact sheet plus consecutive Wave details; owner full audiovisual preview remains required",
+  "permissions": "Private author replies retained; map/HUD-font/output-rights review remains required",
+  "published": false,
+  "map_provenance": {
+    "meadow_dependency_count": 41,
+    "asset_roots": {
+      "AnimeStraightTrack": 41
+    },
+    "simple_nature_or_easyroads_dependencies": [],
+    "unresolved_external_guid_count": 0,
+    "scope": "Meadow prefab dependency graph, not every disabled asset installed in project"
+  },
+  "cleanup": {
+    "temporary_driver_in_assets": false,
+    "scene_dirty_on_exit": false,
+    "missing_scripts_on_exit": 0,
+    "adapter_references_complete": true,
+    "monitored_original_files": 137,
+    "changed": 0,
+    "cleanup_cs_errors": 0
+  },
+  "subjective_audio_review": "Owner preview required; finite decoded samples/continuity checked, not independent subjective listening certification."
+}
