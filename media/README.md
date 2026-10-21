@@ -1,6 +1,9 @@
 # Demo — owner-reviewed Desktop interaction
 
-[![Demo thumbnail](demo-thumbnail.png)](VR_Embodied_AI_Companion_Demo_JA.mp4)
+[![Demo thumbnail](demo-thumbnail.png)](https://raw.githubusercontent.com/26vr026p-panyu/VR-Embodied-AI-Companion/main/media/VR_Embodied_AI_Companion_Demo_JA.mp4)
+
+GitHub does not inline-preview this MP4 in its file browser; the thumbnail links directly to the verified MP4 download.
+
 
 New continuous Desktop Unity recording,66.9s,1280×720,15fps,H.264/AAC. Japanese preset-text inputs and virtual movement are disclosed. Real DeepSeek native Lead/Wave calls, Unity validation, Orchestrator execution and returned ToolResults; current Roxy3 streaming playback and LipSync. No physical-microphone, exercise-sensor or Quest/HRTF claim. Visual Gain is not shown.
 

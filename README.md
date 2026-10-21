@@ -10,7 +10,10 @@ The research direction is **state-dependent exercise support**, including prelim
 
 ## Demo Video — Desktop runtime
 
-[![New Desktop Demo](media/demo-thumbnail.png)](media/VR_Embodied_AI_Companion_Demo_JA.mp4)
+[![New Desktop Demo](media/demo-thumbnail.png)](https://raw.githubusercontent.com/26vr026p-panyu/VR-Embodied-AI-Companion/main/media/VR_Embodied_AI_Companion_Demo_JA.mp4)
+
+GitHub does not inline-preview this MP4 in its file browser; the thumbnail links directly to the verified MP4 download.
+
 
 **66.9s · Japanese text conversation · native Lead/Wave tool-result loop · live Roxy3 streaming voice/LipSync · Side walking and Run.** New continuous Unity recording; preset text and virtual movement disclosed onscreen. Not physical ASR, exercise-sensor or Quest/HRTF validation. Preliminary Visual Gain remains a research feature and is not shown. [Technical review](media/demo-review.md) · [Evidence](docs/demo-evidence.json).
 

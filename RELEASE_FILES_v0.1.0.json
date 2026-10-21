@@ -610,8 +610,8 @@
     },
     {
       "path": "media/README.md",
-      "bytes": 1302,
-      "sha256": "038846dde326e36ff1102f74721d9ee9478866196e24a3ffc4b387b7a8d3f8e2"
+      "bytes": 1512,
+      "sha256": "06b73b9b16665edf3ea35ed639fc519369ea4e8ed39b3e13876980d0914161e8"
     },
     {
       "path": "media/VR_Embodied_AI_Companion_Demo_JA.mp4",
@@ -655,13 +655,13 @@
     },
     {
       "path": "README.md",
-      "bytes": 9495,
-      "sha256": "d8f1b8bb24c163c81f6086a91d495d0299e2aae94d4cb5a71686fe6a237128b1"
+      "bytes": 9699,
+      "sha256": "b0dac59d1ccb2626ae45fbaa0b5f877ac576a6d96d788d303701d43f1f2b3bf6"
     },
     {
       "path": "README_ja.md",
-      "bytes": 8161,
-      "sha256": "332e9b6751d9f3ef9be6ac1683b9f77b63ab8e451326c61e0198e6a76948eb5a"
+      "bytes": 8417,
+      "sha256": "aa7628b16349a3c0dbd158ae7ea45fcceca7f7d18e6677b39f2ec9978bb39fab"
     },
     {
       "path": "RELEASE_CANDIDATE_FILES.json",

@@ -8,7 +8,10 @@ AIが実行時の状態を観測し、利用可能な意味的アクションを
 
 ## デモ動画 — Desktop実行
 
-[![新規Desktopデモ](media/demo-thumbnail.png)](media/VR_Embodied_AI_Companion_Demo_JA.mp4)
+[![新規Desktopデモ](media/demo-thumbnail.png)](https://raw.githubusercontent.com/26vr026p-panyu/VR-Embodied-AI-Companion/main/media/VR_Embodied_AI_Companion_Demo_JA.mp4)
+
+GitHubのファイル画面はこのMP4をインライン表示しないため、サムネイルは検証済みMP4の直接ダウンロードへリンクしています。
+
 
 **66.9秒・日本語テキスト会話・Native Tool Callingによる先導／Waveと結果返却・実際のRoxy3ストリーミング音声／口パク・伴走と走行。** 同一Unity Playの新規連続録画です。定型テキストと仮想移動を明示し、実マイクASR・運動センサー・Quest/HRTF検証として扱いません。予備的Visual Gainは研究機能ですが、この動画では実演していません。[技術説明](media/demo-review.md)・[記録](docs/demo-evidence.json)。
 
