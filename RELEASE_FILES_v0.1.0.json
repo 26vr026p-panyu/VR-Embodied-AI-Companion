@@ -660,8 +660,8 @@
     },
     {
       "path": "README_ja.md",
-      "bytes": 8528,
-      "sha256": "51983c2cb2de7d0666c950015adb3bdd6c14386c10455cac1005b7a7be553459"
+      "bytes": 8161,
+      "sha256": "332e9b6751d9f3ef9be6ac1683b9f77b63ab8e451326c61e0198e6a76948eb5a"
     },
     {
       "path": "RELEASE_CANDIDATE_FILES.json",

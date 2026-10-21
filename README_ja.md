@@ -46,7 +46,7 @@ flowchart LR
 
 **Desktopで検証したプロトタイプであり、Quest PCVRの実機検証は部分的です。**
 
-**Public demo pending final asset review; contacted model-modifier and voice-publisher replies verified for the described portfolio use.** モデル改造者・音声モデル公開者の当該用途への同意は確認済みですが、背景・フォント・プライバシー等の最終確認が残るため、動画はまだ非公開です。[Tool Callingの流れ](docs/tool-calling.md)と[脱個人化した実測値](eval/evidence/pcvr-performance-2026-10-21.json)を掲載しています。図を実行映像に見せかけたり、動画リンクを作ったりはしていません。
+**所有者確認済みのDesktopデモを同梱しています。** モデル改造者・Roxy3公開者の同意は説明された用途の範囲で確認済みです。私信原本と元モデル・重みは配布しません。
 
 | 区分 | 状態 |
 |---|---|
