@@ -48,7 +48,7 @@ This is an independent, unofficial technical portfolio. Demo speech uses AI synt
 
 **Desktop-validated prototype with partial Quest PCVR hardware validation.**
 
-**Owner-reviewed Desktop Demo with contacted model-modifier and voice-publisher permissions confirmed for the described use.** Explore the [tool lifecycle](docs/tool-calling.md) and [real sanitized metrics](eval/evidence/pcvr-performance-2026-10-21.json) instead; these are technical evidence, not footage.
+**Owner-reviewed Desktop Demo with contacted model-modifier and voice-publisher permissions confirmed for the described use.** Explore the [tool lifecycle](docs/tool-calling.md) and [real sanitized metrics](eval/evidence/pcvr-performance-2026-10-21.json) alongside the video; these are technical evidence, not footage.
 
 Portfolio v0.1: **Source-code Showcase + Architecture Reference**, not a turnkey Unity project. [Setup boundaries](docs/setup.md) · [License decision](LICENSE_OPTIONS.md). Exact repository/release status and remote checks are recorded in the P6 publication report.
 
@@ -93,12 +93,13 @@ backend/            selected Python application, providers and evaluation harnes
 eval/               sanitized aggregate evidence
 docs/               architecture, validation and release boundaries
 portfolio/          English / Japanese / Chinese application material
-media/              no unapproved avatar/voice footage
+media/              owner-reviewed Desktop MP4, thumbnail and technical review
 ```
 
-## Media clearance details
+## Media and license scope
 
-A private Desktop recording exists, but the contacted model-modifier and Roxy3-publisher consents for the described use are verified, while final scene/font/privacy and footage review remains pending. **No public demo is bundled and no video URL is fabricated.** It is not Quest Standalone evidence. [Media review](media/README.md).
+The owner reviewed and approved the exact Desktop Demo and the selected source for publication. Contacted model-modifier and Roxy3-publisher permissions cover the described portfolio use; the project remains independent and unofficial. Private authorization originals, character assets, voice weights and reference/training recordings are not redistributed. [Media review](media/demo-review.md) · [MIT scope](docs/LICENSE_SCOPE.md) · [Credits](docs/THIRD_PARTY_NOTICES.md).
+
 
 ## Reproducing safely
 
@@ -108,6 +109,6 @@ Visual Gain is preliminary infrastructure, **not evidence of improved exercise p
 
 ## Public test subset
 
-P2 contract run: **68 PASS /11 SKIP**, exit0, using unchanged assertions and authentic sanitized historical evidence. This is not full-system verification. [Exact command, prior failure and all skip reasons](docs/evaluation.md). Clean installation and the stripped Unity project's compilation remain unverified.
+Latest P6 contract run (2026-10-22 JST): **68 PASS /11 SKIP**, exit0, using unchanged assertions and authentic sanitized historical evidence. This is not full-system verification. [Exact command, prior failure and all skip reasons](docs/evaluation.md). Clean installation and the stripped Unity project's compilation remain unverified.
 
-[P4 authorization and Demo review](PORTFOLIO_P4_FINAL_REVIEW.md). Private affirmative replies are preserved without publishing screenshots; source assets/weights remain excluded.
+[Verified authorization metadata](docs/authorization-evidence.json) and [current Demo review](media/demo-review.md). Private affirmative replies are preserved without publishing screenshots; source assets/weights remain excluded.

@@ -86,3 +86,7 @@ Observe → Decide → Act → Evaluate → Adaptを目指しますが、LLMが�
 Unityには元のScene接続、SDK、利用許可のある素材が必要です。公開版のUnityコンパイル・Play、依存関係のクリーンインストールは未検証。所有者確認済みのMITは権限のあるオリジナルソースのみに適用します。[制約](docs/limitations.md) · [権利確認](LICENSE_OPTIONS.md)
 
 [P4許諾記録・デモ審査](PORTFOLIO_P4_FINAL_REVIEW.md)。肯定的な私信は画像を公開せず記録し、素材・モデル重みは引き続き除外しています。
+
+## 公開メディアとライセンス
+
+所有者が正確な動画・ソース範囲を確認して公開を承認しました。コードは[限定されたMIT範囲](docs/LICENSE_SCOPE.md)、描画された第三者素材は独立した条件です。私信原本、モデル、重み、参照音声・訓練データは配布していません。[Credits](docs/THIRD_PARTY_NOTICES.md)。

@@ -1,6 +1,7 @@
 {
-  "scope": "Initial v0.1.0 release files; P5 manifest retained as historical approval baseline. Publication verification report may follow as docs-only commit.",
+  "scope": "v0.1.0 release tree; P5 approval manifest retained as historical baseline. Later docs-only publication verification may follow on main.",
   "self_entry": "Size/SHA omitted to avoid recursive self-hash",
+  "count": 280,
   "files": [
     {
       "path": ".env.example",
@@ -654,18 +655,23 @@
     },
     {
       "path": "README.md",
-      "bytes": 9239,
-      "sha256": "0a847a345eba90e92d8e17f6b2d3b52a6c505280b954b0fd607bfc2e50e78604"
+      "bytes": 9495,
+      "sha256": "d8f1b8bb24c163c81f6086a91d495d0299e2aae94d4cb5a71686fe6a237128b1"
     },
     {
       "path": "README_ja.md",
-      "bytes": 8130,
-      "sha256": "e10b9484bd77d9f62c58226786671d93ecbce0691d963b7a0c2d8e242a029c6c"
+      "bytes": 8528,
+      "sha256": "51983c2cb2de7d0666c950015adb3bdd6c14386c10455cac1005b7a7be553459"
     },
     {
       "path": "RELEASE_CANDIDATE_FILES.json",
       "bytes": 51305,
       "sha256": "f90a432f3de5d1a83f3c488001ac52bc70ffd3feb914f06ae072138e93240214"
+    },
+    {
+      "path": "RELEASE_FILES_v0.1.0.json",
+      "bytes": null,
+      "sha256": null
     },
     {
       "path": "security_scan_summary.md",
@@ -1396,12 +1402,6 @@
       "path": "unity/README.md",
       "bytes": 1023,
       "sha256": "0273fc6bad4bf854de4dde03717b1a8d95c4dac01165370766ec0623858acb32"
-    },
-    {
-      "path": "RELEASE_FILES_v0.1.0.json",
-      "bytes": null,
-      "sha256": null
     }
-  ],
-  "count": 280
+  ]
 }
